@@ -1,0 +1,1 @@
+# Smartgift Collection Mapping Algorithm
