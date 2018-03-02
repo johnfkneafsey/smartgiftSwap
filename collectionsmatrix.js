@@ -1,4 +1,5 @@
 let collections = [
+
     {
         "categoryId": "400071996",
         "identifier": "GiftoftheMonth-SignatureCollections-Web-18f",
@@ -96,29 +97,22 @@ let collections = [
     {
         "categoryId": "400136986",
         "identifier": "14101",
-        "name": "Save $10 Sitewide",
+        "name": "Save Up to 40%",
         "seoURL": "flowers-gifts-14101",
-        "guidedNavFlag": "1"
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400136987",
         "identifier": "14102",
-        "name": "Save $10 Sitewide",
+        "name": "Bright & Festive Flowers",
         "seoURL": "flowers-gifts-14102",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400136988",
         "identifier": "14103",
-        "name": "Save $10 Sitewide",
+        "name": "Home Décor to Deck Your Halls",
         "seoURL": "flowers-gifts-14103",
-        "guidedNavFlag": "1"
-    },
-    {
-        "categoryId": "400136989",
-        "identifier": "14104",
-        "name": "Save $10 Sitewide",
-        "seoURL": "flowers-gifts-14104",
         "guidedNavFlag": "1"
     },
     {
@@ -126,6 +120,13 @@ let collections = [
         "identifier": "18F-Birthday-Best-Sellers-400190482",
         "name": "Best-Selling Birthday Gifts",
         "seoURL": "best-selling-birthday-gifts-400190482",
+        "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400136989",
+        "identifier": "14104",
+        "name": "Signature Holiday Plants",
+        "seoURL": "flowers-gifts-14104",
         "guidedNavFlag": "1"
     },
     {
@@ -193,7 +194,7 @@ let collections = [
     {
         "categoryId": "400136990",
         "identifier": "14105",
-        "name": "Save $10 Sitewide",
+        "name": "Gourmet Food & Gift Baskets",
         "seoURL": "flowers-gifts-14105",
         "guidedNavFlag": "1"
     },
@@ -228,7 +229,7 @@ let collections = [
     {
         "categoryId": "400136995",
         "identifier": "14110",
-        "name": "FRIENDS & FAMILY SALE",
+        "name": "Save 25% on Our Best Selling Gifts ",
         "seoURL": "flowers-gifts-14110",
         "guidedNavFlag": "1"
     },
@@ -257,14 +258,14 @@ let collections = [
     {
         "categoryId": "400190495",
         "identifier": "18F-UNT-400190495",
-        "name": "Save 25% on Mom's Favorites",
+        "name": "Valentine's Free Shipping/No Service Charge",
         "seoURL": "save-400190495",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400190499",
         "identifier": "18F-UNT-Offer-400190499",
-        "name": "Save 25% on Mom's Favorites",
+        "name": "Save 20% For Valentine's",
         "seoURL": "save-400190499",
         "guidedNavFlag": "1"
     },
@@ -510,7 +511,7 @@ let collections = [
     {
         "categoryId": "400075508",
         "identifier": "12747",
-        "name": "Save 25% ",
+        "name": "Order Early & Save 25% off for VDAY ",
         "seoURL": "save25-12747",
         "guidedNavFlag": "0",
         "seoSearchable": "0",
@@ -636,6 +637,13 @@ let collections = [
         "startDate": "31-Dec-1899"
     },
     {
+        "categoryId": "400185993",
+        "identifier": "18F-Tulips-400185993",
+        "name": "Tulip Festival",
+        "seoURL": "tulips-for-sale",
+        "guidedNavFlag": "2"
+    },
+    {
         "categoryId": "400075520",
         "identifier": "12830",
         "name": "Flowers",
@@ -651,13 +659,6 @@ let collections = [
         "name": "Christmas Fruit Arrangements",
         "seoURL": "christmas-fruit-arrangements-400182000",
         "guidedNavFlag": "1"
-    },
-    {
-        "categoryId": "400185993",
-        "identifier": "18F-Tulips-400185993",
-        "name": "Tulip Festival",
-        "seoURL": "tulips-for-sale",
-        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400075521",
@@ -905,7 +906,7 @@ let collections = [
     {
         "categoryId": "400075562",
         "identifier": "11540",
-        "name": "Valentine’s Day Luxury Flowers & Gifts",
+        "name": "Valentine's Luxury Flowers & Gifts",
         "seoURL": "luxury-flowers-gifts-11540",
         "guidedNavFlag": "2",
         "seoSearchable": "1",
@@ -956,12 +957,11 @@ let collections = [
     {
         "categoryId": "400075567",
         "identifier": "12379",
-        "name": "Easter- Fruit Bouquets",
+        "name": "Easter Fruit Bouquets",
         "seoURL": "fruitbouquets /easter-12379",
-        "guidedNavFlag": "2",
-        "seoSearchable": "1",
+        "guidedNavFlag": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
-        "redirectUrl": "/easter-fruit-arrangements-400113015",
         "startDate": "31-Dec-1899"
     },
     {
@@ -970,14 +970,14 @@ let collections = [
         "name": "Fruit Bouquet",
         "seoURL": "fruitbouquets",
         "guidedNavFlag": "2",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
     },
     {
         "categoryId": "400075569",
         "identifier": "12234",
-        "name": "Fruit Bouquets- Valentine's Day",
+        "name": "Valentine's Day Fruit Bouquets",
         "seoURL": "fruitbouquets /valentinesday-12234",
         "guidedNavFlag": "2",
         "seoSearchable": "0",
@@ -1245,7 +1245,7 @@ let collections = [
     {
         "categoryId": "400108985",
         "identifier": "13359",
-        "name": "Save 25% for Thanksgiving Centerpieces",
+        "name": "20% off Forbes",
         "seoURL": "flowers-gifts-13359",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -1277,7 +1277,7 @@ let collections = [
     {
         "categoryId": "400108989",
         "identifier": "13363",
-        "name": "Save up to 40%",
+        "name": "Save 15% BirthYAY",
         "seoURL": "flowers-gifts-13363",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -1397,7 +1397,7 @@ let collections = [
     {
         "categoryId": "400108991",
         "identifier": "13365",
-        "name": "Save up to 40% - No Promo Code Required",
+        "name": "Plus: Gorgeous Gifts for Every Day of the Year!",
         "seoURL": "flowers-gifts-13365",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -1727,6 +1727,13 @@ let collections = [
         "redirectUrl": "florist-delivered-mixed-floral-142188"
     },
     {
+        "categoryId": "400189501",
+        "identifier": "18F-Subcollection-400189501",
+        "name": "Special of The Day",
+        "seoURL": "sale-400189501",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400077334",
         "identifier": "18f-Sitemap",
         "name": "Site Map - 1-800-FLOWERS.COM",
@@ -1735,13 +1742,6 @@ let collections = [
         "seoSearchable": "1",
         "priceConfig": "0",
         "startDate": "15-Feb-2007"
-    },
-    {
-        "categoryId": "400189501",
-        "identifier": "18F-Subcollection-400189501",
-        "name": "Special of The Day",
-        "seoURL": "sale-400189501",
-        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400077335",
@@ -2655,6 +2655,7 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/canada",
         "startDate": "31-Dec-1899"
     },
     {
@@ -2730,9 +2731,9 @@ let collections = [
     {
         "categoryId": "400181621",
         "identifier": "18F-Shoprunner Offer-400181621",
-        "name": "20% off Thanksgiving Centerpieces",
+        "name": "Shoprunner Save 15%",
         "seoURL": "shoprunner-400181621",
-        "guidedNavFlag": "1"
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400181623",
@@ -2841,6 +2842,7 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/canada",
         "startDate": "31-Dec-1899"
     },
     {
@@ -3378,7 +3380,7 @@ let collections = [
     {
         "categoryId": "400110494",
         "identifier": "12839",
-        "name": "Save 20% - Deliver by 2/13 - Promo Code VDAYEARLY20",
+        "name": "Save 20% For Valentine's",
         "seoURL": "valentines-offers-12839",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -3425,7 +3427,7 @@ let collections = [
     {
         "categoryId": "400182994",
         "identifier": "18F-Flowers-Gifts-400182994",
-        "name": "Color of the Year 2017: Green",
+        "name": "Color of the Year 2018: Purple",
         "seoURL": "flower-color-trends",
         "guidedNavFlag": "2",
         "seoSearchable": "1"
@@ -3509,6 +3511,14 @@ let collections = [
         "seoURL": "npp-10107"
     },
     {
+        "categoryId": "400200482",
+        "identifier": "18F-Gifts for Bae-400200482",
+        "name": "Flowers & Gifts For Bae",
+        "seoURL": "gifts-for-bae",
+        "guidedNavFlag": "2",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400158498",
         "identifier": "14283",
         "name": "Loving Blooms™ by Lenox",
@@ -3579,7 +3589,7 @@ let collections = [
     {
         "categoryId": "400064988",
         "identifier": "1006",
-        "name": "Love & Romance",
+        "name": "Romantic Flowers & Gifts",
         "seoURL": "loveandromance",
         "guidedNavFlag": "1",
         "seoSearchable": "1",
@@ -3950,7 +3960,7 @@ let collections = [
     {
         "categoryId": "400195484",
         "identifier": "18F-Email-400195484",
-        "name": "Your Choice Roses",
+        "name": "Hurry! Shop more Valentine's flowers & gifts below.",
         "seoURL": "flowers-gifts-400195484",
         "guidedNavFlag": "2"
     },
@@ -3964,7 +3974,7 @@ let collections = [
     {
         "categoryId": "400195485",
         "identifier": "18F-Email-400195485",
-        "name": "Your Choice Roses",
+        "name": "Shop Our Rose Authority Offers!",
         "seoURL": "flowers-gifts-400195485",
         "guidedNavFlag": "2"
     },
@@ -4082,7 +4092,7 @@ let collections = [
         "name": "Funeral Standing Baskets",
         "seoURL": "sympathy /funeralstandingbaskets-12176",
         "guidedNavFlag": "1",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
     },
@@ -4462,6 +4472,7 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/canada",
         "startDate": "31-Dec-1899"
     },
     {
@@ -4556,15 +4567,6 @@ let collections = [
         "startDate": "31-Dec-1899"
     },
     {
-        "categoryId": "400076111",
-        "identifier": "2096-4",
-        "name": "International - Fun Facts",
-        "seoURL": "international-fun-facts",
-        "guidedNavFlag": "0",
-        "seoSearchable": "1",
-        "priceConfig": "0"
-    },
-    {
         "categoryId": "400077442",
         "identifier": "12156",
         "name": "Valentine's Day Gifts for Kids",
@@ -4573,6 +4575,15 @@ let collections = [
         "seoSearchable": "1",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
+    },
+    {
+        "categoryId": "400076111",
+        "identifier": "2096-4",
+        "name": "International - Fun Facts",
+        "seoURL": "international-fun-facts",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1",
+        "priceConfig": "0"
     },
     {
         "categoryId": "400166982",
@@ -4609,6 +4620,15 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
+        "categoryId": "400077444",
+        "identifier": "10764",
+        "name": "Valentine's Chocolates & Candy",
+        "seoURL": "valentines-chocolate-sweet-delivery",
+        "guidedNavFlag": "1",
+        "seoSearchable": "1",
+        "startDate": "31-Dec-1899"
+    },
+    {
         "categoryId": "400076113",
         "identifier": "10689",
         "name": "International - Argentina",
@@ -4616,15 +4636,6 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
-        "startDate": "31-Dec-1899"
-    },
-    {
-        "categoryId": "400077444",
-        "identifier": "10764",
-        "name": "Valentine's Chocolates & Sweets",
-        "seoURL": "valentines-chocolate-sweet-delivery",
-        "guidedNavFlag": "1",
-        "seoSearchable": "1",
         "startDate": "31-Dec-1899"
     },
     {
@@ -4640,7 +4651,7 @@ let collections = [
     {
         "categoryId": "400077445",
         "identifier": "10183",
-        "name": "Valentines Flowers & Gifts",
+        "name": "All Valentine's Day Flowers & Gifts",
         "seoURL": "valentinesday",
         "guidedNavFlag": "1",
         "seoSearchable": "1",
@@ -4667,7 +4678,7 @@ let collections = [
     {
         "categoryId": "400077446",
         "identifier": "10595",
-        "name": "Valentine’s Day Gifts for Him",
+        "name": "Valentine's Day Gifts for Him",
         "seoURL": "valentines-gift-for-him-delivery",
         "guidedNavFlag": "2",
         "seoSearchable": "1",
@@ -4694,7 +4705,7 @@ let collections = [
     {
         "categoryId": "400077447",
         "identifier": "10592",
-        "name": "Valentine's Flowers Arrangements",
+        "name": "Valentine's Day Flowers Arrangements",
         "seoURL": "valentines-flower-delivery",
         "guidedNavFlag": "1",
         "seoSearchable": "1",
@@ -4717,7 +4728,7 @@ let collections = [
         "name": "Valentine’s Day Flower & Plant Gifts",
         "seoURL": "valentines-day-flowers-and-plants-",
         "guidedNavFlag": "2",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
     },
@@ -4839,7 +4850,7 @@ let collections = [
     {
         "categoryId": "400077451",
         "identifier": "10590",
-        "name": "Valentine's Roses ",
+        "name": "Valentine's Roses",
         "seoURL": "valentines-rose-delivery",
         "guidedNavFlag": "1",
         "seoSearchable": "1",
@@ -4994,9 +5005,9 @@ let collections = [
     {
         "categoryId": "400077457",
         "identifier": "10833",
-        "name": "Valentine's Day Gifts Under $50",
+        "name": "Valentine's Gifts Under 50",
         "seoURL": "valentines-gifts-under-50-delivery",
-        "guidedNavFlag": "0",
+        "guidedNavFlag": "2",
         "seoSearchable": "1",
         "priceConfig": "0",
         "startDate": "31-Dec-1899"
@@ -5017,7 +5028,7 @@ let collections = [
         "name": "Valentines Flowers",
         "seoURL": "valentines-flower-with-shipping",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
     },
@@ -5034,7 +5045,7 @@ let collections = [
     {
         "categoryId": "400077459",
         "identifier": "10596",
-        "name": "Valentines Teddy Bears & Stuffed Animals",
+        "name": "Valentine's Day Teddy Bears & Stuffed Animals",
         "seoURL": "valentines-teddy-bears-delivery",
         "guidedNavFlag": "1",
         "seoSearchable": "1",
@@ -5085,7 +5096,7 @@ let collections = [
     {
         "categoryId": "400077460",
         "identifier": "12831",
-        "name": "Same Day Valentines Flowers & Gifts",
+        "name": "Same-Day Valentine’s Gift Delivery",
         "seoURL": "valentines-same-day-12831",
         "guidedNavFlag": "1",
         "seoSearchable": "1",
@@ -5105,7 +5116,7 @@ let collections = [
     {
         "categoryId": "400077461",
         "identifier": "12777",
-        "name": "Valentine's Jewelry",
+        "name": "Valentine's Day Jewelry",
         "seoURL": "valentines-jewelry-keepsake-gifts-12777",
         "guidedNavFlag": "2",
         "seoSearchable": "1",
@@ -5145,7 +5156,7 @@ let collections = [
     {
         "categoryId": "400077463",
         "identifier": "10589",
-        "name": "Valentine's Plants",
+        "name": "Valentine's Day Plants",
         "seoURL": "valentines-plant-delivery",
         "guidedNavFlag": "1",
         "seoSearchable": "1",
@@ -5174,6 +5185,14 @@ let collections = [
         "startDate": "31-Dec-1899"
     },
     {
+        "categoryId": "400178984",
+        "identifier": "14407",
+        "name": "Best-Selling Birthday Gifts",
+        "seoURL": "best-selling-birthday-gifts",
+        "guidedNavFlag": "1",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400076134",
         "identifier": "10700",
         "name": "International - Greece",
@@ -5189,17 +5208,9 @@ let collections = [
         "name": "The Soul Mate",
         "seoURL": "timelesslove",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
-    },
-    {
-        "categoryId": "400178984",
-        "identifier": "14407",
-        "name": "Best-Selling Birthday Gifts",
-        "seoURL": "best-selling-birthday-gifts",
-        "guidedNavFlag": "1",
-        "seoSearchable": "1"
     },
     {
         "categoryId": "400076135",
@@ -5625,6 +5636,7 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/international-flower-delivery",
         "startDate": "31-Dec-1899"
     },
     {
@@ -5722,6 +5734,16 @@ let collections = [
         "startDate": "31-Dec-1899"
     },
     {
+        "categoryId": "400076155",
+        "identifier": "10708",
+        "name": "International - Peru",
+        "seoURL": "peru",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1",
+        "priceConfig": "1",
+        "startDate": "31-Dec-1899"
+    },
+    {
         "categoryId": "400077486",
         "identifier": "11971",
         "name": "Pink and White Wedding Flowers",
@@ -5730,16 +5752,6 @@ let collections = [
         "seoSearchable": "1",
         "priceConfig": "1",
         "redirectUrl": "/wedding",
-        "startDate": "31-Dec-1899"
-    },
-    {
-        "categoryId": "400076155",
-        "identifier": "10708",
-        "name": "International - Peru",
-        "seoURL": "peru",
-        "guidedNavFlag": "0",
-        "seoSearchable": "1",
-        "priceConfig": "1",
         "startDate": "31-Dec-1899"
     },
     {
@@ -5906,7 +5918,7 @@ let collections = [
     {
         "categoryId": "400118491",
         "identifier": "13618",
-        "name": "Save $10 on $39.99",
+        "name": "Chocolates & Sweets from $19.99 ",
         "seoURL": "food-gifts-13618",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -6341,7 +6353,15 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/england",
         "startDate": "31-Dec-1899"
+    },
+    {
+        "categoryId": "400199000",
+        "identifier": "18F-INTL-Armenia-400199000",
+        "name": "International - Armenia",
+        "seoURL": "armenia",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400076185",
@@ -6354,6 +6374,13 @@ let collections = [
         "startDate": "31-Dec-1899"
     },
     {
+        "categoryId": "400199001",
+        "identifier": "18F-INTL-Antigua-400199001",
+        "name": "International - Antigua",
+        "seoURL": "antigua",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400076186",
         "identifier": "12627",
         "name": "England - Hampers",
@@ -6361,7 +6388,15 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/england",
         "startDate": "31-Dec-1899"
+    },
+    {
+        "categoryId": "400199002",
+        "identifier": "18F-INTL-Azerbaijan-400199002",
+        "name": "International - Azerbaijan",
+        "seoURL": "azerbaijan",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400076187",
@@ -6371,7 +6406,15 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/england",
         "startDate": "31-Dec-1899"
+    },
+    {
+        "categoryId": "400199003",
+        "identifier": "18F-INTL-Benin-400199003",
+        "name": "International - Benin",
+        "seoURL": "benin",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400076188",
@@ -6381,7 +6424,15 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/england",
         "startDate": "31-Dec-1899"
+    },
+    {
+        "categoryId": "400199004",
+        "identifier": "18F-INTL-Belize-400199004",
+        "name": "International - Belize",
+        "seoURL": "belize",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400076189",
@@ -6394,12 +6445,47 @@ let collections = [
         "startDate": "31-Dec-1899"
     },
     {
+        "categoryId": "400199005",
+        "identifier": "18F-INTL-Bahrain-400199005",
+        "name": "International - Bahrain",
+        "seoURL": "bahrain",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199006",
+        "identifier": "18F-INTL-Belarus-400199006",
+        "name": "International - Belarus",
+        "seoURL": "belarus",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199007",
+        "identifier": "18F-INTL-Bermuda-400199007",
+        "name": "International - Bermuda",
+        "seoURL": "bermuda",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199008",
+        "identifier": "18F-INTL-Botswana-400199008",
+        "name": "International - Botswana",
+        "seoURL": "botswana",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400090482",
         "identifier": "12976",
         "name": "Same-Day Get Well",
         "seoURL": "get-well-same-day-flower-delivery",
         "guidedNavFlag": "1",
         "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400199009",
+        "identifier": "18F-INTL-Cook Islands-400199009",
+        "name": "International - Cook Islands",
+        "seoURL": "cook-islands",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400090483",
@@ -6441,6 +6527,7 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/england",
         "startDate": "31-Dec-1899"
     },
     {
@@ -6471,6 +6558,7 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/england",
         "startDate": "31-Dec-1899"
     },
     {
@@ -6481,7 +6569,15 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/england",
         "startDate": "31-Dec-1899"
+    },
+    {
+        "categoryId": "400199010",
+        "identifier": "18F-INTL-Cayman Islands-400199010",
+        "name": "International - Cayman Islands",
+        "seoURL": "cayman-islands",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400076195",
@@ -6491,7 +6587,15 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/england",
         "startDate": "31-Dec-1899"
+    },
+    {
+        "categoryId": "400199011",
+        "identifier": "18F-INTL-Cyprus-400199011",
+        "name": "International - Cyprus",
+        "seoURL": "cyprus",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400076196",
@@ -6504,6 +6608,13 @@ let collections = [
         "startDate": "31-Dec-1899"
     },
     {
+        "categoryId": "400199012",
+        "identifier": "18F-INTL-Eritrea-400199012",
+        "name": "International - Eritrea",
+        "seoURL": "eritrea",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400076197",
         "identifier": "12773",
         "name": "England - Floral Baskets",
@@ -6514,6 +6625,13 @@ let collections = [
         "startDate": "31-Dec-1899"
     },
     {
+        "categoryId": "400199013",
+        "identifier": "18F-INTL-Estonia-400199013",
+        "name": "International - Estonia",
+        "seoURL": "estonia",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400076198",
         "identifier": "12887",
         "name": "England - Easter",
@@ -6521,7 +6639,15 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/england",
         "startDate": "31-Dec-1899"
+    },
+    {
+        "categoryId": "400199014",
+        "identifier": "18F-INTL-Ethiopia-400199014",
+        "name": "International - Ethiopia",
+        "seoURL": "ethiopia",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400076199",
@@ -6532,6 +6658,41 @@ let collections = [
         "seoSearchable": "1",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
+    },
+    {
+        "categoryId": "400199015",
+        "identifier": "18F-INTL-Fiji-400199015",
+        "name": "International - Fiji",
+        "seoURL": "fiji",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199016",
+        "identifier": "18F-INTL-Faroe Islands-400199016",
+        "name": "International - Faroe Islands",
+        "seoURL": "faroe-islands",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199017",
+        "identifier": "18F-INTL-Gabon-400199017",
+        "name": "International - Gabon",
+        "seoURL": "gabon",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199018",
+        "identifier": "18F-INTL-Georgia-400199018",
+        "name": "International - Georgia",
+        "seoURL": "georgia",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199019",
+        "identifier": "18F-INTL-Guernsey-400199019",
+        "name": "International - Guernsey",
+        "seoURL": "guernsey",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400090498",
@@ -6548,10 +6709,193 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
+        "categoryId": "400199020",
+        "identifier": "18F-INTL-Greenland-400199020",
+        "name": "International - Greenland",
+        "seoURL": "greenland",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199021",
+        "identifier": "18F-INTL-Jordan-400199021",
+        "name": "International - Jordan",
+        "seoURL": "jordan",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199022",
+        "identifier": "18F-INTL-Kazakhstan-400199022",
+        "name": "International - Kazakhstan",
+        "seoURL": "kazakhstan",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199023",
+        "identifier": "18F-INTL-Kenya-400199023",
+        "name": "International - Kenya",
+        "seoURL": "kenya",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199024",
+        "identifier": "18F-INTL-Cambodia-400199024",
+        "name": "International - Cambodia",
+        "seoURL": "cambodia",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199025",
+        "identifier": "18F-INTL-Latvia-400199025",
+        "name": "International - Latvia",
+        "seoURL": "latvia",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199026",
+        "identifier": "18F-INTL-Lithuania-400199026",
+        "name": "International - Lithuania",
+        "seoURL": "lithuania",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199027",
+        "identifier": "18F-INTL-Lebanon-400199027",
+        "name": "International - Lebanon",
+        "seoURL": "lebanon",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199028",
+        "identifier": "18F-INTL-Macau-400199028",
+        "name": "International - Macau",
+        "seoURL": "macau",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199029",
+        "identifier": "18F-INTL-Malawi-400199029",
+        "name": "International - Malawi",
+        "seoURL": "malawi",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199030",
+        "identifier": "18F-INTL-Mauritius-400199030",
+        "name": "International - Mauritius",
+        "seoURL": "mauritius",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199031",
+        "identifier": "18F-INTL-Namibia-400199031",
+        "name": "International - Namibia",
+        "seoURL": "namibia",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199032",
+        "identifier": "18F-INTL-Nicaragua-400199032",
+        "name": "International - Nicaragua",
+        "seoURL": "nicaragua",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199033",
+        "identifier": "18F-INTL-Mozambique-400199033",
+        "name": "International - Mozambique",
+        "seoURL": "mozambique",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199034",
+        "identifier": "18F-INTL-Monaco-400199034",
+        "name": "International - Monaco",
+        "seoURL": "monaco",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199036",
+        "identifier": "18F-INTL-Oman-400199036",
+        "name": "International - Oman",
+        "seoURL": "oman",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199037",
+        "identifier": "18F-INTL-Palau-400199037",
+        "name": "International - Palau",
+        "seoURL": "palau",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199039",
+        "identifier": "18F-INTL-Qatar-400199039",
+        "name": "International - Qatar",
+        "seoURL": "qatar",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199041",
+        "identifier": "18F-Sympathy-Article-Tesh-Grieving-Holidays-400199041",
+        "name": "John Tesh: Grief During the Holidays",
+        "seoURL": "john-tesh-grief-during-the-holidays",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400155482",
         "identifier": "14261",
         "name": "JetBlue",
         "seoURL": "jetblue-14261",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199042",
+        "identifier": "18F-Sym-SCI-Article-Tesh-Grieving-Holidays-400199042",
+        "name": "John Tesh: Grief During the Holidays ",
+        "seoURL": "john-tesh-grief-during-the-holidays-400199042",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199043",
+        "identifier": "18F-Sympathy-Article-Tesh-Etiquette-Social-400199043",
+        "name": "Social Media Etiquette for Sympathy ",
+        "seoURL": "sympathy-social-media-etiquette",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400199044",
+        "identifier": "18F-Sym-SCI-Article-Tesh-Etiquette-Social-400199044",
+        "name": "Social Media Etiquette for Sympathy",
+        "seoURL": "sympathy-social-media-etiquette-400199044",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199045",
+        "identifier": "18F-Sympathy-Article-Lia-Grief-Holidays-400199045",
+        "name": "Grief During the Holidays",
+        "seoURL": "lia-knight-grief-during-the-holidays",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199046",
+        "identifier": "18F-Sym-SCI-Article-Lia-Grief-Holidays-400199046",
+        "name": "Grief During the Holidays",
+        "seoURL": "lia-knight-grief-during-the-holidays-400199046",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199047",
+        "identifier": "18F-Sympathy-Article-Lia-Pets-400199047",
+        "name": "Expressing Sympathy for Pets",
+        "seoURL": "lia-knight-pet-sympathy",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199048",
+        "identifier": "18F-Sym-SCI-Article-Lia-Pets-400199048",
+        "name": "Expressing Sympathy for Pets",
+        "seoURL": "lia-knight-pet-sympathy-400199048",
         "guidedNavFlag": "0"
     },
     {
@@ -6560,6 +6904,13 @@ let collections = [
         "name": "Lockheed Martin",
         "seoURL": "lockheed-martin-14306",
         "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199049",
+        "identifier": "18F-Berrylicious-400199049",
+        "name": "Berrylicious Berries Starting at 19.99",
+        "seoURL": "berrylicious-400199049",
+        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400158514",
@@ -6590,6 +6941,20 @@ let collections = [
         "seoURL": "eo-online-marketing-director",
         "seoSearchable": "1",
         "redirectUrl": "/about-us-employment-opportunities"
+    },
+    {
+        "categoryId": "400200517",
+        "identifier": "18F-SEM-Flowers-Gifts-400200517",
+        "name": "Best Sellers",
+        "seoURL": "flowers-gifts-400200517",
+        "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400200518",
+        "identifier": "18F-Valentine Personalized Gifts-400200518",
+        "name": "Personalized Valentines Gifts",
+        "seoURL": "customized-valentines-gifts",
+        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400167482",
@@ -7080,6 +7445,13 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
+        "categoryId": "400192482",
+        "identifier": "18F-UNT-Offer-400192482",
+        "name": "Free Shipping/ No Service Charge",
+        "seoURL": "save-400192482",
+        "guidedNavFlag": "1"
+    },
+    {
         "categoryId": "400138989",
         "identifier": "14149",
         "name": "Harry & David",
@@ -7087,16 +7459,9 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
-        "categoryId": "400192482",
-        "identifier": "18F-UNT-Offer-400192482",
-        "name": "20% Off Graduation Favorites",
-        "seoURL": "save-400192482",
-        "guidedNavFlag": "1"
-    },
-    {
         "categoryId": "400192483",
         "identifier": "18F-UNT-Offer-400192483",
-        "name": "Save up to 40% Off Graduation Gifts",
+        "name": "Save up to 40% on Valentine's Flowers & Gifts",
         "seoURL": "save-400192483",
         "guidedNavFlag": "1"
     },
@@ -7217,7 +7582,8 @@ let collections = [
         "identifier": "18F-Local-City-Minneapolis-400195519",
         "name": "Minneapolis Flowers & Gifts",
         "seoURL": "local /mn /minneapolis-flower-delivery",
-        "guidedNavFlag": "2"
+        "guidedNavFlag": "2",
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400135000",
@@ -7340,14 +7706,12 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
-        "categoryId": "400094005",
-        "identifier": "Flowers_Global_Alternate_Category",
-        "name": "Flowers_Global_Alternate_Category",
-        "seoURL": "flowers-global-alternate-category",
+        "categoryId": "400195524",
+        "identifier": "18F-Local-City-Columbus-400195524",
+        "name": "Columbus Flowers & Gifts",
+        "seoURL": "local /oh /columbus-flower-delivery",
         "guidedNavFlag": "2",
-        "seoSearchable": "0",
-        "priceConfig": "1",
-        "startDate": "31-Dec-1899"
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400192499",
@@ -7357,12 +7721,14 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
-        "categoryId": "400195524",
-        "identifier": "18F-Local-City-Columbus-400195524",
-        "name": "Columbus Flowers & Gifts",
-        "seoURL": "local /oh /columbus-flower-delivery",
+        "categoryId": "400094005",
+        "identifier": "Flowers_Global_Alternate_Category",
+        "name": "Flowers_Global_Alternate_Category",
+        "seoURL": "flowers-global-alternate-category",
         "guidedNavFlag": "2",
-        "seoSearchable": "1"
+        "seoSearchable": "0",
+        "priceConfig": "1",
+        "startDate": "31-Dec-1899"
     },
     {
         "categoryId": "400195525",
@@ -7381,20 +7747,20 @@ let collections = [
         "seoSearchable": "1"
     },
     {
-        "categoryId": "400094008",
-        "identifier": "13146",
-        "name": "Free Shipping / No Service Charge",
-        "seoURL": "free-shipping-13146",
-        "guidedNavFlag": "1",
-        "seoSearchable": "0"
-    },
-    {
         "categoryId": "400195527",
         "identifier": "18F-Local-City-Fort Worth-400195527",
         "name": "Fort Worth Flowers & Gifts",
         "seoURL": "local /tx /fort-worth-flower-delivery",
         "guidedNavFlag": "2",
         "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400094008",
+        "identifier": "13146",
+        "name": "Free Shipping / No Service Charge",
+        "seoURL": "free-shipping-13146",
+        "guidedNavFlag": "1",
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400195528",
@@ -7452,7 +7818,7 @@ let collections = [
     {
         "categoryId": "400135019",
         "identifier": "14085",
-        "name": "Unique & Personalized Valentine Gifts",
+        "name": "Personalized Valentines Gifts & Keepsakes",
         "seoURL": "personalized-unique-valentines-day-gifts",
         "guidedNavFlag": "1",
         "seoSearchable": "1"
@@ -7587,10 +7953,45 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
+        "categoryId": "400201000",
+        "identifier": "18F-AFF-Flowers-Gifts-400201000",
+        "name": "AFF New 6",
+        "seoURL": "flowers-gifts-400201000",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400201002",
+        "identifier": "18F-BGS-400201002",
+        "name": "XBOX",
+        "seoURL": "flowers-gifts-400201002",
+        "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400201003",
+        "identifier": "18F-PZU-400201003",
+        "name": "Acorns",
+        "seoURL": "personalized-gifts-400201003",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400201007",
+        "identifier": "18F-BGS-AAA National-400201007",
+        "name": "AAA National",
+        "seoURL": "aaa-national-400201007",
+        "guidedNavFlag": "2"
+    },
+    {
         "categoryId": "400160000",
         "identifier": "Flowers Subcollection-400160000",
         "name": "Flowers Subcollection",
         "seoURL": "flowers-subcollection-400160000",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400201008",
+        "identifier": "18F-Canada-400201008",
+        "name": "Canada",
+        "seoURL": "canada-flowers-gifts-400201008",
         "guidedNavFlag": "0"
     },
     {
@@ -8072,6 +8473,7 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/england",
         "startDate": "31-Dec-1899"
     },
     {
@@ -8252,6 +8654,13 @@ let collections = [
         "seoSearchable": "1"
     },
     {
+        "categoryId": "400199992",
+        "identifier": "18F-Customer Testimonial-400199992",
+        "name": "Terry's Customer Testimonial",
+        "seoURL": "customer-testimonial-terry",
+        "guidedNavFlag": "2"
+    },
+    {
         "categoryId": "400076210",
         "identifier": "12320",
         "name": "Trey Songz",
@@ -8316,7 +8725,7 @@ let collections = [
     {
         "categoryId": "400160066",
         "identifier": "14335",
-        "name": "Save up to 50%",
+        "name": "Valentine's Day Starting at $39.99",
         "seoURL": "flowers-gifts-14335",
         "guidedNavFlag": "0"
     },
@@ -8326,6 +8735,13 @@ let collections = [
         "name": "Collection Test 6",
         "seoURL": "collection-test-6",
         "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400199997",
+        "identifier": "18F-Passport 1999 Mobile-400199997",
+        "name": "$19.99 Passport",
+        "seoURL": "passport-flowers-1999",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400076214",
@@ -8340,7 +8756,7 @@ let collections = [
     {
         "categoryId": "400160067",
         "identifier": "14336",
-        "name": "Save 30% on Plants",
+        "name": "20% Off for New Customers",
         "seoURL": "flowers-plants-gifts-14336",
         "guidedNavFlag": "0"
     },
@@ -8357,6 +8773,13 @@ let collections = [
         "identifier": "18F-Collection-Test-400196004",
         "name": "Collection Test 7",
         "seoURL": "collection-test-7",
+        "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400196005",
+        "identifier": "18F-Collection-Test-400196005",
+        "name": "Collection Test 8",
+        "seoURL": "collection-test-8",
         "guidedNavFlag": "1"
     },
     {
@@ -8382,13 +8805,6 @@ let collections = [
         "seoURL": "succulent-care",
         "guidedNavFlag": "0",
         "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400196005",
-        "identifier": "18F-Collection-Test-400196005",
-        "name": "Collection Test 8",
-        "seoURL": "collection-test-8",
-        "guidedNavFlag": "1"
     },
     {
         "categoryId": "400198668",
@@ -8648,15 +9064,7 @@ let collections = [
         "name": "How to Support Someone Who Is Grieving",
         "seoURL": "sympathy-how-to-comfort-someone-who-is-grieving",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400196015",
-        "identifier": "18F-Local-City-Naples-400196015",
-        "name": "Naples Flowers & Gifts",
-        "seoURL": "local /fl /naples-flower-delivery",
-        "guidedNavFlag": "2",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400198677",
@@ -8666,10 +9074,10 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
-        "categoryId": "400196016",
-        "identifier": "18F-Local-City-St Louis-400196016",
-        "name": "St Louis Flowers & Gifts ",
-        "seoURL": "local /mo /st-louis-flower-delivery",
+        "categoryId": "400196015",
+        "identifier": "18F-Local-City-Naples-400196015",
+        "name": "Naples Flowers & Gifts",
+        "seoURL": "local /fl /naples-flower-delivery",
         "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
@@ -8681,12 +9089,27 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
+        "categoryId": "400196016",
+        "identifier": "18F-Local-City-St Louis-400196016",
+        "name": "St Louis Flowers & Gifts ",
+        "seoURL": "local /mo /st-louis-flower-delivery",
+        "guidedNavFlag": "2",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400196017",
         "identifier": "18F-Local-City-Pittsburgh-400196017",
         "name": "Pittsburgh Flowers & Gifts",
         "seoURL": "local /pa /pittsburgh-flower-delivery",
         "guidedNavFlag": "2",
         "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198679",
+        "identifier": "18F-Sym-SCI-Article-Get Well Isnt Appropriate-400198679",
+        "name": "What to Say When “Get Well” Isn’t Appropriate",
+        "seoURL": "sympathy-when-get-well-isnt-appropriate-400198679",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400076227",
@@ -8697,13 +9120,6 @@ let collections = [
         "seoSearchable": "1",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
-    },
-    {
-        "categoryId": "400198679",
-        "identifier": "18F-Sym-SCI-Article-Get Well Isnt Appropriate-400198679",
-        "name": "What to Say When “Get Well” Isn’t Appropriate",
-        "seoURL": "sympathy-when-get-well-isnt-appropriate-400198679",
-        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400196018",
@@ -8729,7 +9145,7 @@ let collections = [
         "name": "Flash Sale",
         "seoURL": "flashsale",
         "guidedNavFlag": "2",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400196019",
@@ -8826,17 +9242,17 @@ let collections = [
         "seoSearchable": "1"
     },
     {
-        "categoryId": "400160081",
-        "identifier": "14340",
-        "name": "Botanical Garden",
-        "seoURL": "botanical-garden-14340",
-        "guidedNavFlag": "0"
-    },
-    {
         "categoryId": "400198680",
         "identifier": "18F-Sym-SCI-Article-Veteran Condolences-400198680",
         "name": "How to Express Condolences for a Veteran",
         "seoURL": "sympathy-expressing-condolences-for-veterans-400198680",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400160081",
+        "identifier": "14340",
+        "name": "Botanical Garden",
+        "seoURL": "botanical-garden-14340",
         "guidedNavFlag": "0"
     },
     {
@@ -8896,6 +9312,13 @@ let collections = [
         "seoSearchable": "1"
     },
     {
+        "categoryId": "400184042",
+        "identifier": "18F-Vday Flowers-400184042",
+        "name": "Valentine's Flowers",
+        "seoURL": "valentines-flowers-400184042",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400076231",
         "identifier": "11436",
         "name": "Featured Offers",
@@ -8912,10 +9335,10 @@ let collections = [
         "seoURL": "justbecause-web-18f"
     },
     {
-        "categoryId": "400184042",
-        "identifier": "18F-Vday Flowers-400184042",
-        "name": "Valentine's Flowers",
-        "seoURL": "valentines-flowers-400184042",
+        "categoryId": "400184043",
+        "identifier": "18F-Vday Roses-400184043",
+        "name": "Valentine's Roses",
+        "seoURL": "valentines-roses-400184043",
         "guidedNavFlag": "0"
     },
     {
@@ -8953,13 +9376,6 @@ let collections = [
         "seoURL": "local /il /park-ridge-flower-delivery",
         "guidedNavFlag": "2",
         "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400184043",
-        "identifier": "18F-Vday Roses-400184043",
-        "name": "Valentine's Roses",
-        "seoURL": "valentines-roses-400184043",
-        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400196023",
@@ -9207,8 +9623,8 @@ let collections = [
     {
         "categoryId": "400090536",
         "identifier": "13134",
-        "name": "Save Up to 50%",
-        "seoURL": "save-up-50p-13134",
+        "name": "Save up to 50% for Valentine's Day ",
+        "seoURL": "flowers-gifts-13134",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
     },
@@ -9345,7 +9761,7 @@ let collections = [
     {
         "categoryId": "400184053",
         "identifier": "18F-Email-400184053",
-        "name": "Save 15% Sitewide",
+        "name": "More Holiday Favorites",
         "seoURL": "flowers-gifts-400184053",
         "guidedNavFlag": "2"
     },
@@ -9615,7 +10031,7 @@ let collections = [
         "name": "Miniature Garden",
         "seoURL": "miniature-garden",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400090553",
@@ -9623,7 +10039,7 @@ let collections = [
         "name": "Grow Your Own Herbs",
         "seoURL": "grow-your-own-herbs",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400090554",
@@ -9631,7 +10047,7 @@ let collections = [
         "name": "How to Plant a Tree",
         "seoURL": "how-to-plant-a-tree",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400090555",
@@ -9639,7 +10055,7 @@ let collections = [
         "name": "Green Plants: How They Clean the Air",
         "seoURL": "green-plants:-how-they-clean-the-air",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400090556",
@@ -9647,7 +10063,7 @@ let collections = [
         "name": "Helpful Gardening Tips",
         "seoURL": "helpful-gardening-tips",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400090557",
@@ -9761,7 +10177,7 @@ let collections = [
         "name": "Americana",
         "seoURL": "americana-11769",
         "guidedNavFlag": "1",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
     },
@@ -9841,7 +10257,7 @@ let collections = [
         "name": "Americana - American Lifestyle",
         "seoURL": "americana-americanlifestyle-11794",
         "guidedNavFlag": "2",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
     },
@@ -10131,7 +10547,7 @@ let collections = [
     {
         "categoryId": "400111982",
         "identifier": "13455",
-        "name": "$15 off $39.99 Groupon Holiday Exclusive",
+        "name": "Save 20% for Easter",
         "seoURL": "flowers-gifts-13455",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -10174,6 +10590,13 @@ let collections = [
         "seoSearchable": "0"
     },
     {
+        "categoryId": "400179504",
+        "identifier": "14408",
+        "name": "Ritani Jewelry",
+        "seoURL": "ritani-14408",
+        "guidedNavFlag": "1"
+    },
+    {
         "categoryId": "400090580",
         "identifier": "Platinum Sub25-Web-18f",
         "name": "The Platinum Collection - Subcollection 25",
@@ -10181,10 +10604,10 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
-        "categoryId": "400179504",
-        "identifier": "14408",
+        "categoryId": "400179505",
+        "identifier": "14410",
         "name": "Ritani Jewelry",
-        "seoURL": "ritani-14408",
+        "seoURL": "ritani-14410",
         "guidedNavFlag": "1"
     },
     {
@@ -10202,10 +10625,10 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
-        "categoryId": "400179505",
-        "identifier": "14410",
+        "categoryId": "400179506",
+        "identifier": "14409",
         "name": "Ritani Jewelry",
-        "seoURL": "ritani-14410",
+        "seoURL": "ritani-14409",
         "guidedNavFlag": "1"
     },
     {
@@ -10214,13 +10637,6 @@ let collections = [
         "name": "The Platinum Collection - Subcollection 27",
         "seoURL": "the-platinum-collection---subcollection-27",
         "guidedNavFlag": "0"
-    },
-    {
-        "categoryId": "400179506",
-        "identifier": "14409",
-        "name": "Ritani Jewelry",
-        "seoURL": "ritani-14409",
-        "guidedNavFlag": "1"
     },
     {
         "categoryId": "400090583",
@@ -11142,6 +11558,14 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
+        "categoryId": "400201982",
+        "identifier": "18F-Nineteenth Amendment-400201982",
+        "name": "Nineteenth Amendment",
+        "seoURL": "nineteenth-amendment",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400159999",
         "identifier": "Test Collection-MBC-400159999",
         "name": "MBC New Test Main",
@@ -11166,6 +11590,13 @@ let collections = [
         "identifier": "18F-Flowers-Gifts-400192561",
         "name": "National Education Association",
         "seoURL": "flowers-gifts-400192561",
+        "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400201990",
+        "identifier": "18F-Shonduras-400201990",
+        "name": "Shonduras",
+        "seoURL": "shonduras",
         "guidedNavFlag": "2"
     },
     {
@@ -11333,7 +11764,8 @@ let collections = [
         "identifier": "18F_XPS-GWYN",
         "name": "Gift When You Need",
         "seoURL": "gwyn-1800flowers",
-        "guidedNavFlag": "0"
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400074506",
@@ -11857,11 +12289,41 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
+        "categoryId": "400198705",
+        "identifier": "18F-UNT-Offer-400198705",
+        "name": "Cyber Monday Deals",
+        "seoURL": "flowers-gifts-400198705",
+        "guidedNavFlag": "2"
+    },
+    {
         "categoryId": "400181039",
         "identifier": "18F-Sym-SCI-Gallery-400181039",
         "name": "Sympathy Gallery",
         "seoURL": "sympathy-gallery-music-400181039",
         "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198706",
+        "identifier": "18F-Sympathy-Article-Memory-Gardens-400198706",
+        "name": "Memory Gardens from Around the World",
+        "seoURL": "popular-memory-gardens",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198707",
+        "identifier": "18F-Sym-SCI-Article-Memory-Gardens-400198707",
+        "name": "Memory Gardens from Around the World",
+        "seoURL": "popular-memory-gardens-400198707",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198709",
+        "identifier": "18F-Three Kings Day-400198709",
+        "name": "Three Kings Day",
+        "seoURL": "three-kings-day-gifts",
+        "guidedNavFlag": "2",
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400127540",
@@ -11874,7 +12336,7 @@ let collections = [
     {
         "categoryId": "400127541",
         "identifier": "13825",
-        "name": "Save 20%* Sitewide - Promo Code ITSAPARTY",
+        "name": "Save 25% Sitewide",
         "seoURL": "flowers-gifts-13825",
         "guidedNavFlag": "2",
         "seoSearchable": "0"
@@ -11910,6 +12372,21 @@ let collections = [
         "seoURL": "flowers-gifts-13829",
         "guidedNavFlag": "2",
         "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400198710",
+        "identifier": "18F-Sympathy-Article-Pets-400198710",
+        "name": "Pet Sympathy",
+        "seoURL": "sympathy-for-pets",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198711",
+        "identifier": "18F-Sym-SCI-Article-Pets-400198711",
+        "name": "Pet Sympathy",
+        "seoURL": "sympathy-for-pets-400198711",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400098527",
@@ -11954,7 +12431,7 @@ let collections = [
     {
         "categoryId": "400127555",
         "identifier": "13832",
-        "name": "Save 20% on Last Minute Gifts",
+        "name": "Valentine's Spectacular",
         "seoURL": "flowers-gifts-13832",
         "guidedNavFlag": "2",
         "seoSearchable": "0"
@@ -11962,7 +12439,7 @@ let collections = [
     {
         "categoryId": "400127556",
         "identifier": "13833",
-        "name": "Free Shipping/No Service Charge-Email",
+        "name": "Save Up to 50%*",
         "seoURL": "flowers-gifts-13833",
         "guidedNavFlag": "2",
         "seoSearchable": "0"
@@ -11970,7 +12447,7 @@ let collections = [
     {
         "categoryId": "400127557",
         "identifier": "13834",
-        "name": "Free Shipping/No Service Charge-Email",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "flowers-gifts-13834",
         "guidedNavFlag": "2",
         "seoSearchable": "0"
@@ -11978,7 +12455,7 @@ let collections = [
     {
         "categoryId": "400127558",
         "identifier": "13835",
-        "name": "Free Shipping/No Service Charge-Email",
+        "name": "Friends and Family",
         "seoURL": "flowers-gifts-13835",
         "guidedNavFlag": "2",
         "seoSearchable": "0"
@@ -11994,7 +12471,7 @@ let collections = [
     {
         "categoryId": "400127559",
         "identifier": "13836",
-        "name": "Free Shipping/No Service Charge-Email",
+        "name": "20% off Gift Baskets",
         "seoURL": "flowers-gifts-13836",
         "guidedNavFlag": "2",
         "seoSearchable": "0"
@@ -12056,7 +12533,7 @@ let collections = [
     {
         "categoryId": "400127561",
         "identifier": "13837",
-        "name": "Save 20% Sitewide",
+        "name": "Save Up to 50%",
         "seoURL": "flowers-gifts-13837",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -12064,7 +12541,7 @@ let collections = [
     {
         "categoryId": "400127562",
         "identifier": "13838",
-        "name": "Free Shipping/ No Service Charge for Christmas",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "flowers-gifts-13838",
         "guidedNavFlag": "2",
         "seoSearchable": "0"
@@ -12080,7 +12557,7 @@ let collections = [
     {
         "categoryId": "400127564",
         "identifier": "13840",
-        "name": "Save $10 on Holiday Plants",
+        "name": "$15 off $59.99 or more | $10 off $39.99 or more",
         "seoURL": "flowers-gifts-13840",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -12096,7 +12573,7 @@ let collections = [
     {
         "categoryId": "400127566",
         "identifier": "13842",
-        "name": "$10 Off $39.99+ or $15 Off $59.99+ - Promo Codes PICK10 & PICK15",
+        "name": "Save Up to 50%",
         "seoURL": "flowers-gifts-13842",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -12135,7 +12612,7 @@ let collections = [
     {
         "categoryId": "400127570",
         "identifier": "13846",
-        "name": "$10 Off $39.99+ or $15 Off $59.99+ - Promo Codes PICK10 & PICK15",
+        "name": "Save $12 sitewide",
         "seoURL": "flowers-gifts-13846",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -12143,7 +12620,7 @@ let collections = [
     {
         "categoryId": "400127571",
         "identifier": "13847",
-        "name": "Save $10",
+        "name": "25% off $49.99 or more | 20% off $39.99 or more",
         "seoURL": "flowers-gifts-13847",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -12151,7 +12628,7 @@ let collections = [
     {
         "categoryId": "400127572",
         "identifier": "13848",
-        "name": "Save 15% Sitewide",
+        "name": "Save 20% Sitewide",
         "seoURL": "flowers-gifts-13848",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -12159,7 +12636,7 @@ let collections = [
     {
         "categoryId": "400127573",
         "identifier": "13849",
-        "name": "Free Shipping/ No Service Charge",
+        "name": "Save 15%* Sitewide",
         "seoURL": "flowers-gifts-13849",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -12167,7 +12644,7 @@ let collections = [
     {
         "categoryId": "400127574",
         "identifier": "13850",
-        "name": "Save 15% Off Sitewide",
+        "name": "20% Off* Sitewide",
         "seoURL": "flowers-gifts-13850",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -12183,9 +12660,9 @@ let collections = [
     {
         "categoryId": "400181079",
         "identifier": "18F-UNT-Offer-400181079",
-        "name": "Save 25% Christmas",
+        "name": "$15 Off Valentine's 2/12 Delivery",
         "seoURL": "save-400181079",
-        "guidedNavFlag": "1",
+        "guidedNavFlag": "2",
         "seoSearchable": "0"
     },
     {
@@ -12431,7 +12908,7 @@ let collections = [
     {
         "categoryId": "400127590",
         "identifier": "13860",
-        "name": "Save $10 Sitewide",
+        "name": "Save 30%",
         "seoURL": "flowers-gifts-13860",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -12484,6 +12961,13 @@ let collections = [
         "seoSearchable": "0"
     },
     {
+        "categoryId": "400202494",
+        "identifier": "18F-BGS-Subcollection-400202494",
+        "name": "Featured Roses",
+        "seoURL": "subcollection-400202494",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400127595",
         "identifier": "13866",
         "name": "Free Shipping/No Service Charge",
@@ -12500,12 +12984,26 @@ let collections = [
         "seoSearchable": "0"
     },
     {
+        "categoryId": "400202495",
+        "identifier": "18F-BGS-400202495",
+        "name": "Marcus Theaters",
+        "seoURL": "flowers-gifts-400202495",
+        "guidedNavFlag": "2"
+    },
+    {
         "categoryId": "400127597",
         "identifier": "13867",
         "name": "Free Shipping/No Service Charge",
         "seoURL": "flowers-gifts-13867",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400202496",
+        "identifier": "18F-Subcollection-400202496",
+        "name": "Customer Favorites",
+        "seoURL": "subcollection-400202496",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400127598",
@@ -12981,7 +13479,7 @@ let collections = [
     {
         "categoryId": "400119990",
         "identifier": "13630",
-        "name": "Grandparents Day – Gift with Purchase",
+        "name": "Valentine's Day Retail Me Not Exclusive",
         "seoURL": "flowers-gifts-13630",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -13172,6 +13670,13 @@ let collections = [
         "guidedNavFlag": "2"
     },
     {
+        "categoryId": "400176527",
+        "identifier": "18F-SCI-Cremation-Flowers-Gifts-400176527",
+        "name": "SCI Cremation All Sympathy Gifts to the Home or Office",
+        "seoURL": "all-sympathy-flowers-gifts-400176527",
+        "guidedNavFlag": "2"
+    },
+    {
         "categoryId": "400075008",
         "identifier": "4901-8",
         "name": "Father's Day Rules",
@@ -13181,13 +13686,6 @@ let collections = [
         "priceConfig": "0"
     },
     {
-        "categoryId": "400176527",
-        "identifier": "18F-SCI-Cremation-Flowers-Gifts-400176527",
-        "name": "SCI Cremation All Sympathy Gifts to the Home or Office",
-        "seoURL": "all-sympathy-flowers-gifts-400176527",
-        "guidedNavFlag": "2"
-    },
-    {
         "categoryId": "400176528",
         "identifier": "18F-SCI-Cremation-Flowers-Vase-400176528",
         "name": "SCI Cremation Sympathy Vase Arrangements",
@@ -13195,17 +13693,17 @@ let collections = [
         "guidedNavFlag": "2"
     },
     {
-        "categoryId": "400090630",
-        "identifier": "Anniversary-Content-Web-18f",
-        "name": "Anniversary-Content-Web-18f",
-        "seoURL": "anniversary-content-web-18f"
-    },
-    {
         "categoryId": "400176529",
         "identifier": "18F-SCI-Cremation-Flower-Baskets-400176529",
         "name": "SCI Cremation Sympathy Flower Baskets",
         "seoURL": "flower-baskets-400176529",
         "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400090630",
+        "identifier": "Anniversary-Content-Web-18f",
+        "name": "Anniversary-Content-Web-18f",
+        "seoURL": "anniversary-content-web-18f"
     },
     {
         "categoryId": "400090631",
@@ -13666,7 +14164,7 @@ let collections = [
     {
         "categoryId": "400075037",
         "identifier": "10437",
-        "name": "Save 20% Sitewide",
+        "name": "Save 25% Sitewide",
         "seoURL": "email-10437",
         "guidedNavFlag": "1",
         "seoSearchable": "0",
@@ -13737,7 +14235,7 @@ let collections = [
     {
         "categoryId": "400075040",
         "identifier": "10739",
-        "name": "Free Shipping/ No Service Charge",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "free-ship-no-sc-10739",
         "guidedNavFlag": "2",
         "seoSearchable": "0",
@@ -13845,7 +14343,7 @@ let collections = [
     {
         "categoryId": "400128031",
         "identifier": "13813",
-        "name": "Save 15%*Sitewide! - Promo Code 15NOW",
+        "name": "Save 25% Sitewide",
         "seoURL": "flowers-gifts-13813",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -13853,7 +14351,7 @@ let collections = [
     {
         "categoryId": "400128032",
         "identifier": "13814",
-        "name": "Save 15%*Sitewide!",
+        "name": "Save 25% Sitewide",
         "seoURL": "flowers-gifts-13814",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -13861,7 +14359,7 @@ let collections = [
     {
         "categoryId": "400128033",
         "identifier": "13815",
-        "name": "Save 15%*Sitewide!",
+        "name": "Save 25% Sitewide",
         "seoURL": "flowers-gifts-13815",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -13869,7 +14367,7 @@ let collections = [
     {
         "categoryId": "400128034",
         "identifier": "13816",
-        "name": "Save 15%*Sitewide!",
+        "name": "Save 25% Sitewide",
         "seoURL": "flowers-gifts-13816",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -13877,7 +14375,7 @@ let collections = [
     {
         "categoryId": "400128035",
         "identifier": "13817",
-        "name": "Save 15%*Sitewide!",
+        "name": "Save 25% Sitewide",
         "seoURL": "flowers-gifts-13817",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -13885,7 +14383,7 @@ let collections = [
     {
         "categoryId": "400075050",
         "identifier": "10756",
-        "name": "Save 20% Sitewide",
+        "name": "Save 15% Sitewide",
         "seoURL": "email-10756",
         "guidedNavFlag": "1",
         "seoSearchable": "0",
@@ -13933,7 +14431,7 @@ let collections = [
     {
         "categoryId": "400075054",
         "identifier": "12691",
-        "name": "Save $15 Sitewide ",
+        "name": "More Valentine's Best Sellers",
         "seoURL": "email-12691",
         "guidedNavFlag": "1",
         "seoSearchable": "0",
@@ -13973,7 +14471,7 @@ let collections = [
     {
         "categoryId": "400075058",
         "identifier": "12713",
-        "name": "Save $15 Sitewide",
+        "name": "Sitewide Free Shipping/No Service Charge",
         "seoURL": "email-12713",
         "guidedNavFlag": "1",
         "seoSearchable": "0",
@@ -14170,7 +14668,7 @@ let collections = [
     {
         "categoryId": "400075071",
         "identifier": "12805",
-        "name": "Save Up to 40%",
+        "name": "Friends & Family Sale",
         "seoURL": "email-12805",
         "guidedNavFlag": "1",
         "seoSearchable": "0",
@@ -14205,7 +14703,7 @@ let collections = [
     {
         "categoryId": "400075073",
         "identifier": "12787",
-        "name": "Save 20%* on Bright Birthday Surprises!",
+        "name": "$5 Flat Rate Shipping/Service Charge",
         "seoURL": "email-12787",
         "guidedNavFlag": "2",
         "seoSearchable": "0",
@@ -14225,7 +14723,7 @@ let collections = [
     {
         "categoryId": "400075075",
         "identifier": "12789",
-        "name": "Save 20%* on Bright Birthday Surprises!",
+        "name": "Free Shipping/No Service Charge on Holiday Gifts",
         "seoURL": "email-12789",
         "guidedNavFlag": "2",
         "seoSearchable": "0",
@@ -14295,7 +14793,7 @@ let collections = [
     {
         "categoryId": "400075082",
         "identifier": "12814",
-        "name": "Save $15 Sitewide",
+        "name": "Sitewide Free Shipping/No Service Charge",
         "seoURL": "email-12814",
         "guidedNavFlag": "1",
         "seoSearchable": "0",
@@ -14305,7 +14803,7 @@ let collections = [
     {
         "categoryId": "400075083",
         "identifier": "12815",
-        "name": "Take 20% Off Sitewide",
+        "name": "Save 20%",
         "seoURL": "email-12815",
         "guidedNavFlag": "1",
         "seoSearchable": "0",
@@ -14433,7 +14931,7 @@ let collections = [
     {
         "categoryId": "400108484",
         "identifier": "12796",
-        "name": "Save up to 40% ",
+        "name": "Save 20% Sitewide",
         "seoURL": "email-12796",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -14449,7 +14947,7 @@ let collections = [
     {
         "categoryId": "400108487",
         "identifier": "13357",
-        "name": "Working Advantage - Save 25%-BGS",
+        "name": "Working Advantage - Save 25%",
         "seoURL": "working-advantage-13357",
         "guidedNavFlag": "2",
         "seoSearchable": "0"
@@ -14648,9 +15146,9 @@ let collections = [
     {
         "categoryId": "400067499",
         "identifier": "10684",
-        "name": "Sale",
+        "name": "Flowers on Sale",
         "seoURL": "flowersale",
-        "guidedNavFlag": "0",
+        "guidedNavFlag": "2",
         "seoSearchable": "1",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
@@ -14953,9 +15451,9 @@ let collections = [
     {
         "categoryId": "400133492",
         "identifier": "14067",
-        "name": "Graduation – 15%",
+        "name": "Save 20% off for Valentine's Day",
         "seoURL": "flowers-gifts-14067",
-        "guidedNavFlag": "1"
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400133493",
@@ -14970,6 +15468,13 @@ let collections = [
         "name": "Plant Sale Promotion",
         "seoURL": "plant-promotions-14229",
         "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400202500",
+        "identifier": "18F-Valentine-All-400202500",
+        "name": "All Valentine's Day Flowers & Gifts",
+        "seoURL": "valentinesday-400202500",
+        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400127606",
@@ -14988,8 +15493,15 @@ let collections = [
     {
         "categoryId": "400127608",
         "identifier": "13882",
-        "name": "Save 20% Sitewide",
+        "name": "Save $10 on Get Well Gifts",
         "seoURL": "flowers-gifts-13882",
+        "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400202508",
+        "identifier": "18F-Valentine-400202508",
+        "name": "All Valentine's Day Flowers & Gifts",
+        "seoURL": "valentine-400202508",
         "guidedNavFlag": "2"
     },
     {
@@ -14998,6 +15510,13 @@ let collections = [
         "name": "Save 20% Sitewide",
         "seoURL": "flowers-gifts-13883",
         "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400202509",
+        "identifier": "18F-Affiliate-400202509",
+        "name": "Special Valentine Offers",
+        "seoURL": "flowers-gifts-400202509",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400127610",
@@ -15009,7 +15528,7 @@ let collections = [
     {
         "categoryId": "400127611",
         "identifier": "13885",
-        "name": "Save 20% Sitewide",
+        "name": "Free Shipping / No Service Charge",
         "seoURL": "flowers-gifts-13885",
         "guidedNavFlag": "2"
     },
@@ -15023,37 +15542,45 @@ let collections = [
     {
         "categoryId": "400127613",
         "identifier": "13887",
-        "name": "Free Shipping/ No Service Charge",
+        "name": "Save a Sweet 20%* on Valentine's Baskets",
         "seoURL": "flowers-gifts-13887",
         "guidedNavFlag": "2"
     },
     {
         "categoryId": "400127614",
         "identifier": "13888",
-        "name": "Free Shipping/ No Service Charge",
+        "name": "Enjoy 20%, just because",
         "seoURL": "flowers-gifts-13888",
         "guidedNavFlag": "2"
     },
     {
         "categoryId": "400127615",
         "identifier": "13889",
-        "name": "Free Shipping/ No Service Charge",
+        "name": "Save 15% Sitewide",
         "seoURL": "flowers-gifts-13889",
         "guidedNavFlag": "2"
     },
     {
         "categoryId": "400127616",
         "identifier": "13890",
-        "name": "Free Shipping/ No Service Charge",
+        "name": "$15 Off Sitewide",
         "seoURL": "flowers-gifts-13890",
         "guidedNavFlag": "2"
     },
     {
         "categoryId": "400127617",
         "identifier": "13891",
-        "name": "Free Shipping/ No Service Charge",
+        "name": "Save 22% Sitewide",
         "seoURL": "flowers-gifts-13891",
         "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400202525",
+        "identifier": "18F-BirthYAY-400202525",
+        "name": "Happy BirthYAY!",
+        "seoURL": "happy-birthyay",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400072001",
@@ -15114,14 +15641,14 @@ let collections = [
     {
         "categoryId": "400128982",
         "identifier": "13899",
-        "name": "Save 15% Sitewide-Email",
+        "name": "Save 20% Sitewide",
         "seoURL": "flowers-gifts-13899",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400128983",
         "identifier": "13900",
-        "name": "Save 15% Sitewide-Email",
+        "name": "Save 20% Sitewide",
         "seoURL": "flowers-gifts-13900",
         "guidedNavFlag": "1"
     },
@@ -15135,7 +15662,7 @@ let collections = [
     {
         "categoryId": "400128985",
         "identifier": "13901",
-        "name": "Save 15% Sitewide-Email",
+        "name": "Save Up to 30% Sitewide",
         "seoURL": "flowers-gifts-13901",
         "guidedNavFlag": "1"
     },
@@ -15149,7 +15676,7 @@ let collections = [
     {
         "categoryId": "400128987",
         "identifier": "13902",
-        "name": "Save 15% Sitewide-Email",
+        "name": "Save Up to 30% Sitewide",
         "seoURL": "flowers-gifts-13902",
         "guidedNavFlag": "1"
     },
@@ -15307,7 +15834,7 @@ let collections = [
         "identifier": "13120",
         "name": "Flowers and Gifts from 1-800-flowers.com",
         "seoURL": "flowers-gift-sem-13120",
-        "guidedNavFlag": "0",
+        "guidedNavFlag": "2",
         "seoSearchable": "0"
     },
     {
@@ -15323,13 +15850,13 @@ let collections = [
         "identifier": "13481",
         "name": "American Cancer Society",
         "seoURL": "american-cancer-society-13481",
-        "guidedNavFlag": "0",
-        "seoSearchable": "0"
+        "guidedNavFlag": "2",
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400113041",
         "identifier": "13482",
-        "name": "Party Cakes",
+        "name": "Save $10 off $49.99 for Easter",
         "seoURL": "flowers-gifts-13482",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -15717,7 +16244,7 @@ let collections = [
     {
         "categoryId": "400162000",
         "identifier": "14360",
-        "name": "Save 15% for Christmas",
+        "name": "Save 15%",
         "seoURL": "flowers-and-gifts-14360",
         "guidedNavFlag": "0"
     },
@@ -16039,6 +16566,13 @@ let collections = [
         "startDate": "25-Mar-2013"
     },
     {
+        "categoryId": "400189984",
+        "identifier": "18F-Flowers-Gifts-400189984",
+        "name": "ClubJACK",
+        "seoURL": "flowers-gifts-400189984",
+        "guidedNavFlag": "2"
+    },
+    {
         "categoryId": "400076486",
         "identifier": "7005-7",
         "name": "Landing Page - American Express OPEN",
@@ -16047,13 +16581,6 @@ let collections = [
         "seoSearchable": "0",
         "priceConfig": "0",
         "startDate": "16-Jul-2008"
-    },
-    {
-        "categoryId": "400189984",
-        "identifier": "18F-Flowers-Gifts-400189984",
-        "name": "ClubJACK",
-        "seoURL": "flowers-gifts-400189984",
-        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400076487",
@@ -16134,7 +16661,7 @@ let collections = [
         "name": "Fresh Rewards Landing Page",
         "seoURL": "freshrewards",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "0",
         "startDate": "13-Apr-2009"
     },
@@ -16257,14 +16784,14 @@ let collections = [
     {
         "categoryId": "400129482",
         "identifier": "13908",
-        "name": "$15 off* Sitewide",
+        "name": "Shop More Holiday Best Sellers",
         "seoURL": "flowers-gifts-13908",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400129483",
         "identifier": "13909",
-        "name": "$15 off* Sitewide",
+        "name": "Double Your Holiday Bouquet for Free",
         "seoURL": "flowers-gifts-13909",
         "guidedNavFlag": "1"
     },
@@ -16285,7 +16812,7 @@ let collections = [
     {
         "categoryId": "400129486",
         "identifier": "13912",
-        "name": "$15 off* Sitewide",
+        "name": "Save 30% Sitewide",
         "seoURL": "flowers-gifts-13912",
         "guidedNavFlag": "1"
     },
@@ -16414,14 +16941,14 @@ let collections = [
     {
         "categoryId": "400129492",
         "identifier": "13918",
-        "name": "Save 20% Sitewide-Email",
+        "name": "25% off $59.99 or more | 20% off $39.99 or more",
         "seoURL": "flowers-gifts-13918",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400129493",
         "identifier": "13919",
-        "name": "Save 20% Sitewide-Email",
+        "name": "Save $10 on our Luxury Collection",
         "seoURL": "flowers-gifts-13919",
         "guidedNavFlag": "1"
     },
@@ -16442,7 +16969,7 @@ let collections = [
     {
         "categoryId": "400129496",
         "identifier": "13922",
-        "name": "Save 20% Sitewide-Email",
+        "name": "Save $10 Sitewide",
         "seoURL": "flowers-gifts-13922",
         "guidedNavFlag": "1"
     },
@@ -16477,7 +17004,7 @@ let collections = [
     {
         "categoryId": "400130482",
         "identifier": "13941",
-        "name": "20% Off Thanksgiving Centerpieces",
+        "name": "$10 off $49.99+ Valentine's Day ",
         "seoURL": "flowers-gifts-13941",
         "guidedNavFlag": "0"
     },
@@ -16491,7 +17018,7 @@ let collections = [
     {
         "categoryId": "400130483",
         "identifier": "13942",
-        "name": "Save 20% Plants – Mother’s Day",
+        "name": "Save up to 40% for Valentine's Day",
         "seoURL": "flowers-gifts-13942",
         "guidedNavFlag": "0"
     },
@@ -16561,14 +17088,14 @@ let collections = [
     {
         "categoryId": "400130496",
         "identifier": "13960",
-        "name": "Free Shipping/ No Service Charge",
+        "name": "Save 25% on Our Best Sellers",
         "seoURL": "flowers-gifts-13960",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400130497",
         "identifier": "13961",
-        "name": "Free Shipping/ No Service Charge",
+        "name": "More Best Sellers!",
         "seoURL": "flowers-gifts-13961",
         "guidedNavFlag": "1"
     },
@@ -16582,7 +17109,7 @@ let collections = [
     {
         "categoryId": "400142483",
         "identifier": "14190",
-        "name": "Save 20%* Sitewide",
+        "name": "Save 20% Sitewide",
         "seoURL": "flowers-gifts-14190",
         "guidedNavFlag": "1"
     },
@@ -16730,7 +17257,7 @@ let collections = [
     {
         "categoryId": "400198044",
         "identifier": "18F-Christmas-Gift-Hub-Subcollection-400198044",
-        "name": "Kissing Krystals Subcollection",
+        "name": "Truly Original Ornaments",
         "seoURL": "christmas-gift-hub-subcollection-400198044",
         "guidedNavFlag": "0"
     },
@@ -16880,10 +17407,52 @@ let collections = [
         "redirectUrl": "/about-us-employment-opportunities"
     },
     {
+        "categoryId": "400198082",
+        "identifier": "18F-Flowers-Gifts-400198082",
+        "name": "Save up to 40% on Roses",
+        "seoURL": "flowers-gifts-400198082",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198083",
+        "identifier": "18F-Flowers-Gifts-400198083",
+        "name": "Rose Bouquets Starting at $19.99",
+        "seoURL": "flowers-gifts-400198083",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198084",
+        "identifier": "18F-Flowers-Gifts-400198084",
+        "name": "Save 20% on Plants",
+        "seoURL": "flowers-gifts-400198084",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198085",
+        "identifier": "18F-Flowers-Gifts-400198085",
+        "name": "Save 20% on Sympathy Plants",
+        "seoURL": "flowers-gifts-400198085",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198086",
+        "identifier": "18F-Flowers-Gifts-400198086",
+        "name": "Valentine's Day Groupon Exclusive",
+        "seoURL": "flowers-gifts-400198086",
+        "guidedNavFlag": "2"
+    },
+    {
         "categoryId": "400178485",
         "identifier": "18F-Sym-SCI-Frequently-Asked-Questions-400178485",
         "name": "Commonly Asked Funeral Flower Questions",
         "seoURL": "Sympathy-Commonly-Asked-Questions-400178485",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198087",
+        "identifier": "18F-Flowers-Gifts-400198087",
+        "name": "New AFF DS 6",
+        "seoURL": "flowers-gifts-400198087",
         "guidedNavFlag": "0"
     },
     {
@@ -16927,6 +17496,13 @@ let collections = [
         "name": "Kevin U dataset",
         "seoURL": "kevin-u-dataset",
         "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400198090",
+        "identifier": "18F-BGS-HolidayCatalog-400198090",
+        "name": "Capital One Catalog",
+        "seoURL": "capitalone-surprise-and-delight",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400178490",
@@ -17141,6 +17717,13 @@ let collections = [
         "seoSearchable": "1"
     },
     {
+        "categoryId": "400191484",
+        "identifier": "18F-Sympathy-SCI-Religious-Faith-400191484",
+        "name": "Faith-Inspired Religious Gifts for Sympathy",
+        "seoURL": "sympathy-religious-gifts-400191484",
+        "guidedNavFlag": "1"
+    },
+    {
         "categoryId": "400096983",
         "identifier": "10157",
         "name": "All Sympathy Flowers & Gifts",
@@ -17149,13 +17732,6 @@ let collections = [
         "seoSearchable": "1",
         "priceConfig": "1",
         "redirectUrl": "/Sympathy"
-    },
-    {
-        "categoryId": "400191484",
-        "identifier": "18F-Sympathy-SCI-Religious-Faith-400191484",
-        "name": "Faith-Inspired Religious Gifts for Sympathy",
-        "seoURL": "sympathy-religious-gifts-400191484",
-        "guidedNavFlag": "1"
     },
     {
         "categoryId": "400191485",
@@ -17243,7 +17819,8 @@ let collections = [
         "name": "International Women’s Day Gifts to England",
         "seoURL": "international /england-women-s-day-13449",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
+        "seoSearchable": "1",
+        "redirectUrl": "/england"
     },
     {
         "categoryId": "400110050",
@@ -17286,10 +17863,33 @@ let collections = [
     {
         "categoryId": "400110069",
         "identifier": "12774",
-        "name": "Get a Free Decorative Banner with Select Bulbs!",
+        "name": "Get a FREE pair of gardening gloves with select bulbs!",
         "seoURL": "subcollection-",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400200000",
+        "identifier": "18F-Berrylicious-400200000",
+        "name": "Berrylicious Berries Starting at 19.99",
+        "seoURL": "berrylicious-400200000",
+        "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400200004",
+        "identifier": "18F-FAGF-Valentines-400200004",
+        "name": "Valentine's",
+        "seoURL": "valentinesday-400200004",
+        "guidedNavFlag": "0",
+        "redirectUrl": "/valentinesday"
+    },
+    {
+        "categoryId": "400200007",
+        "identifier": "18F-WOW-Gift-400200007",
+        "name": "The Ultimate Wow Gift",
+        "seoURL": "ultimate-wow",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400064500",
@@ -17437,6 +18037,14 @@ let collections = [
         "seoSearchable": "0"
     },
     {
+        "categoryId": "400200022",
+        "identifier": "18F-Hispanic Valentines-400200022",
+        "name": "Valentine's Day Flores y Regalos",
+        "seoURL": "flores-de-san-valentin",
+        "guidedNavFlag": "2",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400102497",
         "identifier": "9165-8",
         "name": "Employment Opportunity Marketing Coordinator - Retail",
@@ -17501,7 +18109,7 @@ let collections = [
         "name": "About Us - Terms of Use",
         "seoURL": "About-Us-Terms-of-Use",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "0",
         "startDate": "11-Nov-2006"
     },
@@ -17511,7 +18119,7 @@ let collections = [
         "name": "About Us - Privacy Policy",
         "seoURL": "About-Us-Privacy-Policy",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "0",
         "startDate": "11-Nov-2006"
     },
@@ -17573,9 +18181,9 @@ let collections = [
     {
         "categoryId": "400114482",
         "identifier": "13486",
-        "name": "Sweetest Day 15% Off",
+        "name": "Valentine's Day Starting at $19.99 ",
         "seoURL": "flowers-gifts-13486",
-        "guidedNavFlag": "2",
+        "guidedNavFlag": "0",
         "seoSearchable": "0"
     },
     {
@@ -17739,7 +18347,7 @@ let collections = [
         "name": "Passport Landing Page - Signup",
         "seoURL": "passport-landing-signup",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "0",
         "startDate": "20-Dec-2012"
     },
@@ -17872,28 +18480,28 @@ let collections = [
     {
         "categoryId": "400129503",
         "identifier": "13929",
-        "name": "Save 20% Sitewide-Email",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "flowers-gifts-13929",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400129504",
         "identifier": "13930",
-        "name": "Save 20% Sitewide-Email",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "flowers-gifts-13930",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400129505",
         "identifier": "13932",
-        "name": "Save 20% Sitewide-Email",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "flowers-gifts-13932",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400129506",
         "identifier": "13933",
-        "name": "Save 20% Sitewide-Email",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "flowers-gifts-13933",
         "guidedNavFlag": "1"
     },
@@ -17911,7 +18519,7 @@ let collections = [
     {
         "categoryId": "400129507",
         "identifier": "13934",
-        "name": "Save 20% Sitewide-Email",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "flowers-gifts-13934",
         "guidedNavFlag": "1"
     },
@@ -17945,7 +18553,7 @@ let collections = [
     {
         "categoryId": "400129508",
         "identifier": "13935",
-        "name": "Halloween 15% Off",
+        "name": "15% off Last Chance for Valentine's Day",
         "seoURL": "flowers-gifts-13935",
         "guidedNavFlag": "0"
     },
@@ -17963,14 +18571,14 @@ let collections = [
     {
         "categoryId": "400129509",
         "identifier": "13936",
-        "name": "Save 15% for Hanukkah",
+        "name": "Save up to 60% off Valentine's Day ",
         "seoURL": "flowers-gifts-13936",
         "guidedNavFlag": "0"
     },
     {
         "categoryId": "400183003",
         "identifier": "18F-Email-400183003",
-        "name": "Save 20% on Holiday Gift Baskets ",
+        "name": "Take $10 Off Sitewide",
         "seoURL": "flowers-gifts-400183003",
         "guidedNavFlag": "1"
     },
@@ -17988,9 +18596,9 @@ let collections = [
     {
         "categoryId": "400183004",
         "identifier": "18F-Email-400183004",
-        "name": "20% Off Sitewide",
+        "name": "Save 20% Sitewide",
         "seoURL": "flowers-gifts-400183004",
-        "guidedNavFlag": "0"
+        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400076524",
@@ -18006,7 +18614,7 @@ let collections = [
     {
         "categoryId": "400183005",
         "identifier": "18F-Email-400183005",
-        "name": "Enjoy 25%* off Sitewide",
+        "name": "Take 15% Off Sitewide",
         "seoURL": "flowers-gifts-400183005",
         "guidedNavFlag": "0"
     },
@@ -18024,7 +18632,7 @@ let collections = [
     {
         "categoryId": "400183006",
         "identifier": "18F-Email-400183006",
-        "name": "Take $15 Off* Sitewide",
+        "name": "Save 15% Sitewide",
         "seoURL": "flowers-gifts-400183006",
         "guidedNavFlag": "1"
     },
@@ -18042,7 +18650,7 @@ let collections = [
     {
         "categoryId": "400183007",
         "identifier": "18F-Email-400183007",
-        "name": "Free Shipping/ No Service Charge Sitewide",
+        "name": "Friends and Family Sale : Promo Code HUGS",
         "seoURL": "flowers-gifts-400183007",
         "guidedNavFlag": "1"
     },
@@ -18060,7 +18668,7 @@ let collections = [
     {
         "categoryId": "400183008",
         "identifier": "18F-Email-400183008",
-        "name": "Save 20% Sitewide",
+        "name": "Save a Sweet 20%* on Valentine's Baskets : Promo Code TREATS",
         "seoURL": "flowers-gifts-400183008",
         "guidedNavFlag": "2"
     },
@@ -18078,7 +18686,7 @@ let collections = [
     {
         "categoryId": "400183009",
         "identifier": "18F-Email-400183009",
-        "name": "Save 25% Sitewide",
+        "name": "Free Shipping/No Service Charge** : Promo Code ROMANCE",
         "seoURL": "flowers-gifts-400183009",
         "guidedNavFlag": "1"
     },
@@ -18096,7 +18704,7 @@ let collections = [
     {
         "categoryId": "400129510",
         "identifier": "13937",
-        "name": "Save 20% for Christmas",
+        "name": "Save 20% off for Valentine's Day",
         "seoURL": "flowers-gifts-13937",
         "guidedNavFlag": "0"
     },
@@ -18115,9 +18723,16 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
+        "categoryId": "400198982",
+        "identifier": "18F-Radio-400198982",
+        "name": "ESPN",
+        "seoURL": "radio-espn-400198982",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400183010",
         "identifier": "18F-Email-400183010",
-        "name": "Save 15% Sitewide",
+        "name": "Save Up to 50%* on Valentine's Flowers : No Promo Code Neccessary",
         "seoURL": "flowers-gifts-400183010",
         "guidedNavFlag": "1"
     },
@@ -18133,9 +18748,16 @@ let collections = [
         "startDate": "12-Oct-2012"
     },
     {
+        "categoryId": "400198983",
+        "identifier": "18F-Radio-400198983",
+        "name": "ESPN",
+        "seoURL": "radio-espn-400198983",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400183011",
         "identifier": "18F-Email-400183011",
-        "name": "Free Shipping/ No Service Charge",
+        "name": "Shop Our Valentine's Spectacular",
         "seoURL": "flowers-gifts-400183011",
         "guidedNavFlag": "1"
     },
@@ -18151,9 +18773,16 @@ let collections = [
         "startDate": "12-Oct-2012"
     },
     {
+        "categoryId": "400198984",
+        "identifier": "18F-Radio-400198984",
+        "name": "ESPN",
+        "seoURL": "radio-espn-400198984",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400183012",
         "identifier": "18F-Email-400183012",
-        "name": "Someone's Week Will Be Looking Rosy!",
+        "name": "Save 15% Sitewide",
         "seoURL": "flowers-gifts-400183012",
         "guidedNavFlag": "1"
     },
@@ -18189,6 +18818,13 @@ let collections = [
         "priceConfig": "0",
         "redirectUrl": "/about-us-employment-opportunities",
         "startDate": "23-Oct-2012"
+    },
+    {
+        "categoryId": "400198987",
+        "identifier": "18F-Flowers-Gifts-400198987",
+        "name": "Button",
+        "seoURL": "button",
+        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400076535",
@@ -18238,6 +18874,13 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
+        "categoryId": "400198989",
+        "identifier": "18F-Canada-400198989",
+        "name": "Send Festive Christmas Flowers to Canada & Save 15%",
+        "seoURL": "international-canada-400198989",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400076538",
         "identifier": "9098-8",
         "name": "Employment Opportunity - Senior Manager, Mobile",
@@ -18283,7 +18926,7 @@ let collections = [
     {
         "categoryId": "400130507",
         "identifier": "13967",
-        "name": "Save 15% Sitewide",
+        "name": "Get Your Early Valentine's Orders in!",
         "seoURL": "flowers-gifts-13967",
         "guidedNavFlag": "1"
     },
@@ -18318,6 +18961,13 @@ let collections = [
         "seoSearchable": "0"
     },
     {
+        "categoryId": "400198990",
+        "identifier": "18F-Canada-400198990",
+        "name": "Send Festive Christmas Flowers to Canada & Save 15%",
+        "seoURL": "international-canada-400198990",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400076540",
         "identifier": "9101-8",
         "name": "EO - Asst. Manager, Marketing and Business Development",
@@ -18340,6 +18990,13 @@ let collections = [
         "startDate": "16-Nov-2012"
     },
     {
+        "categoryId": "400198994",
+        "identifier": "18F-England-400198994",
+        "name": "Send Festive Christmas Flowers to the United Kingdom & Save 15%!",
+        "seoURL": "international-england-400198994",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400076542",
         "identifier": "9103-8",
         "name": "Employment Opportunity - asst marketing mgr execution",
@@ -18349,6 +19006,13 @@ let collections = [
         "priceConfig": "0",
         "redirectUrl": "/about-us-employment-opportunities",
         "startDate": "16-Nov-2012"
+    },
+    {
+        "categoryId": "400198995",
+        "identifier": "18F-England-400198995",
+        "name": "Send Festive Christmas Flowers to the United Kingdom & Save 15%!",
+        "seoURL": "international-england-400198995",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400076543",
@@ -18412,6 +19076,20 @@ let collections = [
         "guidedNavFlag": "2"
     },
     {
+        "categoryId": "400198997",
+        "identifier": "18F-Flowers-Gifts-400198997",
+        "name": "IBM Holiday",
+        "seoURL": "flowers-gifts-400198997",
+        "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400198998",
+        "identifier": "18F-INTL-Aruba-400198998",
+        "name": "International - Aruba",
+        "seoURL": "aruba",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400076546",
         "identifier": "9107-8",
         "name": "Employment Opportunity - Category Director - Gifts",
@@ -18435,6 +19113,13 @@ let collections = [
         "name": "Birthday Gift Baskets & Food",
         "seoURL": "birthday-gift-baskets-food-400183026",
         "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400198999",
+        "identifier": "18F-INTL-Anguilla-400198999",
+        "name": "International - Anguilla",
+        "seoURL": "anguilla",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400183027",
@@ -18476,7 +19161,7 @@ let collections = [
     {
         "categoryId": "400130514",
         "identifier": "13976",
-        "name": "25% off Best Sellers / 20% off Sitewide",
+        "name": "Save 15% Sitewide",
         "seoURL": "flowers-gifts-13976",
         "guidedNavFlag": "1"
     },
@@ -18611,6 +19296,14 @@ let collections = [
         "startDate": "26-Mar-2013"
     },
     {
+        "categoryId": "400183035",
+        "identifier": "18F-Sympathy-Article-Memorial-Ideas-400183035",
+        "name": "Sympathy - Memorial Ideas",
+        "seoURL": "sympathy-sandra-magsamen-memorial-ideas",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400097488",
         "identifier": "13171",
         "name": "Summer Sale - Save $10 on $39.99 & Up!",
@@ -18635,14 +19328,6 @@ let collections = [
         "name": "Christmas Best Sellers",
         "seoURL": "christmas-best-sellers-features-13983",
         "guidedNavFlag": "0"
-    },
-    {
-        "categoryId": "400183035",
-        "identifier": "18F-Sympathy-Article-Memorial-Ideas-400183035",
-        "name": "Sympathy - Memorial Ideas",
-        "seoURL": "sympathy-sandra-magsamen-memorial-ideas",
-        "guidedNavFlag": "0",
-        "seoSearchable": "1"
     },
     {
         "categoryId": "400076556",
@@ -18728,7 +19413,7 @@ let collections = [
     {
         "categoryId": "400130527",
         "identifier": "13989",
-        "name": "$12 off Sitewide 12 Hours",
+        "name": "Free Shipping/No Service Charge + $10 Off",
         "seoURL": "flowers-gifts-13989",
         "guidedNavFlag": "1"
     },
@@ -19768,7 +20453,8 @@ let collections = [
         "name": "Canada - Father's Day",
         "seoURL": "international /canada-fathers-day-13083",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
+        "seoSearchable": "1",
+        "redirectUrl": "/canada"
     },
     {
         "categoryId": "400118006",
@@ -20142,11 +20828,10 @@ let collections = [
     {
         "categoryId": "400093983",
         "identifier": "1039",
-        "name": "Romantic Holiday Flowers & Gifts",
+        "name": "Romantic Christmas Flowers & Gifts",
         "seoURL": "romantic-christmas-gifts",
-        "guidedNavFlag": "0",
-        "seoSearchable": "1",
-        "redirectUrl": "christmasflowers"
+        "guidedNavFlag": "2",
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400093984",
@@ -20168,7 +20853,7 @@ let collections = [
         "identifier": "9100-4",
         "name": "Everything about bulbs",
         "seoURL": "everything-about-bulbs",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "horizontalGnav": "0"
     },
     {
@@ -20212,6 +20897,13 @@ let collections = [
         "startDate": "29-Jul-2010"
     },
     {
+        "categoryId": "400199482",
+        "identifier": "18F-BGS-HolidayCatalog-400199482",
+        "name": "BGS Holiday Catalog",
+        "seoURL": "bgs-holiday-early-order",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400077031",
         "identifier": "4026-8",
         "name": "Post Etiquette Back to School",
@@ -20251,6 +20943,14 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
+        "categoryId": "400199487",
+        "identifier": "18F-Sympathy-Article-Made With Love-400199487",
+        "name": "Made With Love",
+        "seoURL": "sympathy-sandra-magsamen-personal-remembrance-ideas",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400077035",
         "identifier": "2016-8",
         "name": "Floral Choices",
@@ -20260,6 +20960,13 @@ let collections = [
         "priceConfig": "0",
         "redirectUrl": "/sympathy-article-family-expressions",
         "startDate": "20-Apr-2007"
+    },
+    {
+        "categoryId": "400199488",
+        "identifier": "18F-Sym-SCI-Article-Made With Love-400199488",
+        "name": "Made With Love",
+        "seoURL": "sympathy-sandra-magsamen-personal-remembrance-ideas-400199488",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400077036",
@@ -20278,6 +20985,13 @@ let collections = [
         "name": "Real Simple Gifts",
         "seoURL": "real-simple-gifts-and-tips-13999",
         "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400199489",
+        "identifier": "18F-Flowers-Gifts-400199489",
+        "name": "Apple Pay",
+        "seoURL": "flowers-gifts-400199489",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400077037",
@@ -20433,6 +21147,14 @@ let collections = [
         "startDate": "23-Feb-2009"
     },
     {
+        "categoryId": "400199492",
+        "identifier": "18F-Best of Flowers-400199492",
+        "name": "Best Flowers of 2017",
+        "seoURL": "best-gifts-of-the-year",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400077041",
         "identifier": "4028-8",
         "name": "Halloween - Article - History of Halloween",
@@ -20453,6 +21175,13 @@ let collections = [
         "priceConfig": "0",
         "redirectUrl": "/Sympathy-Commonly-Asked-Questions",
         "startDate": "23-Feb-2009"
+    },
+    {
+        "categoryId": "400199494",
+        "identifier": "18F-Flowers-Gifts-400199494",
+        "name": "Chase Pay",
+        "seoURL": "flowers-gifts-400199494",
+        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400077043",
@@ -20486,6 +21215,13 @@ let collections = [
         "startDate": "01-Dec-2008"
     },
     {
+        "categoryId": "400199497",
+        "identifier": "18F-Flowers-Gifts-400199497",
+        "name": "Samsung Pay",
+        "seoURL": "flowers-gifts-400199497",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400077046",
         "identifier": "2041-8",
         "name": "Sympathy Article - Lynn Isenberg - Ask Lynn",
@@ -20494,6 +21230,13 @@ let collections = [
         "seoSearchable": "1",
         "priceConfig": "0",
         "startDate": "17-Aug-2010"
+    },
+    {
+        "categoryId": "400199498",
+        "identifier": "18F-INTL-Reunion Island-400199498",
+        "name": "International - Reunion Island",
+        "seoURL": "reunion-island",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400077047",
@@ -20505,6 +21248,13 @@ let collections = [
         "priceConfig": "0",
         "redirectUrl": "/thanksgiving-fun-facts",
         "startDate": "01-Nov-2006"
+    },
+    {
+        "categoryId": "400199499",
+        "identifier": "18F-INTL-Romania-400199499",
+        "name": "International - Romania",
+        "seoURL": "romania",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400077048",
@@ -20797,14 +21547,14 @@ let collections = [
     {
         "categoryId": "400131038",
         "identifier": "14030",
-        "name": "Save 20% or 25% Sitewide",
+        "name": "Chose Your Rose Offer!",
         "seoURL": "flowers-gifts-14030",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400131039",
         "identifier": "14031",
-        "name": "Save 20% or 25% Sitewide",
+        "name": "More Spring Best Sellers",
         "seoURL": "flowers-gifts-14031",
         "guidedNavFlag": "1"
     },
@@ -20866,7 +21616,7 @@ let collections = [
     {
         "categoryId": "400131040",
         "identifier": "14032",
-        "name": "Save 20% or 25% Sitewide",
+        "name": "Save 20% on Romantic Surprises",
         "seoURL": "flowers-gifts-14032",
         "guidedNavFlag": "1"
     },
@@ -20884,7 +21634,7 @@ let collections = [
     {
         "categoryId": "400131041",
         "identifier": "14033",
-        "name": "Save 20% or 25% Sitewide",
+        "name": "Save 20% on Birthday Gifts",
         "seoURL": "flowers-gifts-14033",
         "guidedNavFlag": "1"
     },
@@ -20902,7 +21652,7 @@ let collections = [
     {
         "categoryId": "400131042",
         "identifier": "14034",
-        "name": "Save 20% or 25% Sitewide",
+        "name": "Save Up To 50%",
         "seoURL": "flowers-gifts-14034",
         "guidedNavFlag": "1"
     },
@@ -20950,6 +21700,12 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
+        "categoryId": "400200983",
+        "identifier": "18F-Mobile-Same-Day-400200983",
+        "name": "Same-Day Flowers and Gifts",
+        "seoURL": "samedaydelivery-400200983"
+    },
+    {
         "categoryId": "400131046",
         "identifier": "14038",
         "name": "Free Shipping/No Service Charge* Sitewide",
@@ -20957,11 +21713,39 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
+        "categoryId": "400200984",
+        "identifier": "18F-Flowers-Gifts-400200984",
+        "name": "PayPal",
+        "seoURL": "paypal-400200984",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400131047",
         "identifier": "14039",
         "name": "Free Shipping/No Service Charge* Sitewide",
         "seoURL": "flowers-gifts-14039",
         "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400200986",
+        "identifier": "18F-Radio-400200986",
+        "name": "Best Sellers",
+        "seoURL": "radio-special-offers-400200986",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400200987",
+        "identifier": "18F-Radio-400200987",
+        "name": "Featured Offers",
+        "seoURL": "radio-sub-special-offers-400200987",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400200988",
+        "identifier": "18F-Radio-400200988",
+        "name": "Listener Favorites",
+        "seoURL": "radio-sub-special-offers-400200988",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400077080",
@@ -21065,6 +21849,13 @@ let collections = [
         "startDate": "22-Mar-2007"
     },
     {
+        "categoryId": "400200991",
+        "identifier": "18F-Exclusive Offers-400200991",
+        "name": "Exclusive Offers",
+        "seoURL": "exclusive-offers-400200991",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400077088",
         "identifier": "4071-8",
         "name": "Article Anniversary - Express Your Romantic Side",
@@ -21107,6 +21898,13 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
+        "categoryId": "400200995",
+        "identifier": "18F-AFF-Flowers-Gifts-400200995",
+        "name": "15% Off Sympathy",
+        "seoURL": "flowers-gifts-400200995",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400102501",
         "identifier": "8601-7",
         "name": "BGS Holiday Early Order Flowers - cbrooks",
@@ -21121,10 +21919,24 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
+        "categoryId": "400200996",
+        "identifier": "18F-AFF-Flowers-Gifts-400200996",
+        "name": "Still Available for Valentine's Delivery!",
+        "seoURL": "flowers-gifts-400200996",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400102502",
         "identifier": "8602-7",
         "name": "BGS Holiday Early Order Cheryls - cbrooks",
         "seoURL": "holidaygifts-cbrooks-cheryls",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400200997",
+        "identifier": "18F-AFF-Flowers-Gifts-400200997",
+        "name": "Welcome Tapjoy Customers",
+        "seoURL": "flowers-gifts-400200997",
         "guidedNavFlag": "0"
     },
     {
@@ -21135,10 +21947,24 @@ let collections = [
         "guidedNavFlag": "0"
     },
     {
+        "categoryId": "400200998",
+        "identifier": "18F-AFF-Flowers-Gifts-400200998",
+        "name": "Plus: Gorgeous Gifts for Every Day of the Year!",
+        "seoURL": "flowers-gifts-400200998",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400102504",
         "identifier": "8603-7",
         "name": "BGS Holiday Early Order Fannie May - cbrooks",
         "seoURL": "holidaygifts-cbrooks-fm",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400200999",
+        "identifier": "18F-AFF-Flowers-Gifts-400200999",
+        "name": "Save up to 10%",
+        "seoURL": "flowers-gifts-400200999",
         "guidedNavFlag": "0"
     },
     {
@@ -21523,7 +22349,7 @@ let collections = [
     {
         "categoryId": "400102535",
         "identifier": "13267",
-        "name": "Save 15% for Thanksgiving Decor",
+        "name": " Valentine's Day Best Sellers ",
         "seoURL": "flowers-gifts-13267",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -21539,7 +22365,7 @@ let collections = [
     {
         "categoryId": "400102537",
         "identifier": "13269",
-        "name": "Thanksgiving – 25%",
+        "name": "Save 25% off Christmas Centerpieces",
         "seoURL": "centerpieces-13269",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -21547,7 +22373,7 @@ let collections = [
     {
         "categoryId": "400102538",
         "identifier": "13270",
-        "name": "Order Early For Christmas",
+        "name": "Save 15% for Easter",
         "seoURL": "flowers-gifts-13270",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -21776,7 +22602,7 @@ let collections = [
     {
         "categoryId": "400102562",
         "identifier": "13301",
-        "name": "Save $10 On Holiday Centerpieces",
+        "name": "Still Available for Valentine's Delivery!",
         "seoURL": "centerpieces-13301",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -22071,6 +22897,13 @@ let collections = [
         "redirectUrl": "/birthdayflowers"
     },
     {
+        "categoryId": "400097512",
+        "identifier": "8319-7",
+        "name": "BGS Holiday Early Order FY13 - Stockyards",
+        "seoURL": "bgs-holiday-early-order-stockyards-",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400094487",
         "identifier": "10781",
         "name": "Anniversary",
@@ -22078,13 +22911,6 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "0",
         "redirectUrl": "/anniversary"
-    },
-    {
-        "categoryId": "400097512",
-        "identifier": "8319-7",
-        "name": "BGS Holiday Early Order FY13 - Stockyards",
-        "seoURL": "bgs-holiday-early-order-stockyards-",
-        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400097513",
@@ -22171,7 +22997,7 @@ let collections = [
     {
         "categoryId": "400102584",
         "identifier": "12783",
-        "name": "Save 20% Sitewide",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "email-12783",
         "guidedNavFlag": "2",
         "seoSearchable": "0"
@@ -22179,7 +23005,7 @@ let collections = [
     {
         "categoryId": "400102585",
         "identifier": "12807",
-        "name": "Shop More of Our Favorites",
+        "name": "$20 Off $89.99 or more",
         "seoURL": "email-12807",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -22672,7 +23498,7 @@ let collections = [
     {
         "categoryId": "400183101",
         "identifier": "18F-Flowers-400183101",
-        "name": "Spring has Sprung Bulb Event",
+        "name": "Spring Bulb Spectacular",
         "seoURL": "flowers-400183101"
     },
     {
@@ -22756,6 +23582,41 @@ let collections = [
         "startDate": "09-Sep-2011"
     },
     {
+        "categoryId": "400201482",
+        "identifier": "18F-Flowers-Gifts-400201482",
+        "name": "Disabled American Veterans",
+        "seoURL": "flowers-gifts-400201482",
+        "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400201483",
+        "identifier": "18F-Flowers-Gifts-400201483",
+        "name": "V’Day Bouquet",
+        "seoURL": "flowers-gifts-400201483",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400201484",
+        "identifier": "18F-Test-400201484",
+        "name": "FPT Test",
+        "seoURL": "fpt-test",
+        "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400201486",
+        "identifier": "18F-Valentines Best Gifts-400201486",
+        "name": "Best Valentines Gifts",
+        "seoURL": "best-valentines-gifts",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400201487",
+        "identifier": "18F-Flowers-Gifts-400201487",
+        "name": "Valentine's Day Starting at $29.99",
+        "seoURL": "flowers-gifts-400201487",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400183110",
         "identifier": "18F-Birthday Roses-400183110",
         "name": "Happy Birthday Roses",
@@ -22824,6 +23685,20 @@ let collections = [
         "priceConfig": "0",
         "redirectUrl": "/blog/julie/how-tos/how-to-dry-flowers",
         "startDate": "28-Jan-2010"
+    },
+    {
+        "categoryId": "400201491",
+        "identifier": "18F-Flowers-Gifts-400201491",
+        "name": "For Canadian Delivery Only",
+        "seoURL": "flowers-gifts-400201491",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400201492",
+        "identifier": "18F-Valentines Office Envy-400201492",
+        "name": "Create Valentine's Office Envy",
+        "seoURL": "office-envy",
+        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400103000",
@@ -22911,6 +23786,14 @@ let collections = [
         "startDate": "04-Feb-2010"
     },
     {
+        "categoryId": "400180097",
+        "identifier": "18F-Sympathy-Kosher-400180097",
+        "name": "Sympathy Kosher",
+        "seoURL": "jewish-sympathy-shiva-gifts",
+        "guidedNavFlag": "1",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400103009",
         "identifier": "8622-7",
         "name": "BGS Holiday Early Order Fannie May - cadamo",
@@ -22926,14 +23809,6 @@ let collections = [
         "seoSearchable": "1",
         "priceConfig": "0",
         "startDate": "31-Mar-2011"
-    },
-    {
-        "categoryId": "400180097",
-        "identifier": "18F-Sympathy-Kosher-400180097",
-        "name": "Sympathy Kosher",
-        "seoURL": "jewish-sympathy-shiva-gifts",
-        "guidedNavFlag": "1",
-        "seoSearchable": "1"
     },
     {
         "categoryId": "400180098",
@@ -23036,7 +23911,7 @@ let collections = [
     {
         "categoryId": "400118982",
         "identifier": "13586",
-        "name": "Save $10 Sitewide",
+        "name": "Save Up to 60%",
         "seoURL": "flowers-gifts-13586",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -23221,7 +24096,7 @@ let collections = [
         "name": "Undercover Boss",
         "seoURL": "undercover-boss",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "0",
         "startDate": "08-Apr-2010"
     },
@@ -23490,6 +24365,62 @@ let collections = [
         "seoSearchable": "1"
     },
     {
+        "categoryId": "400199500",
+        "identifier": "18F-INTL-Samoa-400199500",
+        "name": "International - Samoa",
+        "seoURL": "samoa",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199501",
+        "identifier": "18F-INTL-Seychelles-400199501",
+        "name": "International - Seychelles",
+        "seoURL": "seychelles",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199502",
+        "identifier": "18F-INTL-Slovakia-400199502",
+        "name": "International - Slovakia",
+        "seoURL": "slovakia",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199503",
+        "identifier": "18F-INTL-Sri Lanka-400199503",
+        "name": "International - Sri Lanka",
+        "seoURL": "sri-lanka",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199504",
+        "identifier": "18F-INTL-St Lucia-400199504",
+        "name": "International - St Lucia",
+        "seoURL": "st-lucia",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199505",
+        "identifier": "18F-INTL-St Vincent-400199505",
+        "name": "International - St Vincent",
+        "seoURL": "st-vincent",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199507",
+        "identifier": "18F-INTL-Syria-400199507",
+        "name": "International - Syria",
+        "seoURL": "syria",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199508",
+        "identifier": "18F-INTL-Tanzania-400199508",
+        "name": "International - Tanzania",
+        "seoURL": "tanzania",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400090982",
         "identifier": "13111",
         "name": "Save 15% on Birthday Flowers & Gifts",
@@ -23516,7 +24447,7 @@ let collections = [
     {
         "categoryId": "400103056",
         "identifier": "13052",
-        "name": "Save 25% Plants - Christmas",
+        "name": "25% off Holiday Plants",
         "seoURL": "save25plants-13052",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -23546,6 +24477,41 @@ let collections = [
         "seoSearchable": "0"
     },
     {
+        "categoryId": "400199510",
+        "identifier": "18F-INTL-British Virgin Islands-400199510",
+        "name": "International - British Virgin Islands",
+        "seoURL": "british-virgin-islands",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199511",
+        "identifier": "18F-INTL-US Virgin Islands-400199511",
+        "name": "International - US Virgin Islands",
+        "seoURL": "us-virgin-islands",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199512",
+        "identifier": "18F-INTL-Uzbekistan-400199512",
+        "name": "International - Uzbekistan",
+        "seoURL": "uzbekistan",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199513",
+        "identifier": "18F-INTL-Zambia-400199513",
+        "name": "International - Zambia",
+        "seoURL": "zambia",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199514",
+        "identifier": "18F-INTL-Zimbabwe-400199514",
+        "name": "International - Zimbabwe",
+        "seoURL": "zimbabwe",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400103060",
         "identifier": "13298",
         "name": "Gifts Under $35",
@@ -23556,7 +24522,7 @@ let collections = [
     {
         "categoryId": "400103061",
         "identifier": "13299",
-        "name": "Save 20% on Mom's Favorites",
+        "name": "Save 20% on Christmas Flowers & Gifts",
         "seoURL": "flowers-gifts-13299",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -23986,6 +24952,7 @@ let collections = [
         "identifier": "18F-Local-Page-Chicago-400167988",
         "name": "Flower Delivery Chicago | Chicago Florist",
         "seoURL": "local /il /chicago-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24003,6 +24970,7 @@ let collections = [
         "identifier": "18F-Local-Page-Atlanta-400167989",
         "name": "Flower Delivery Atlanta | Atlanta Florist",
         "seoURL": "local /ga /atlanta-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24020,6 +24988,7 @@ let collections = [
         "identifier": "18F-Local-Page-WashingtonDC-400167990",
         "name": "Flower Delivery Washington DC | Washington DC Florist",
         "seoURL": "local /dc /washington-dc-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24037,6 +25006,7 @@ let collections = [
         "identifier": "18F-Local-Page-NewYork-400167991",
         "name": "Flower Delivery New York | New York Florist",
         "seoURL": "local /ny /new-york-city-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24054,6 +25024,7 @@ let collections = [
         "identifier": "18F-Local-Page-Philadelphia-400167992",
         "name": "Flower Delivery Philadelphia | Philadelphia Florist",
         "seoURL": "local /pa /philadelphia-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24071,6 +25042,7 @@ let collections = [
         "identifier": "18F-Local-Page-Miami-400167993",
         "name": "Flower Delivery Miami | Miami Florist",
         "seoURL": "local /fl /miami-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24078,6 +25050,7 @@ let collections = [
         "identifier": "18F-Local-Page-Houston-400167994",
         "name": "Flower Delivery Houston | Houston Florist",
         "seoURL": "local /tx /houston-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24095,6 +25068,7 @@ let collections = [
         "identifier": "18F-Local-Page-Dallas-400167995",
         "name": "Flower Delivery Dallas | Dallas Florist",
         "seoURL": "local /tx /dallas-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24122,6 +25096,7 @@ let collections = [
         "identifier": "18F-Local-Page-Phoenix-400167996",
         "name": "Flower Delivery Phoenix | Phoenix Florist",
         "seoURL": "local /az /phoenix-flower-delivery",
+        "guidedNavFlag": "1",
         "seoSearchable": "1"
     },
     {
@@ -24139,6 +25114,7 @@ let collections = [
         "identifier": "18F-Local-Page-Boston-400167997",
         "name": "Flower Delivery Boston | Boston Florist",
         "seoURL": "local /ma /boston-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24146,6 +25122,7 @@ let collections = [
         "identifier": "18F-Local-Page-SanFrancisco-400167998",
         "name": "Flower Delivery San Francisco | San Francisco Florist",
         "seoURL": "local /ca /san-francisco-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24172,6 +25149,7 @@ let collections = [
         "identifier": "18F-Local-Page-LosAngeles-400167999",
         "name": "Flower Delivery Los Angeles | Los Angeles Florist",
         "seoURL": "local /ca /los-angeles-flower-delivery",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -24315,7 +25293,7 @@ let collections = [
     {
         "categoryId": "400107491",
         "identifier": "13353",
-        "name": "Gifts Under $35",
+        "name": "Valentine's Day Best Sellers ",
         "seoURL": "flowers-gifts-13353",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -24552,7 +25530,7 @@ let collections = [
         "identifier": "10810",
         "name": "Great Flower Deals",
         "seoURL": "cheapflowers",
-        "guidedNavFlag": "0",
+        "guidedNavFlag": "2",
         "seoSearchable": "1",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
@@ -24610,7 +25588,7 @@ let collections = [
     {
         "categoryId": "400180992",
         "identifier": "18F-Shoprunner Offer-400180992",
-        "name": "Shoprunner 15% Off + Free 2-day Shipping for Halloween",
+        "name": "10% off Exclusive ShopRunner Customers",
         "seoURL": "shoprunner-offer",
         "guidedNavFlag": "0"
     },
@@ -24778,7 +25756,7 @@ let collections = [
         "name": "$30 to $50",
         "seoURL": "giftsfrom30to75",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
     },
@@ -24818,7 +25796,7 @@ let collections = [
         "name": "Fannie May",
         "seoURL": "fanniemay-hp",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
     },
@@ -24830,6 +25808,7 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/chocolatesandcandy",
         "startDate": "31-Dec-1899"
     },
     {
@@ -24885,6 +25864,7 @@ let collections = [
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
+        "redirectUrl": "/meat-and-cheese-gifts-13307",
         "startDate": "31-Dec-1899"
     },
     {
@@ -24903,7 +25883,7 @@ let collections = [
         "name": "Gift Baskets & Food",
         "seoURL": "gift-baskets-at-1-800-flowers.com",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
     },
@@ -25126,7 +26106,7 @@ let collections = [
         "name": "Cheryls Homepage",
         "seoURL": "cheryls-homepage",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "0",
         "startDate": "26-Jul-2013"
     },
@@ -25136,7 +26116,7 @@ let collections = [
         "name": "The Popcorn Factory Homepage",
         "seoURL": "the-popcorn-factory-homepage",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "0",
         "startDate": "26-Jul-2013"
     },
@@ -25331,7 +26311,7 @@ let collections = [
         "name": "Fruit Bouquet Homepage",
         "seoURL": "fruit-bouquet-homepage",
         "guidedNavFlag": "0",
-        "seoSearchable": "1",
+        "seoSearchable": "0",
         "priceConfig": "0",
         "startDate": "26-Jul-2013"
     },
@@ -25354,7 +26334,7 @@ let collections = [
     {
         "categoryId": "400094525",
         "identifier": "13147",
-        "name": "Save 20% on Plants",
+        "name": "Still Available for Valentine's Delivery!",
         "seoURL": "save-20p-plants-13147",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -25710,7 +26690,7 @@ let collections = [
     {
         "categoryId": "400074997",
         "identifier": "11296",
-        "name": "Flowers and Gifts-BGS",
+        "name": "Flowers and Gifts",
         "seoURL": "flowers-and-gifts-promo-acceptable-11296",
         "guidedNavFlag": "2",
         "seoSearchable": "0",
@@ -25986,9 +26966,9 @@ let collections = [
     {
         "categoryId": "400140983",
         "identifier": "14164",
-        "name": "Mother’s Day – Deliver Early Free Ship",
+        "name": "Valentine's Day Starting at $19.99",
         "seoURL": "flowers-gifts-14164",
-        "guidedNavFlag": "1"
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400140984",
@@ -26014,7 +26994,7 @@ let collections = [
     {
         "categoryId": "400140989",
         "identifier": "14169",
-        "name": "Southern Living Christmas",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "flowers-gifts-14169",
         "guidedNavFlag": "1"
     },
@@ -26024,6 +27004,14 @@ let collections = [
         "name": "Saks",
         "seoURL": "saks-14170",
         "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400202002",
+        "identifier": "18F-Conroys-400202002",
+        "name": "Conroys",
+        "seoURL": "conroys",
+        "guidedNavFlag": "2",
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400104482",
@@ -26316,7 +27304,7 @@ let collections = [
     {
         "categoryId": "400116491",
         "identifier": "13548",
-        "name": "Save 25% for Cyber Week",
+        "name": "Starting at $19.99",
         "seoURL": "flowers-gifts-13548",
         "guidedNavFlag": "0",
         "seoSearchable": "0"
@@ -26406,8 +27394,9 @@ let collections = [
     {
         "categoryId": "400119524",
         "identifier": "13724",
-        "name": "Save 15% on Anniversary Flowers & Gifts",
+        "name": "Chocolates & Sweets from $19.99",
         "seoURL": "flowers-gifts-13724",
+        "guidedNavFlag": "0",
         "seoSearchable": "0"
     },
     {
@@ -26544,7 +27533,7 @@ let collections = [
     {
         "categoryId": "400128482",
         "identifier": "13898",
-        "name": "Save 15% Sitewide-Email",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "flowers-gifts-13898",
         "guidedNavFlag": "1"
     },
@@ -27338,7 +28327,7 @@ let collections = [
     {
         "categoryId": "400077257",
         "identifier": "12130",
-        "name": "Chinese New Year Flowers, Decorations & Gifts",
+        "name": "Chinese New Year",
         "seoURL": "chinesenewyear-12130",
         "guidedNavFlag": "2",
         "seoSearchable": "1",
@@ -27831,7 +28820,7 @@ let collections = [
         "identifier": "1032",
         "name": "Purple Roses",
         "seoURL": "purple-roses",
-        "guidedNavFlag": "0",
+        "guidedNavFlag": "1",
         "seoSearchable": "1",
         "priceConfig": "1",
         "startDate": "31-Dec-1899"
@@ -27988,4081 +28977,7 @@ let collections = [
         "name": "Jewelry-SpecialtyGifts-Web-18f",
         "seoURL": "jewelry-specialtygifts-web-18f",
         "seoSearchable": "0"
-        },
-    {
-        "categoryId": "400181504",
-        "identifier": "MBP-TPF-HiddenCollections~FSIHalloweenOffer",
-        "name": "FSI Halloween Offer",
-        "seoURL": "fsi-halloween-offer"
     },
-    {
-        "categoryId": "400048990",
-        "identifier": "MBP-TPF-Content~SubstitutionPolicy",
-        "name": "Our Substitution Policy",
-        "seoURL": "our-substitution-policy",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048991",
-        "identifier": "MBP-TPF-Content~PackageSecurity",
-        "name": "Package Security",
-        "seoURL": "package-security",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048992",
-        "identifier": "MBP-TPF-Content~TPFFAQ",
-        "name": "Frequently Asked Questions",
-        "seoURL": "frequently-asked-questions",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048993",
-        "identifier": "MBP-TPF-Content~OurGuarantee",
-        "name": "Our Guarantee",
-        "seoURL": "our-guarantee",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048994",
-        "identifier": "MBP-TPF-Content~PaymentMethodsTax",
-        "name": "Payment Methods and Sales Tax",
-        "seoURL": "payment-methods-and-sales-tax",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048995",
-        "identifier": "MBP-TPF-Content~Fundraising",
-        "name": "Ideas for Fundraising |  Fundraising Events | The Popcorn Factory",
-        "seoURL": "fundraising",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048996",
-        "identifier": "MBP-TPF-Content~Kosher",
-        "name": "We Are Kosher",
-        "seoURL": "we-are-kosher",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400131035",
-        "identifier": "MBP-TPF-Content~RealSimple",
-        "name": "Real Simple Gifts",
-        "seoURL": "real-simple-gift-ideas",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048997",
-        "identifier": "MBP-TPF-Content~OrderForm",
-        "name": "Order Form",
-        "seoURL": "orderform",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102601",
-        "identifier": "MBP-TPF-Occasions~TwoDayDeliveryHP",
-        "name": "Two Day Delivery Offer",
-        "seoURL": "two-day-homepage",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048998",
-        "identifier": "MBP-TPF-Content~OrderingInformation",
-        "name": "Ordering Information",
-        "seoURL": "ordering-information",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400167579",
-        "identifier": "MBP-TPF-HiddenCollections~CouponSavings",
-        "name": "Coupon Savings",
-        "seoURL": "coupon-savings"
-    },
-    {
-        "categoryId": "400048999",
-        "identifier": "MBP-TPF-Content~AffiliateProgramDetails",
-        "name": "Affiliate Program Details",
-        "seoURL": "affiliate-program-details-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400045008",
-        "identifier": "MBP-TPF-HiddenCollections~SearchChristmas",
-        "name": "Christmas Gifts",
-        "seoURL": "christmas-popcorn-gifts-search",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400158507",
-        "identifier": "MBP-TPF-SensationalFlavors~HolidayCookiePopcorn",
-        "name": "Holiday Cookie Popcorn",
-        "seoURL": "holiday-cookie-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400045009",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateChristmas",
-        "name": "Christmas Gifts",
-        "seoURL": "christmas-popcorn-gifts-partners",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400083982",
-        "identifier": "MBP-TPF-HiddenCollections~FathersDayA",
-        "name": "Father's Day",
-        "seoURL": "fathers-day-popcorn-offers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400158508",
-        "identifier": "MBP-TPF-SensationalFlavors~CornfusionCorn",
-        "name": "Cornfusion Corn",
-        "seoURL": "cornfusion-corn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400083983",
-        "identifier": "MBP-TPF-HiddenCollections~FathersDayS",
-        "name": "Father's Day",
-        "seoURL": "popcorn-fathers-day-offers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400094510",
-        "identifier": "MBP-TPF-CherylsHomepage",
-        "name": "Cheryls",
-        "seoURL": "tpf-cheryls",
-        "guidedNavFlag": "0",
-        "seoSearchable": "1",
-        "priceConfig": "0",
-        "startDate": "26-Jul-2013"
-    },
-    {
-        "categoryId": "400158509",
-        "identifier": "MBP-TPF-SensationalFlavors~CheezyJalapeno",
-        "name": "Cheezy Jalapeno",
-        "seoURL": "cheezy-jalapeno",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400094512",
-        "identifier": "MBP-TPF-18FHomepage",
-        "name": "1-800-Flowers",
-        "seoURL": "tpf-1-800-flowers",
-        "guidedNavFlag": "0",
-        "seoSearchable": "1",
-        "priceConfig": "0",
-        "startDate": "26-Jul-2013"
-    },
-    {
-        "categoryId": "400094513",
-        "identifier": "MBP-TPF-18BHomepage",
-        "name": "1-800-Baskets",
-        "seoURL": "tpf-1-800-baskets",
-        "guidedNavFlag": "0",
-        "seoSearchable": "1",
-        "priceConfig": "0",
-        "startDate": "26-Jul-2013"
-    },
-    {
-        "categoryId": "400094514",
-        "identifier": "MBP-TPF-FruitBouquets",
-        "name": "Fruit Bouquets",
-        "seoURL": "tpf-fruit-bouquets",
-        "guidedNavFlag": "0",
-        "seoSearchable": "1",
-        "priceConfig": "0",
-        "startDate": "26-Jul-2013"
-    },
-    {
-        "categoryId": "400094516",
-        "identifier": "MBP-TPF-FannieMayHomepage",
-        "name": "Fannie May",
-        "seoURL": "tpf-fannie-may",
-        "guidedNavFlag": "0",
-        "seoSearchable": "1",
-        "priceConfig": "0",
-        "startDate": "26-Jul-2013"
-    },
-    {
-        "categoryId": "400068482",
-        "identifier": "MBP-TPF-Occasions~VolunteerWeek",
-        "name": "Volunteer Week",
-        "seoURL": "volunteer-week",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400068483",
-        "identifier": "MBP-TPF-BusinessGifts~VolunteerWeekOffer",
-        "name": "Volunteer Week Offer",
-        "seoURL": "volunteer-week-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400068484",
-        "identifier": "MBP-TPF-Occasions~CincodeMayo",
-        "name": "Cinco de Mayo",
-        "seoURL": "cinco-de-mayo",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400045011",
-        "identifier": "MBP-TPF-HiddenCollections~PopcornTinsSpecialOffer",
-        "name": "Popcorn Tins Special Offer",
-        "seoURL": "popcorn-tins-special-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400158510",
-        "identifier": "MBP-TPF-SensationalFlavors~PeppermintBarkPopcorn",
-        "name": "Peppermint Bark Popcorn",
-        "seoURL": "peppermint-bark-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112533",
-        "identifier": "MBP-TPF-Occasions~SaturdayDeliveryHP",
-        "name": "Saturday Delivery HP",
-        "seoURL": "saturday-delivery-hp"
-    },
-    {
-        "categoryId": "400158515",
-        "identifier": "MBP-TPF-HiddenCollections~HomepageHalloweenSale",
-        "name": "Halloween Sale Collection",
-        "seoURL": "halloween-sale-collection"
-    },
-    {
-        "categoryId": "400158516",
-        "identifier": "MBP-TPF-HiddenCollections~HomepageHalloweenOffer",
-        "name": "Halloween Offer Collection",
-        "seoURL": "halloween-offer-collection"
-    },
-    {
-        "categoryId": "400112538",
-        "identifier": "MBP-TPF-HiddenCollections~BradsDealsTest",
-        "name": "Brads Deals Test Page",
-        "seoURL": "brads-deals-test-page"
-    },
-    {
-        "categoryId": "400094524",
-        "identifier": "MBP-TPF-SensationalFlavors~CocoaS'mores",
-        "name": "Cocoa S'mores",
-        "seoURL": "cocoa-smores",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400057482",
-        "identifier": "MBP-TPF-GiftType~EasterFriends",
-        "name": "Easter Friends",
-        "seoURL": "easter-friends",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049982",
-        "identifier": "MBP-TPF-BusinessGifts~SalesPromotions",
-        "name": "Sales Promotions",
-        "seoURL": "sales-promotions",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049983",
-        "identifier": "MBP-TPF-BusinessGifts~EmployeeRecognition",
-        "name": "Employee Recognition",
-        "seoURL": "employee-recognition-reward",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400120043",
-        "identifier": "MBP-TPF-HiddenCollections~FriendShipDay",
-        "name": "Friendship Day",
-        "seoURL": "friendship-day"
-    },
-    {
-        "categoryId": "400049984",
-        "identifier": "MBP-TPF-BusinessGifts~CustomerLoyalty",
-        "name": "Customer Retention",
-        "seoURL": "tpf-customer-loyalty",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049985",
-        "identifier": "MBP-TPF-BusinessGifts~CustomizedGifts",
-        "name": "Customized Gifts",
-        "seoURL": "corporate-customized-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400136985",
-        "identifier": "MBP-TPF-HiddenCollections~ValentinesDaySale",
-        "name": "Valentine's Day Sale",
-        "seoURL": "valentines-day-sale"
-    },
-    {
-        "categoryId": "400049986",
-        "identifier": "MBP-TPF-HiddenCollections~SneakPeek",
-        "name": "Sneak Peek",
-        "seoURL": "sneak-peek",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102985",
-        "identifier": "MBP-TPF-Content~QRCodeRefill",
-        "name": "QR Code Offer",
-        "seoURL": "qr",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400131058",
-        "identifier": "MBP-TPF-HiddenCollections~CelebrationEmails30Off",
-        "name": "Celebration Savings",
-        "seoURL": "celebration-savings"
-    },
-    {
-        "categoryId": "400112545",
-        "identifier": "MBP-TPF-Occasions~MothersDayGiftGuide",
-        "name": "Mother's Day Gift Guide",
-        "seoURL": "tpf-mothers-day-gift-guide",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400131059",
-        "identifier": "MBP-TPF-HiddenCollections~CelebrationEmailsFS",
-        "name": "Celebrate Free Ship",
-        "seoURL": "celebrate-free-ship"
-    },
-    {
-        "categoryId": "400102987",
-        "identifier": "MBP-TPF-Content~CorporateFundraising",
-        "name": "Corporate Fundraising | Get Involved in Fundraising | The Popcorn Factory",
-        "seoURL": "corporate-fundraising",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102989",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayThanksgiving",
-        "name": "Thanksgiving Gifts",
-        "seoURL": "save-on-thanksgiving-gifts",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400182983",
-        "identifier": "MBP-TPF-HiddenCollections~EmailOfferNovelty",
-        "name": "Email Offer Novelty",
-        "seoURL": "email-offer-novelty"
-    },
-    {
-        "categoryId": "400182500",
-        "identifier": "MBP-TPF-HiddenCollections~CubsNews",
-        "name": "news",
-        "seoURL": "news"
-    },
-    {
-        "categoryId": "400190488",
-        "identifier": "MBP-TPF-HiddenCollections~SpecialOffer",
-        "name": "Special Offer",
-        "seoURL": "special-offer--1"
-    },
-    {
-        "categoryId": "400102990",
-        "identifier": "MBP-TPF-HiddenCollections~GSTVNOMATCH",
-        "name": "GSTV Gifts",
-        "seoURL": "gstv-gifts"
-    },
-    {
-        "categoryId": "400131062",
-        "identifier": "MBP-TPF-SensationalFlavors~WhiteChocolatePeppermintCandyCane",
-        "name": "White Chocolate Peppermint Candy Cane",
-        "seoURL": "white-chocolate-peppermint-kettle-corn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400178495",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayMovieNightSnacks",
-        "name": "Movie Night Snacks",
-        "seoURL": "movie-night-snacks"
-    },
-    {
-        "categoryId": "400038982",
-        "identifier": "MBP-TPF-BusinessGifts~CorporateGifts",
-        "name": "Corporate Gifts",
-        "seoURL": "tpf-corporate-gift-services",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102991",
-        "identifier": "MBP-TPF-HiddenCollections~WXRT",
-        "name": "WXRT Holiday Collection",
-        "seoURL": "wxrt",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400102992",
-        "identifier": "MBP-TPF-HiddenCollections~WXRTNL",
-        "name": "WXRT Collection",
-        "seoURL": "wxrtnl",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400125983",
-        "identifier": "MBP-TPF-HiddenCollections~HalloweenFavoritesTest",
-        "name": "Halloween Favorites",
-        "seoURL": "halloween-fsi-test"
-    },
-    {
-        "categoryId": "400046486",
-        "identifier": "MBP-TPF-GiftType~SnowyNight",
-        "name": "Snowy Night",
-        "seoURL": "snowy-night",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102993",
-        "identifier": "MBP-TPF-Content~CorpOffer",
-        "name": "Corporate Gifts | Gourmet Gifts | The Popcorn Factory",
-        "seoURL": "corporate-gifts-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400125984",
-        "identifier": "MBP-TPF-HiddenCollections~SignUpforEmail",
-        "name": "Sign Up for Email",
-        "seoURL": "sign-up-for-email",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400046487",
-        "identifier": "MBP-TPF-GiftType~Snowtime",
-        "name": "Snowtime",
-        "seoURL": "snowtime",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400136996",
-        "identifier": "MBP-TPF-Occasions~PresidentsDayHP",
-        "name": "Presidents Day",
-        "seoURL": "presidents-day",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400046488",
-        "identifier": "MBP-TPF-GiftType~MerryChristmas",
-        "name": "Merry Christmas",
-        "seoURL": "merry-christmas",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400110497",
-        "identifier": "MBP-TPF-HiddenCollections~Offer",
-        "name": "Offer Email",
-        "seoURL": "offer-email"
-    },
-    {
-        "categoryId": "400136997",
-        "identifier": "MBP-TPF-Occasions~PresidentsDayIM",
-        "name": "Presidents Day Sale",
-        "seoURL": "presidents-day-sale",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400110498",
-        "identifier": "MBP-TPF-HiddenCollections~BestiesOffer",
-        "name": "Besties Offer",
-        "seoURL": "besties-offer"
-    },
-    {
-        "categoryId": "400046489",
-        "identifier": "MBP-TPF-GiftType~FrostyFriends",
-        "name": "Frosty Friends Too",
-        "seoURL": "frosty-friends-too",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102997",
-        "identifier": "MBP-TPF-Content~guidetest",
-        "name": "Guide Test",
-        "seoURL": "guide-test"
-    },
-    {
-        "categoryId": "400110499",
-        "identifier": "MBP-TPF-HiddenCollections~Males",
-        "name": "25% off Valentine's Day Gifts",
-        "seoURL": "males"
-    },
-    {
-        "categoryId": "400136999",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayEaster",
-        "name": "Easter Gifts and Treats",
-        "seoURL": "easter-gifts-and-treats"
-    },
-    {
-        "categoryId": "400092482",
-        "identifier": "MBP-TPF-GiftType~PeaceLovePopcorn",
-        "name": "Peace Love and Popcorn",
-        "seoURL": "peace-love-and-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400192551",
-        "identifier": "MBP-TPF-Celebrations~SweetTastesofSummerPopcorn",
-        "name": "Sweet Tastes of Summer ThePopcornFactory",
-        "seoURL": "sweet-tastes-of-summer-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400190494",
-        "identifier": "MBP-TPF-HiddenCollections~DealoftheDay",
-        "name": "Deal of the Day",
-        "seoURL": "deal-of-the-day--1"
-    },
-    {
-        "categoryId": "400192552",
-        "identifier": "MBP-TPF-Celebrations~SweetTastesofSummerPopcornGifts",
-        "name": "Sweet Tastes of Summer Gifts ThePopcornFactory",
-        "seoURL": "sweet-tastes-of-summer-gifts-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400050982",
-        "identifier": "MBP-TPF-HiddenCollections~Greeting",
-        "name": "Greeting Card",
-        "seoURL": "greeting-card",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400050983",
-        "identifier": "MBP-TPF-GiftType~GraffitiHearts",
-        "name": "Graffiti Hearts",
-        "seoURL": "graffiti-hearts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400050984",
-        "identifier": "MBP-TPF-GiftType~ValentineMonster",
-        "name": "Valentine Monster",
-        "seoURL": "valentine-monster",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400050985",
-        "identifier": "MBP-TPF-GiftType~Tulips",
-        "name": "Tulips",
-        "seoURL": "popcorn-tulips",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400050986",
-        "identifier": "MBP-TPF-GiftType~HappyHearts",
-        "name": "Happy Hearts",
-        "seoURL": "happy-hearts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400192557",
-        "identifier": "MBP-TPF-HiddenCollections~BirthdayPopcornGifts",
-        "name": "Birthday Popcorn Gifts",
-        "seoURL": "birthday-popcorn-gifts",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400192558",
-        "identifier": "MBP-TPF-HiddenCollections~BirthdayPopcornBirthdayGifts",
-        "name": "Popcorn Birthday Gifts",
-        "seoURL": "popcorn-birthday-gifts",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400050988",
-        "identifier": "MBP-TPF-GiftType~MonkeyLove",
-        "name": "Monkey Love",
-        "seoURL": "monkey-love",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400050989",
-        "identifier": "MBP-TPF-GiftType~LoveBugCollection",
-        "name": "Love Bug Collection",
-        "seoURL": "love-bug-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400046490",
-        "identifier": "MBP-TPF-GiftType~LeavesonGold",
-        "name": "Leaves on Gold",
-        "seoURL": "leaves-on-gold",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400046491",
-        "identifier": "MBP-TPF-GiftType~WinterSong",
-        "name": "Winter Song",
-        "seoURL": "winter-song",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400046492",
-        "identifier": "MBP-TPF-GiftType~PeekABooSanta",
-        "name": "Peek A Boo Santa",
-        "seoURL": "ornaments!",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400133494",
-        "identifier": "MBP-TPF-HiddenCollections~ValentineFavoritesTest",
-        "name": "Spring Favorites",
-        "seoURL": "clipper-promo-code"
-    },
-    {
-        "categoryId": "400110020",
-        "identifier": "MBP-TPF-SensationalFlavors~Sriracha",
-        "name": "Sriracha",
-        "seoURL": "sriracha",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400156485",
-        "identifier": "MBP-TPF-Content~BGSThankyou",
-        "name": "Corporate Gifts - Thank You",
-        "seoURL": "tpf-corporate-gifts-thank-you"
-    },
-    {
-        "categoryId": "400110021",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayValentinesDay",
-        "name": "Save 15% on Valentine's Day Gifts",
-        "seoURL": "val15"
-    },
-    {
-        "categoryId": "400133496",
-        "identifier": "MBP-TPF-HiddenCollections~NatlPopcornDay",
-        "name": "National-Popcorn-Day",
-        "seoURL": "national-popcorn-day"
-    },
-    {
-        "categoryId": "400156486",
-        "identifier": "MBP-TPF-Content~FundraisingThankyou",
-        "name": "Fundraising - Thank You",
-        "seoURL": "tpf-fundraising-thank-you"
-    },
-    {
-        "categoryId": "400114983",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayMothersDay",
-        "name": "Mothers Day Popcorn Gifts",
-        "seoURL": "mothers-day-popcorn-gifts"
-    },
-    {
-        "categoryId": "400156487",
-        "identifier": "MBP-TPF-Content~FundraisingFAQ",
-        "name": "Fundraising FAQ",
-        "seoURL": "tpf-fundraising-faq"
-    },
-    {
-        "categoryId": "400110025",
-        "identifier": "MBP-TPF-GiftType~Ultra-Extravagant-Popcorn",
-        "name": "Ultra-Extravagant Popcorn",
-        "seoURL": "ultra-extravagant-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400156007",
-        "identifier": "MBP-TPF-CelebrationsRewards-400156007",
-        "name": "Celebrations Rewards",
-        "seoURL": "celebrations-rewards-popcorn",
-        "guidedNavFlag": "0"
-    },
-    {
-        "categoryId": "400050990",
-        "identifier": "MBP-TPF-Occasions~CheeseDayCollection",
-        "name": "Cheese Day Collection",
-        "seoURL": "cheese-day-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400194982",
-        "identifier": "MBP-TPF-Content~AffiliatesPopcorn",
-        "name": "Affiliates Popcorn",
-        "seoURL": "affiliates-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400179483",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayBacktoSchool",
-        "name": "Display Back to School",
-        "seoURL": "display-back-to-school"
-    },
-    {
-        "categoryId": "400024482",
-        "identifier": "MBP-TPF-Occasions~MothersDay",
-        "name": "Mother's Day",
-        "seoURL": "mothers-day-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400179000",
-        "identifier": "MBP-TPF-SensationalFlavors~HalloweenKettleCorn",
-        "name": "Halloween Kettle Corn",
-        "seoURL": "halloween-kettle-corn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400156494",
-        "identifier": "MBP-TPF-HiddenCollections~Passport",
-        "name": "Join Passport ",
-        "seoURL": "join-passport"
-    },
-    {
-        "categoryId": "400120074",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateHip2Save",
-        "name": "Hip2Save Offers",
-        "seoURL": "hip2save-offers"
-    },
-    {
-        "categoryId": "400137982",
-        "identifier": "MBP-TPF-HiddenCollections~SecretSale",
-        "name": "Secret Sale",
-        "seoURL": "secret-sale"
-    },
-    {
-        "categoryId": "400137983",
-        "identifier": "MBP-TPF-SensationalFlavors~ChicagoHotDog",
-        "name": "Chicago Hot Dog",
-        "seoURL": "chicago-hot-dog",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400137984",
-        "identifier": "MBP-TPF-SensationalFlavors~ChicagoStyleDeepDishPizza",
-        "name": "Chicago Style Deep Dish Pizza",
-        "seoURL": "chicago-style-deep-dish-pizza",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400137985",
-        "identifier": "MBP-TPF-SensationalFlavors~ChocolatePopcorn",
-        "name": "Chocolate Popcorn",
-        "seoURL": "chocolate-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400111486",
-        "identifier": "MBP-TPF-HiddenCollections~MarchEmail0-6",
-        "name": "March Email 06",
-        "seoURL": "march-email-06"
-    },
-    {
-        "categoryId": "400137986",
-        "identifier": "MBP-TPF-SensationalFlavors~DillPicklePopcorn",
-        "name": "Dill Pickle Popcorn",
-        "seoURL": "dill-pickle-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400111487",
-        "identifier": "MBP-TPF-HiddenCollections~MarchEmail 7-12",
-        "name": "March Email 7-12",
-        "seoURL": "march-email-7-12"
-    },
-    {
-        "categoryId": "400137987",
-        "identifier": "MBP-TPF-SensationalFlavors~DrizzledCaramelCorn",
-        "name": "Drizzled Caramel Corn",
-        "seoURL": "drizzled-caramel-corn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400111488",
-        "identifier": "MBP-TPF-HiddenCollections~March Email 13+",
-        "name": "March Email 13+",
-        "seoURL": "march-email-13"
-    },
-    {
-        "categoryId": "400137988",
-        "identifier": "MBP-TPF-SensationalFlavors~GreenButter",
-        "name": "Green Butter",
-        "seoURL": "green-butter",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400111489",
-        "identifier": "MBP-TPF-HiddenCollections~MarchEmail Byrs",
-        "name": "March Email Buyers",
-        "seoURL": "march-email-buyers"
-    },
-    {
-        "categoryId": "400137989",
-        "identifier": "MBP-TPF-SensationalFlavors~PumpkinCaramelPralineCrunch",
-        "name": "PumpkinCaramelPralineCrunch",
-        "seoURL": "pumpkincaramelpralinecrunch",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400070482",
-        "identifier": "MBP-TPF-HiddenCollections~MothersDaySpecialOffer",
-        "name": "Mother's Day Special Offer",
-        "seoURL": "mothers-day-special-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400062982",
-        "identifier": "MBP-TPF-GiftType~Butterfly",
-        "name": "Butterfly",
-        "seoURL": "butterfly",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400062983",
-        "identifier": "MBP-TPF-Content~CaramelPopcorn",
-        "name": "Caramel Popcorn",
-        "seoURL": "caramel-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400062984",
-        "identifier": "MBP-TPF-Content~CaramelPopcornDay",
-        "name": "Caramel Popcorn Day",
-        "seoURL": "caramel-popcorn-day",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400070488",
-        "identifier": "MBP-TPF-HiddenCollections~TrueBlood",
-        "name": "True Blood",
-        "seoURL": "true-blood",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400111490",
-        "identifier": "MBP-TPF-HiddenCollections~MarchEmailVByrs",
-        "name": "March Email VByrs",
-        "seoURL": "march-email-vbyrs"
-    },
-    {
-        "categoryId": "400137990",
-        "identifier": "MBP-TPF-SensationalFlavors~SaltVinegar",
-        "name": "Salt & Vinegar",
-        "seoURL": "salt---vinegar",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400111491",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayEasterFreeShip",
-        "name": "Free Ground Shipping on Easter Treats",
-        "seoURL": "free-ground-shipping-on-easter-treats"
-    },
-    {
-        "categoryId": "400137991",
-        "identifier": "MBP-TPF-SensationalFlavors~SugarFreeCaramelCorn",
-        "name": "Sugar Free Caramel Corn",
-        "seoURL": "sugar-free-caramel-corn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400137992",
-        "identifier": "MBP-TPF-SensationalFlavors~ToffeeAlmondPretzelMix",
-        "name": "Toffee Almond Pretzel Mix",
-        "seoURL": "toffee-almond-pretzel-mix",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400134483",
-        "identifier": "MBP-TPF-SensationalFlavors~DarkChocolateCherryCordial",
-        "name": "Dark Chocolate Cherry Cordial",
-        "seoURL": "dark-chocolate-cherry-cordial",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400168001",
-        "identifier": "MBP-TPF-HiddenCollections~RewardsTPF",
-        "name": "TPF Rewards",
-        "seoURL": "tpf-rewards"
-    },
-    {
-        "categoryId": "400137993",
-        "identifier": "MBP-TPF-SensationalFlavors~ToffeeCaramelSeaSalt",
-        "name": "Toffee Caramel & Sea Salt",
-        "seoURL": "toffee-caramel---sea-salt",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400126985",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateHalloween",
-        "name": "Halloween Treats Special Offer",
-        "seoURL": "halloween-treats-special-offer"
-    },
-    {
-        "categoryId": "400102543",
-        "identifier": "MBP-TPF-HiddenCollections~UPromise",
-        "name": "UPromise Special Offer",
-        "seoURL": "upromise-special-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400126986",
-        "identifier": "MBP-TPF-HiddenCollections~SearchHalloween",
-        "name": "Halloween Treats Offer",
-        "seoURL": "halloween-treats-offer"
-    },
-    {
-        "categoryId": "400070491",
-        "identifier": "MBP-TPF-BusinessGifts~NursesWeek",
-        "name": "Nurses & EMS Week",
-        "seoURL": "nurses-and-ems-week-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400110049",
-        "identifier": "MBP-TPF-What'sPopping?~GrouponDeals",
-        "name": "Groupon Deals",
-        "seoURL": "groupon-popcorn-deals",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400070493",
-        "identifier": "MBP-TPF-Celebrations~OutdoorEntertaining",
-        "name": "Outdoor Entertaining",
-        "seoURL": "outdoorentertaining",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400070494",
-        "identifier": "MBP-TPF-Celebrations~BackyardBlast",
-        "name": "Backyard Blast",
-        "seoURL": "backyardblast",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400070495",
-        "identifier": "MBP-TPF-Celebrations~SummerFieldDay",
-        "name": "Summer Field Day",
-        "seoURL": "summerfieldday",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400051983",
-        "identifier": "MBP-TPF-BusinessGifts~CorporateIncentiveGifts",
-        "name": "Incentive Gifts",
-        "seoURL": "incentive-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400070496",
-        "identifier": "MBP-TPF-Celebrations~SummertimeCelebrations",
-        "name": "Summertime Celebrations",
-        "seoURL": "summertimecelebrations",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400180002",
-        "identifier": "MBP-TPF-HiddenCollections~FlavorOfTheMonth",
-        "name": "Flavor of the Month",
-        "seoURL": "flavor-of-the-month--1"
-    },
-    {
-        "categoryId": "400070497",
-        "identifier": "MBP-TPF-Celebrations~RoadtripEssentials",
-        "name": "Roadtrip Essentials",
-        "seoURL": "roadtrip",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400070498",
-        "identifier": "MBP-TPF-Celebrations~StudyBreak",
-        "name": "Study Break",
-        "seoURL": "studybreak",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400180004",
-        "identifier": "MBP-TPF-Content~PopcornDelivery",
-        "name": "Popcorn Delivery",
-        "seoURL": "popcorn-delivery",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400070499",
-        "identifier": "MBP-TPF-Celebrations~PersonalizeSummer",
-        "name": "Personalize Summer",
-        "seoURL": "personalizesummer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400180005",
-        "identifier": "MBP-TPF-Content~PopcornCompany",
-        "name": "Popcorn Company",
-        "seoURL": "popcorn-company",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400180006",
-        "identifier": "MBP-TPF-Content~SendPopcornGifts",
-        "name": "Send Popcorn Gifts",
-        "seoURL": "send-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400180007",
-        "identifier": "MBP-TPF-Content~MailPopcornGift",
-        "name": "Mail Popcorn Gift",
-        "seoURL": "mail-popcorn-gift",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400036483",
-        "identifier": "MBP-TPF-GiftType~SameDayDelivery",
-        "name": "Same Day Delivery",
-        "seoURL": "same-day-gifts-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400115982",
-        "identifier": "MBP-TPF-Content~SweetTreatsSamplerEmail",
-        "name": "Sweet Treats Sampler",
-        "seoURL": "sweet-treats-sampler",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102553",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateShippingHoliday",
-        "name": "Affiliate Free Ground Shipping",
-        "seoURL": "affiliate-free-ground-shipping",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400028988",
-        "identifier": "MBP-TPF-Occasions~Summer",
-        "name": "Summer",
-        "seoURL": "summer-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400172990",
-        "identifier": "MBP-TPF-HiddenCollections~BGSAccountsCG",
-        "name": "BGS Accounts Carol",
-        "seoURL": "bgs-accounts-carol"
-    },
-    {
-        "categoryId": "400172991",
-        "identifier": "MBP-TPF-HiddenCollections~BGSAccountsEP",
-        "name": "BSG Accounts Eric",
-        "seoURL": "bsg-accounts-eric"
-    },
-    {
-        "categoryId": "400172992",
-        "identifier": "MBP-TPF-HiddenCollections~BGSAccountsSV",
-        "name": "BGS Accounts Sheri",
-        "seoURL": "bgs-accounts-sheri"
-    },
-    {
-        "categoryId": "400040982",
-        "identifier": "MBP-TPF-SensationalFlavors~DoubleCheese",
-        "name": "Double Cheese",
-        "seoURL": "double-cheese",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400040983",
-        "identifier": "MBP-TPF-SensationalFlavors~Cranberry",
-        "name": "Cranberry",
-        "seoURL": "cranberry-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400040984",
-        "identifier": "MBP-TPF-SensationalFlavors~SourGreenApple",
-        "name": "Sour Green Apple",
-        "seoURL": "sour-green-apple-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400040985",
-        "identifier": "MBP-TPF-SensationalFlavors~ButterToffeePretzelMix",
-        "name": "Butter Toffee Pretzel Mix ",
-        "seoURL": "butter-toffee-pretzel-mix-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400040986",
-        "identifier": "MBP-TPF-SensationalFlavors~CoconutPopcorn ",
-        "name": "Coconut Popcorn ",
-        "seoURL": "toasted-coconut-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400059482",
-        "identifier": "MBP-TPF-HiddenCollections~FreeShippingFB",
-        "name": "Free Shipping Gifts",
-        "seoURL": "free-shipping-for-fans",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400025482",
-        "identifier": "MBP-TPF-What'sPopping?~BaseballTins",
-        "name": "MLB Team Popcorn Tins",
-        "seoURL": "baseball-popcorn-tins",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400115990",
-        "identifier": "MBP-TPF-Content~SweetTreatsSamplerWeb",
-        "name": "Sweet Treats Sampler Special",
-        "seoURL": "sweet-treats-sampler-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400115991",
-        "identifier": "MBP-TPF-Content~SweetTreatsSamplerIM",
-        "name": "Sweet Treats Sampler Offer",
-        "seoURL": "sweet-treats-sampler-special",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400104983",
-        "identifier": "MBP-TPF-GiftType~BestPopcornFriends",
-        "name": "Best Popcorn Friends",
-        "seoURL": "bpfs"
-    },
-    {
-        "categoryId": "400102564",
-        "identifier": "MBP-TPF-Occasions~HolidayGiftGuide",
-        "name": "Holiday Gift Guide",
-        "seoURL": "holiday-gift-guide-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400097982",
-        "identifier": "MBP-TPF-HiddenCollections~BackToSchoolSale",
-        "name": "Back to School Sale",
-        "seoURL": "back-to-school-sale",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400195510",
-        "identifier": "MBP-TPF-HiddenCollections~IMOfferNFLTins",
-        "name": "Save on NFL Popcorn Tins",
-        "seoURL": "save-on-nfl-popcorn-tins"
-    },
-    {
-        "categoryId": "400161993",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateDeals",
-        "name": "Special Deals",
-        "seoURL": "affiliate-deals"
-    },
-    {
-        "categoryId": "400180147",
-        "identifier": "MBP-TPF-GiftType~FundraisingGiftIdeas",
-        "name": "Fundraising Gift Ideas",
-        "seoURL": "fundraising-gift-ideas",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400180029",
-        "identifier": "MBP-TPF-Content~FreePopcornMonthlySweepstakes",
-        "name": "Free Popcorn Monthly Sweepstakes",
-        "seoURL": "free-popcorn-monthly-sweepstakes",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000100",
-        "identifier": "MBP-TPF-What'sPopping?~WhatsNew",
-        "name": "What's New",
-        "seoURL": "whats-new",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400169482",
-        "identifier": "MBP-TPF-HiddenCollections~CelebrationsBirthdayOffers",
-        "name": "Celebrations Birthday Popcorn Offers",
-        "seoURL": "celebrations-birthday-popcorn-offers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400169483",
-        "identifier": "MBP-TPF-HiddenCollections~CelebrationsBirthdayGifts",
-        "name": "Celebrations Birthday Popcorn Gifts",
-        "seoURL": "celebrations-birthday-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400127984",
-        "identifier": "MBP-TPF-HiddenCollections~OctNatlPopcornMonth",
-        "name": "October is National Popcorn Popping Month",
-        "seoURL": "october-national-popcorn-popping-month"
-    },
-    {
-        "categoryId": "400112497",
-        "identifier": "MBP-TPF-Occasions~EasterGiftGuide",
-        "name": "Easter Gift Guide",
-        "seoURL": "easter-gift-guide-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112498",
-        "identifier": "MBP-TPF-Occasions~EasterUnder25",
-        "name": "Easter Gifts under 25",
-        "seoURL": "easter-gifts-under-25",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112499",
-        "identifier": "MBP-TPF-Occasions~Easter25-40",
-        "name": "Easter Gifts 25-40",
-        "seoURL": "easter-gifts-25-40",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400127989",
-        "identifier": "MBP-TPF-HiddenCollections~WhatFlavorAreYou",
-        "name": "What Flavor Are You",
-        "seoURL": "what-flavor-are-you"
-    },
-    {
-        "categoryId": "400135007",
-        "identifier": "MBP-TPF-Content~RatingsReview",
-        "name": "The Popcorn Factory Ratings & Reviews",
-        "seoURL": "popcorn-ratings-and-reviews"
-    },
-    {
-        "categoryId": "400086982",
-        "identifier": "MBP-TPF-HiddenCollections~BlackhawksOffer",
-        "name": "Blackhawks Special Offer",
-        "seoURL": "blackhawks-special-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400097997",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayFall",
-        "name": "Fall Gifts",
-        "seoURL": "fall15",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400097998",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayHalloween",
-        "name": "Halloween Gifts",
-        "seoURL": "halloween15"
-    },
-    {
-        "categoryId": "400097999",
-        "identifier": "MBP-TPF-HiddenCollections~AffluentMagazine",
-        "name": "Ultra-Extravagant Popcorn",
-        "seoURL": "Affluent",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400052987",
-        "identifier": "MBP-TPF-Content~Strawberries",
-        "name": "Strawberries",
-        "seoURL": "strawberries",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102581",
-        "identifier": "MBP-TPF-Content~Vegan",
-        "name": "Vegan Friendly",
-        "seoURL": "vegan-friendly",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102582",
-        "identifier": "MBP-TPF-Content~TransFatFree",
-        "name": "Trans-Fat Free",
-        "seoURL": "trans-fat-free",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400181492",
-        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Snow",
-        "name": "Snow",
-        "seoURL": "snow"
-    },
-    {
-        "categoryId": "400135017",
-        "identifier": "MBP-TPF-Content~passport",
-        "name": "Join The Popcorn Factory Passport",
-        "seoURL": "passport-popcorn"
-    },
-    {
-        "categoryId": "400116504",
-        "identifier": "MBP-TPF-HiddenCollections~SearchFathersDay",
-        "name": "Gifts for Father's Day",
-        "seoURL": "gifts-for-fathers-day"
-    },
-    {
-        "categoryId": "400181493",
-        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Wreath",
-        "name": "Wreath",
-        "seoURL": "wreath"
-    },
-    {
-        "categoryId": "400158008",
-        "identifier": "MBP-TPF-Content~TPFPassport",
-        "name": "Passport TPF",
-        "seoURL": "passport-tpf"
-    },
-    {
-        "categoryId": "400181494",
-        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-HolidayFun",
-        "name": "holidayfun",
-        "seoURL": "holidayfun"
-    },
-    {
-        "categoryId": "400181495",
-        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Mistletoe",
-        "name": "mistletoe",
-        "seoURL": "mistletoe"
-    },
-    {
-        "categoryId": "400162982",
-        "identifier": "MBP-TPF-HiddenCollections~PassportMembers",
-        "name": "Passport Members",
-        "seoURL": "passport-members"
-    },
-    {
-        "categoryId": "400181496",
-        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Stockings",
-        "name": "stockings",
-        "seoURL": "stockings"
-    },
-    {
-        "categoryId": "400181497",
-        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Tidings",
-        "name": "tidings",
-        "seoURL": "tidings"
-    },
-    {
-        "categoryId": "400180045",
-        "identifier": "MBP-TPF-HiddenCollections~HelloFresh",
-        "name": "HelloFresh",
-        "seoURL": "hellofresh"
-    },
-    {
-        "categoryId": "400181498",
-        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Jolly",
-        "name": "Jolly",
-        "seoURL": "jolly"
-    },
-    {
-        "categoryId": "400180046",
-        "identifier": "MBP-TPF-HiddenCollections~HelloFresh2",
-        "name": "Hello Fresh",
-        "seoURL": "hello-fresh"
-    },
-    {
-        "categoryId": "400180048",
-        "identifier": "MBP-TPF-HiddenCollections~HelloFreshFreeShipA",
-        "name": "Hello Fresh Free Shipping",
-        "seoURL": "hello-fresh-free-shipping"
-    },
-    {
-        "categoryId": "400180049",
-        "identifier": "MBP-TPF-HiddenCollections~HelloFreshFreeShipB",
-        "name": "Hello Fresh Free Shipping Offer",
-        "seoURL": "hello-fresh-free-shipping-offer"
-    },
-    {
-        "categoryId": "400196509",
-        "identifier": "MBP-TPF-HiddenCollections~QuickenLoans",
-        "name": "Quicken Loans",
-        "seoURL": "quicken-loans",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000007",
-        "identifier": "MBP-TPF-BusinessGifts",
-        "name": "Business Gifts",
-        "seoURL": "business-corporate-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000008",
-        "identifier": "MBP-TPF-BusinessGifts~Birthday",
-        "name": "Birthday",
-        "seoURL": "corporate-birthday-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000009",
-        "identifier": "MBP-TPF-BusinessGifts~Congratulations",
-        "name": "Congratulations",
-        "seoURL": "corporate-congratulations-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400147482",
-        "identifier": "MBP-TPF-HiddenCollections~DisplaySummer",
-        "name": "Summer Popcorn Gifts and Snacks",
-        "seoURL": "summer-popcorn-gifts-and-snacks"
-    },
-    {
-        "categoryId": "400135020",
-        "identifier": "MBP-TPF-HiddenCollections~SocialValentineSale",
-        "name": "Special Valentine Offer",
-        "seoURL": "special-valentine-offer"
-    },
-    {
-        "categoryId": "400026000",
-        "identifier": "MBP-TPF-Occasions~TestGroup",
-        "name": "Test Group",
-        "seoURL": "test-group",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026001",
-        "identifier": "MBP-TPF-Occasions~Summer2",
-        "name": "Summer",
-        "seoURL": "summer-gift-ideas",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400158497",
-        "identifier": "MBP-TPF-SensationalFlavors~ZombieKettleCorn",
-        "name": "Zombie Kettle Corn",
-        "seoURL": "zombie-kettle-corn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026002",
-        "identifier": "MBP-TPF-Occasions~Grandparents",
-        "name": "Grandparents Day",
-        "seoURL": "grandparents-day-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026003",
-        "identifier": "MBP-TPF-Occasions~BigGame",
-        "name": "Big Game Snacks",
-        "seoURL": "big-game-snacks",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026004",
-        "identifier": "MBP-TPF-Occasions~HalloweenSale",
-        "name": "Halloween Sale",
-        "seoURL": "halloween-sale",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026005",
-        "identifier": "MBP-TPF-Occasions~FreeShipping",
-        "name": "Free Shipping",
-        "seoURL": "free-shipping",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400113004",
-        "identifier": "MBP-TPF-HiddenCollections~EmailNonClicks",
-        "name": "Email N C",
-        "seoURL": "email-n-c"
-    },
-    {
-        "categoryId": "400026006",
-        "identifier": "MBP-TPF-Occasions~NewYears",
-        "name": "New Year's",
-        "seoURL": "new-years-party",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102599",
-        "identifier": "MBP-TPF-HiddenCollections~NYEEmail123013",
-        "name": "NYE Sale",
-        "seoURL": "nye-sale",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026007",
-        "identifier": "MBP-TPF-Occasions~NextDayDeliveryHP",
-        "name": "Next Day Gifts Homepage",
-        "seoURL": "next-day-gift-delivery",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026008",
-        "identifier": "MBP-TPF-Occasions~TeachersWeek",
-        "name": "Teachers Appreciation Week",
-        "seoURL": "teachers-appreciation-week-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026009",
-        "identifier": "MBP-TPF-Occasions~FathersDay",
-        "name": "Father's Day Gifts",
-        "seoURL": "fathers-day-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400127529",
-        "identifier": "MBP-TPF-HiddenCollections~PickAFillSpecialOffer",
-        "name": "Pick A Fill Special Offer",
-        "seoURL": "pick-a-fill-special"
-    },
-    {
-        "categoryId": "400193003",
-        "identifier": "MBP-TPF-Occasions~PassportDayThePopcornFactory",
-        "name": "Passport Day at The Popcorn Factory",
-        "seoURL": "passport-day-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400098506",
-        "identifier": "MBP-TPF-HiddenCollections~GSTV",
-        "name": "GSTV",
-        "seoURL": "gstv"
-    },
-    {
-        "categoryId": "3400000010",
-        "identifier": "MBP-TPF-BusinessGifts~PersonalizedGifts",
-        "name": "Personalized Gifts",
-        "seoURL": "corporate-gifts-personalized-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000011",
-        "identifier": "MBP-TPF-BusinessGifts~ThankYou",
-        "name": "Thank You",
-        "seoURL": "corporate-thank-you-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000012",
-        "identifier": "MBP-TPF-Celebrations",
-        "name": "Celebrations",
-        "seoURL": "celebrrations",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000013",
-        "identifier": "MBP-TPF-Celebrations~JustBecause",
-        "name": "Just Because",
-        "seoURL": "just-because-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000014",
-        "identifier": "MBP-TPF-Celebrations~Birthday",
-        "name": "Birthday",
-        "seoURL": "birthday-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000015",
-        "identifier": "MBP-TPF-Celebrations~Congratulations",
-        "name": "Congratulations",
-        "seoURL": "congratulations-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000016",
-        "identifier": "MBP-TPF-Celebrations~Encouragement",
-        "name": "Encouragement",
-        "seoURL": "encouragement-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000017",
-        "identifier": "MBP-TPF-Celebrations~GetWell",
-        "name": "Get Well",
-        "seoURL": "get-well-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000018",
-        "identifier": "MBP-TPF-Celebrations~ThankYou",
-        "name": "Thank You",
-        "seoURL": "thank-you-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000019",
-        "identifier": "MBP-TPF-Celebrations~ThinkingofYou",
-        "name": "Thinking of You",
-        "seoURL": "thinking-of-you",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400139991",
-        "identifier": "MBP-TPF-Content~AARP",
-        "name": "The Popcorn Factory AARP",
-        "seoURL": "the-popcorn-factory-aarp",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049000",
-        "identifier": "MBP-TPF-Content~CorporateGiftServices",
-        "name": "Corporate Gift Services",
-        "seoURL": "corporate-gift-services",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026011",
-        "identifier": "MBP-TPF-Occasions~PatrioticGifts",
-        "name": "Patriotic Gifts",
-        "seoURL": "patriotic-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400158023",
-        "identifier": "MBP-TPF-HiddenCollections~NatlPopcornMonthPR",
-        "name": "October Popcorn Month",
-        "seoURL": "october-popcorn-month"
-    },
-    {
-        "categoryId": "400026012",
-        "identifier": "MBP-TPF-Occasions~SummerPicnics",
-        "name": "Summer Picnics",
-        "seoURL": "summer-of-celebrations-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049002",
-        "identifier": "MBP-TPF-Content~CustomerLoyalty",
-        "name": "Customer Loyalty",
-        "seoURL": "customer-loyalty",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049003",
-        "identifier": "MBP-TPF-Content~EmployeeRecognition",
-        "name": "Employee Recognition",
-        "seoURL": "employee-recognition",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026013",
-        "identifier": "MBP-TPF-Occasions~CampWannaSnack",
-        "name": "Camp Wanna Snack",
-        "seoURL": "camp-wanna-snack",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049004",
-        "identifier": "MBP-TPF-Content~CustomizedGifts",
-        "name": "Customized Gifts",
-        "seoURL": "customized-corporate-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026014",
-        "identifier": "MBP-TPF-Occasions~Fall",
-        "name": "Fall Gifts",
-        "seoURL": "fall-gift-ideas",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400127534",
-        "identifier": "MBP-TPF-HiddenCollections~BaseballTinsOffer",
-        "name": "Baseball Tins Special Offer",
-        "seoURL": "baseball-tins-special-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049005",
-        "identifier": "MBP-TPF-Content~PuzzleSolutions",
-        "name": "Puzzle Solutions",
-        "seoURL": "puzzle-solutions",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026015",
-        "identifier": "MBP-TPF-Occasions~HalloweenTreats",
-        "name": "Halloween Treats",
-        "seoURL": "halloween-popcorn-candy-snacks",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400127535",
-        "identifier": "MBP-TPF-HiddenCollections~HarryDavid",
-        "name": "Harry and David",
-        "seoURL": "harry-david"
-    },
-    {
-        "categoryId": "400026016",
-        "identifier": "MBP-TPF-Occasions~HolidaySale",
-        "name": "Holiday Sale",
-        "seoURL": "holiday-popcorn-sale",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400127536",
-        "identifier": "MBP-TPF-HiddenCollections~ChristmasFavoritesTest",
-        "name": "Christmas Favorites",
-        "seoURL": "christmas-fsi-test"
-    },
-    {
-        "categoryId": "400049007",
-        "identifier": "MBP-TPF-Content~WholesaleLearnMore",
-        "name": "Wholesale Learn More",
-        "seoURL": "wholesale-learn-more",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026017",
-        "identifier": "MBP-TPF-Occasions~BossesDay",
-        "name": "Bosses Day",
-        "seoURL": "bosses-day-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049008",
-        "identifier": "MBP-TPF-Content~WholesaleBagline",
-        "name": "Wholesale Bagline",
-        "seoURL": "wholesale-bagline",
-        "guidedNavFlag": "0",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026018",
-        "identifier": "MBP-TPF-Occasions~SweetestDay",
-        "name": "Sweetest Day",
-        "seoURL": "sweetest-day-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049009",
-        "identifier": "MBP-TPF-Content~WholesaleBulkPopcorn",
-        "name": "Wholesale Bulk Popcorn",
-        "seoURL": "wholesale-bulk-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400026019",
-        "identifier": "MBP-TPF-Occasions~Christmas",
-        "name": "Christmas Gifts",
-        "seoURL": "christmas-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400053982",
-        "identifier": "MBP-TPF-HiddenCollections~FreeShipping",
-        "name": "Free Shipping",
-        "seoURL": "free-shipping-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400053983",
-        "identifier": "MBP-TPF-HiddenCollections~FreeShippingGifts",
-        "name": "Free Shipping Gifts",
-        "seoURL": "free-shipping-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400053984",
-        "identifier": "MBP-TPF-Occasions~BigAwardsShow",
-        "name": "Big Awards Show",
-        "seoURL": "big-awards-show",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000020",
-        "identifier": "MBP-TPF-GiftType",
-        "name": "Shop by Product",
-        "seoURL": "premium-popcorn-products",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000021",
-        "identifier": "MBP-TPF-GiftType~Baskets",
-        "name": "Gift Baskets",
-        "seoURL": "popcorn-gift-baskets",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400098517",
-        "identifier": "MBP-TPF-Content~SmartQR",
-        "name": "Smart QR",
-        "seoURL": "smart",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000022",
-        "identifier": "MBP-TPF-GiftType~BirthdayAnimals",
-        "name": "Birthday Animals",
-        "seoURL": "kids-birthday-gifts-favors",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400098518",
-        "identifier": "MBP-TPF-BusinessGifts~CorporateVIP",
-        "name": "Very Indulgent Popcorn",
-        "seoURL": "vip",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000023",
-        "identifier": "MBP-TPF-GiftType~CollegeTeams",
-        "name": "College Team Tins",
-        "seoURL": "college-team-tins",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000024",
-        "identifier": "MBP-TPF-GiftType~FunGifts",
-        "name": "Fun Gifts for Kids",
-        "seoURL": "fun-gift-ideas",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000025",
-        "identifier": "MBP-TPF-GiftType~GiftsforKids",
-        "name": "Gifts for Kids",
-        "seoURL": "gifts-for-kids",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000026",
-        "identifier": "MBP-TPF-GiftType~PersonalizedGifts",
-        "name": "Personalized Gifts",
-        "seoURL": "personalized-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000027",
-        "identifier": "MBP-TPF-GiftType~PopcornBalls",
-        "name": "Popcorn Balls",
-        "seoURL": "popcorn-balls-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000029",
-        "identifier": "MBP-TPF-GiftType~PopcornTins",
-        "name": "Popcorn Tins",
-        "seoURL": "popcorn-tin-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400159482",
-        "identifier": "MBP-TPF-What'sPopping?~HalloweenPartyIdeas",
-        "name": "Halloween Party Ideas",
-        "seoURL": "halloween-party-ideas",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049010",
-        "identifier": "MBP-TPF-Content~WholsaleCanisters",
-        "name": "Wholesale Canisters",
-        "seoURL": "wholesale-canisters",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049011",
-        "identifier": "MBP-TPF-Content~WholesaleGableBoxes",
-        "name": "Wholesale Gable Boxes",
-        "seoURL": "wholesale-gable-boxes",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049012",
-        "identifier": "MBP-TPF-Content~WholesalePopcornBalls",
-        "name": "Wholesale Popcorn Balls",
-        "seoURL": "wholesale-popcorn-balls",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049013",
-        "identifier": "MBP-TPF-Content~LargestPopcornBall",
-        "name": "Worlds Largest Popcorn Ball",
-        "seoURL": "worlds-largest-popcorn-ball",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102496",
-        "identifier": "MBP-TPF-GiftType~PopcornCards",
-        "name": "$5 Popcorn Cards",
-        "seoURL": "popcorn-cards",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400049015",
-        "identifier": "MBP-TPF-Content~WholesaleHome",
-        "name": "Wholesale Home",
-        "seoURL": "wholesale-home",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102498",
-        "identifier": "MBP-TPF-Content~MeetOurEmployees",
-        "name": "Meet Our Employees",
-        "seoURL": "new-meet-our-employees",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400181160",
-        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner",
-        "name": "Celebrations Popcorn Gift Planner",
-        "seoURL": "celebrations-popcorn-gift-planner",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400102499",
-        "identifier": "MBP-TPF-BusinessGifts~CorporateGiftsSpecialOffer",
-        "name": "Corporate Gifts Special Offer",
-        "seoURL": "corporate-gifts-special-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400053990",
-        "identifier": "MBP-TPF-GiftType~SayItInColor",
-        "name": "Say It In Color",
-        "seoURL": "say-it-in-color",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400182493",
-        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner~EverydayGifting2",
-        "name": "Everyday Gifting",
-        "seoURL": "everyday-gifting",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400113028",
-        "identifier": "MBP-TPF-GiftType~BunnyPatch",
-        "name": "Bunny Patch",
-        "seoURL": "bunny-patch"
-    },
-    {
-        "categoryId": "400127549",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateHalloweenSale",
-        "name": "Halloween Treats Special Sale",
-        "seoURL": "halloween-treats-special-sale"
-    },
-    {
-        "categoryId": "400098520",
-        "identifier": "MBP-TPF-Occasions~BlackFridaySale",
-        "name": "Black Friday Sale",
-        "seoURL": "black-friday-sale",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400181164",
-        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner~BackToSchool2",
-        "name": "Snack to School®",
-        "seoURL": "snack-to-school®",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400098521",
-        "identifier": "MBP-TPF-GiftType~VIP",
-        "name": "V.I.P. Access",
-        "seoURL": "vip-very-indulgent-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400197984",
-        "identifier": "MBP-TPF-HiddenCollections~SocialFacebookOffer",
-        "name": "Facebook Offer",
-        "seoURL": "facebook-offer"
-    },
-    {
-        "categoryId": "400098522",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayHolidayFS",
-        "name": "Free Shipping on Holiday Gifts",
-        "seoURL": "free-shipping-on-holiday-gifts"
-    },
-    {
-        "categoryId": "400180077",
-        "identifier": "MBP-TPF-Occasions~SympathyGiftsPopcorn",
-        "name": "Sympathy Gifts",
-        "seoURL": "popcorn-gifts-sympathy-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400197985",
-        "identifier": "MBP-TPF-HiddenCollections~MoneyMailer",
-        "name": "Money Mailer",
-        "seoURL": "money-mailer-offer"
-    },
-    {
-        "categoryId": "400182497",
-        "identifier": "MBP-TPF-HiddenCollections~CubsRadio",
-        "name": "Radio",
-        "seoURL": "radio--1"
-    },
-    {
-        "categoryId": "400098523",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayHoliday15",
-        "name": "Save 15% on Holiday Gifts",
-        "seoURL": "save-on-holiday-gifts"
-    },
-    {
-        "categoryId": "400098524",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayNewYear15",
-        "name": "Save 15% on New Year's Eve Gifts",
-        "seoURL": "save-on-new-years-eve-gifts"
-    },
-    {
-        "categoryId": "400182499",
-        "identifier": "MBP-TPF-HiddenCollections~CubsTheScore",
-        "name": "thescore",
-        "seoURL": "thescore"
-    },
-    {
-        "categoryId": "400098525",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayHanukkah15",
-        "name": "Save 15% on Hanukkah Gifts",
-        "seoURL": "save-on-hanukkah-gifts"
-    },
-    {
-        "categoryId": "400098526",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayHolidayat20",
-        "name": "Holiday Gifts Starting at $20",
-        "seoURL": "holiday-gifts-starting-at-20"
-    },
-    {
-        "categoryId": "3400000031",
-        "identifier": "MBP-TPF-GiftType~Samplers",
-        "name": "Samplers",
-        "seoURL": "popcorn-gift-samplers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000032",
-        "identifier": "MBP-TPF-GiftType~SnackAssortments",
-        "name": "Snack Assortments",
-        "seoURL": "popcorn-snack-assortments",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400183108",
-        "identifier": "MBP-TPF-SensationalFlavors~JellyBeanCornfetti",
-        "name": "Jelly Bean Cornfetti",
-        "seoURL": "jelly-bean-cornfetti",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000033",
-        "identifier": "MBP-TPF-GiftType~SportsTins",
-        "name": "Sports Tins",
-        "seoURL": "sports-tins",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000034",
-        "identifier": "MBP-TPF-GiftType~Towers",
-        "name": "Towers",
-        "seoURL": "gift-towers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000036",
-        "identifier": "MBP-TPF-HiddenCollections~BoxTops",
-        "name": "BoxTops",
-        "seoURL": "box-tops",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000037",
-        "identifier": "MBP-TPF-HiddenCollections~CollegeGifts",
-        "name": "CollegeGifts",
-        "seoURL": "college-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000038",
-        "identifier": "MBP-TPF-HiddenCollections~DIRECTVCustomers",
-        "name": "DIRECTVCustomers",
-        "seoURL": "direct-tv-customers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000039",
-        "identifier": "MBP-TPF-HiddenCollections~GiftsUnder30",
-        "name": "GiftsUnder30",
-        "seoURL": "gifts-under-30",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400127550",
-        "identifier": "MBP-TPF-HiddenCollections~SearchHalloweenSale",
-        "name": "Halloween Special Sale",
-        "seoURL": "halloween-special-sale"
-    },
-    {
-        "categoryId": "400127551",
-        "identifier": "MBP-TPF-HiddenCollections~SocialHalloweenSale",
-        "name": "Special Halloween Treat Sale",
-        "seoURL": "special-halloween-treat-sale"
-    },
-    {
-        "categoryId": "400113031",
-        "identifier": "MBP-TPF-BusinessGifts~AdminWeek",
-        "name": "Administrative Professional's Week",
-        "seoURL": "administrative-professionals-week",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400106982",
-        "identifier": "MBP-TPF-Occasions~ValentinesForMen",
-        "name": "Valentine's Gifts for Men",
-        "seoURL": "valentines-for-men",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400158047",
-        "identifier": "MBP-TPF-SensationalFlavors~HolidayKettleCorn",
-        "name": "Holiday Kettle Corn",
-        "seoURL": "holiday-kettle-corn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400117996",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateFathersDay",
-        "name": "Delicious Gifts for Father's Day",
-        "seoURL": "delicious-gifts-for-fathers-day"
-    },
-    {
-        "categoryId": "400181170",
-        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner~HalloweenTreats2",
-        "name": "Halloween Treats",
-        "seoURL": "halloween-treats",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400181173",
-        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner~PatrioticGifts2",
-        "name": "Patriotic Gifts",
-        "seoURL": "patriotic-gifts",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400113039",
-        "identifier": "MBP-TPF-HiddenCollections~BradsDeals",
-        "name": "Brads Deals",
-        "seoURL": "brads-deals--1"
-    },
-    {
-        "categoryId": "400181054",
-        "identifier": "MBP-TPF-HiddenCollections~ShowtimeSubscriberExclusiveOffer",
-        "name": "Showtime Exclusive Offer",
-        "seoURL": "showtime-subscriber-exclusive-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400098532",
-        "identifier": "MBP-TPF-HiddenCollections~EntBookFreeShipping",
-        "name": "Entertainment Book Offer",
-        "seoURL": "entertainment-book-free-shipping",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400160485",
-        "identifier": "MBP-TPF-HiddenCollections~HomepageHolidayOffer",
-        "name": "Holiday Special Offer",
-        "seoURL": "holiday-special-offer"
-    },
-    {
-        "categoryId": "400098533",
-        "identifier": "MBP-TPF-HiddenCollections~DoubleTakeOfferFreeShipping",
-        "name": "Double Take Offer Free Shipping",
-        "seoURL": "double-take-offer-free-shipping",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400181177",
-        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner~Thanksgiving2",
-        "name": "Thanksgiving Sale",
-        "seoURL": "thanksgiving-sale",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400160486",
-        "identifier": "MBP-TPF-HiddenCollections~HomepageHolidaySale",
-        "name": "Holiday Special Sale",
-        "seoURL": "holiday-special-sale"
-    },
-    {
-        "categoryId": "3400000040",
-        "identifier": "MBP-TPF-HiddenCollections~GreetingCans",
-        "name": "GreetingCans",
-        "seoURL": "greeting-cans",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000041",
-        "identifier": "MBP-TPF-HiddenCollections~HalloweenPickAFilling",
-        "name": "HalloweenPickAFilling",
-        "seoURL": "halloween-pick-a-filling-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000042",
-        "identifier": "MBP-TPF-HiddenCollections~Linkshare",
-        "name": "Linkshare",
-        "seoURL": "linkshare",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400185538",
-        "identifier": "MBP-TPF-HiddenCollections~BradsDealsNew",
-        "name": "Brads Deals Special Offer",
-        "seoURL": "brads-deals-special-offer"
-    },
-    {
-        "categoryId": "3400000043",
-        "identifier": "MBP-TPF-HiddenCollections~MardiGras",
-        "name": "MardiGras",
-        "seoURL": "mardi-gras-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000044",
-        "identifier": "MBP-TPF-HiddenCollections~NewGifts",
-        "name": "NewGifts",
-        "seoURL": "new-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000045",
-        "identifier": "MBP-TPF-GiftType~NewGifts",
-        "name": "New Gifts",
-        "seoURL": "new-gift-ideas",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400198609",
-        "identifier": "MBP-TPF-GiftType~GoldSnowflake",
-        "name": "Gold Snowflake",
-        "seoURL": "gold-snowflake",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "3400000046",
-        "identifier": "MBP-TPF-HiddenCollections~ShopAtHome",
-        "name": "ShopAtHome",
-        "seoURL": "shop-at-home",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000047",
-        "identifier": "MBP-TPF-HiddenCollections~ShopDiscover",
-        "name": "ShopDiscover",
-        "seoURL": "shop-discover",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000048",
-        "identifier": "MBP-TPF-HiddenCollections~Upromise",
-        "name": "Upromise",
-        "seoURL": "upromise",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000049",
-        "identifier": "MBP-TPF-Occasions",
-        "name": "Shop By Occasion",
-        "seoURL": "occasions",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400137002",
-        "identifier": "MBP-TPF-SensationalFlavors~BaconCheddar",
-        "name": "Bacon Cheddar Popcorn",
-        "seoURL": "bacon-cheddar-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400137003",
-        "identifier": "MBP-TPF-SensationalFlavors~BirthdayCelebrationCornfetti",
-        "name": "Birthday Celebration Cornfetti",
-        "seoURL": "birthday-celebration-cornfetti",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400129985",
-        "identifier": "MBP-TPF-BusinessGifts~LinkedInOffer",
-        "name": "LinkedIn Exclusive Offer",
-        "seoURL": "linkedin-exclusive-offer",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400137004",
-        "identifier": "MBP-TPF-SensationalFlavors~BunnyPopCornfetti",
-        "name": "Bunny Pop Cornfetti",
-        "seoURL": "bunny-pop-cornfetti",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400137489",
-        "identifier": "MBP-TPF-Content~Coupons",
-        "name": "The Popcorn Factory Coupon Page",
-        "seoURL": "the-popcorn-factory-coupon-page",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400137005",
-        "identifier": "MBP-TPF-SensationalFlavors~CaramelApple",
-        "name": "Caramel Apple",
-        "seoURL": "caramel-apple-corn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400099990",
-        "identifier": "MBP-TPF-HiddenCollections~TestPage",
-        "name": "Testpage",
-        "seoURL": "testpage"
-    },
-    {
-        "categoryId": "400137006",
-        "identifier": "MBP-TPF-SensationalFlavors~CelebrationCorn",
-        "name": "Celebration Corn",
-        "seoURL": "celebration-corn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400183482",
-        "identifier": "MBP-TPF-HiddenCollections~CBSOffer",
-        "name": "cbs offer",
-        "seoURL": "cbs-offer"
-    },
-    {
-        "categoryId": "400062482",
-        "identifier": "MBP-TPF-Occasions~IconicChicago",
-        "name": "Iconic Chicago",
-        "seoURL": "chicago-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400099992",
-        "identifier": "MBP-TPF-HiddenCollections~MysteryTinsforEmailSegmentation",
-        "name": "Mystery Tins",
-        "seoURL": "mystery-tins"
-    },
-    {
-        "categoryId": "400183484",
-        "identifier": "MBP-TPF-HiddenCollections~FreeShippingDayPopcornGifts",
-        "name": "Free Shipping Day Popcorn Gifts",
-        "seoURL": "free-shipping-day-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400198610",
-        "identifier": "MBP-TPF-GiftType~HappyHolidays",
-        "name": "Happy Holidays",
-        "seoURL": "happy-holidays",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400175983",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayFathersDay",
-        "name": "Father's Day Popcorn Gifts",
-        "seoURL": "fathers-day-popcorn-gifts"
-    },
-    {
-        "categoryId": "400198611",
-        "identifier": "MBP-TPF-GiftType~WinterWonderland",
-        "name": "Winter Wonderland",
-        "seoURL": "winter-wonderland",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400198612",
-        "identifier": "MBP-TPF-GiftType~SantasBelt",
-        "name": "Santa's Belt",
-        "seoURL": "santas-belt",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400054985",
-        "identifier": "MBP-TPF-GiftType~ChocolateBunny",
-        "name": "Chocolate Bunny",
-        "seoURL": "chocolate-bunny",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400198613",
-        "identifier": "MBP-TPF-GiftType~Nutcracker",
-        "name": "Nutcracker",
-        "seoURL": "nutcracker",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000050",
-        "identifier": "MBP-TPF-Occasions~BackToSchool",
-        "name": "Snack to School®",
-        "seoURL": "snack-to-school",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400160499",
-        "identifier": "MBP-TPF-HiddenCollections~HomepageHolidayDeals",
-        "name": "Holiday Deals",
-        "seoURL": "holiday-deals"
-    },
-    {
-        "categoryId": "3400000051",
-        "identifier": "MBP-TPF-Occasions~CollegeGifts",
-        "name": "College Gifts",
-        "seoURL": "college-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000052",
-        "identifier": "MBP-TPF-Occasions~Easter",
-        "name": "Easter",
-        "seoURL": "easter-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000053",
-        "identifier": "MBP-TPF-Occasions~FamilyNight",
-        "name": "Family Night",
-        "seoURL": "family-night-ideas",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000054",
-        "identifier": "MBP-TPF-Occasions~Hanukkah",
-        "name": "Hanukkah",
-        "seoURL": "popcorn-hanukkah-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000055",
-        "identifier": "MBP-TPF-Occasions~MardiGras",
-        "name": "Mardi Gras",
-        "seoURL": "mardis-gras-party",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000056",
-        "identifier": "MBP-TPF-Occasions~Spring",
-        "name": "Spring",
-        "seoURL": "spring-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000057",
-        "identifier": "MBP-TPF-Occasions~StPatricksDay",
-        "name": "St Patrick's Day",
-        "seoURL": "st-patricks-day-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000058",
-        "identifier": "MBP-TPF-Occasions~Thanksgiving",
-        "name": "Thanksgiving",
-        "seoURL": "thanksgiving-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000059",
-        "identifier": "MBP-TPF-Occasions~ValentinesDay",
-        "name": "Valentine's Day",
-        "seoURL": "valentines-day-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400126486",
-        "identifier": "MBP-TPF-BusinessGifts~CorporateHolidayGifts2",
-        "name": "Corporate Gifts for the Holidays",
-        "seoURL": "corporate-gifts-for-the-holidays",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400172482",
-        "identifier": "MBP-TPF-HiddenCollections~SaveAround2",
-        "name": "Save",
-        "seoURL": "save"
-    },
-    {
-        "categoryId": "400198622",
-        "identifier": "MBP-TPF-GiftType~CrimsonCardinal",
-        "name": "Crimson Cardinal",
-        "seoURL": "crimson-cardinal",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400198623",
-        "identifier": "MBP-TPF-GiftType~SimplyRed",
-        "name": "Simply Red",
-        "seoURL": "simply-red",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400043985",
-        "identifier": "MBP-TPF-BusinessGifts~EnableCookies",
-        "name": "Enable Browser Cookie",
-        "seoURL": "enable-browser-cookie-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000060",
-        "identifier": "MBP-TPF-SensationalFlavors",
-        "name": "SensationalFlavors",
-        "seoURL": "sensational-popcorn-flavors",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400130501",
-        "identifier": "MBP-TPF-FreshRewards-400130501",
-        "name": "MBP-TPF-FreshRewards-400130501",
-        "seoURL": "freshrewards-400130501"
-    },
-    {
-        "categoryId": "3400000061",
-        "identifier": "MBP-TPF-SensationalFlavors~AlmondPecan",
-        "name": "Almond Pecan",
-        "seoURL": "almond-pecan-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000062",
-        "identifier": "MBP-TPF-SensationalFlavors~BuffaloRanch",
-        "name": "Buffalo Ranch",
-        "seoURL": "buffalo-ranch-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000063",
-        "identifier": "MBP-TPF-SensationalFlavors~Butter",
-        "name": "Butter",
-        "seoURL": "butter-flavored-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000064",
-        "identifier": "MBP-TPF-SensationalFlavors~Caramel",
-        "name": "Caramel",
-        "seoURL": "caramel-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000065",
-        "identifier": "MBP-TPF-SensationalFlavors~Cheese",
-        "name": "Cheese",
-        "seoURL": "cheese-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000066",
-        "identifier": "MBP-TPF-SensationalFlavors~ChocDrizzle",
-        "name": "Chocolate Drizzle",
-        "seoURL": "chocolate-drizzle-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000067",
-        "identifier": "MBP-TPF-SensationalFlavors~Cinnamon",
-        "name": "Cinnamon",
-        "seoURL": "cinnamon-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000068",
-        "identifier": "MBP-TPF-SensationalFlavors~CrackedPepper",
-        "name": "Cracked Pepper",
-        "seoURL": "cracked-pepper-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000069",
-        "identifier": "MBP-TPF-SensationalFlavors~DarkChocSeaSalt",
-        "name": "Dark Chocolate SeaSalt",
-        "seoURL": "dark-chocolate-sea-salt-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400126491",
-        "identifier": "MBP-TPF-HiddenCollections~NatlPopcornMonth",
-        "name": "National Popcorn Popping Month",
-        "seoURL": "national-popcorn-popping-month"
-    },
-    {
-        "categoryId": "400126492",
-        "identifier": "MBP-TPF-HiddenCollections~TwoDaySpecialOffer",
-        "name": "Two Day Special Offer",
-        "seoURL": "two-day-special-offer"
-    },
-    {
-        "categoryId": "400126493",
-        "identifier": "MBP-TPF-HiddenCollections~Cooking",
-        "name": "Cooking",
-        "seoURL": "cooking"
-    },
-    {
-        "categoryId": "400126494",
-        "identifier": "MBP-TPF-HiddenCollections~SearchFall",
-        "name": "Fall Offer",
-        "seoURL": "fall-gifts-offer"
-    },
-    {
-        "categoryId": "400115483",
-        "identifier": "MBP-TPF-HiddenCollections~SearchMothersDay",
-        "name": "Gifts for Mother's Day ",
-        "seoURL": "gifts-for-mothers-day"
-    },
-    {
-        "categoryId": "400127585",
-        "identifier": "MBP-TPF-HiddenCollections~BelardiOstrayDigitalAcquisition2",
-        "name": "Exclusive Holiday Offer from The Popcorn Factory",
-        "seoURL": "exclusive-holiday-offer"
-    },
-    {
-        "categoryId": "400103022",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayBirthday15",
-        "name": "Birthday Gifts",
-        "seoURL": "birthday15"
-    },
-    {
-        "categoryId": "400127586",
-        "identifier": "MBP-TPF-HiddenCollections~BelardiOstrayDigitalAcquisition3",
-        "name": "Exclusive Holiday Gifts Offer from The Popcorn Factory",
-        "seoURL": "exclusive-holiday-gifts-offer"
-    },
-    {
-        "categoryId": "400103023",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayThankYou15",
-        "name": "Thank You Gifts",
-        "seoURL": "thankyou15"
-    },
-    {
-        "categoryId": "400103024",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayFantasticFlavors",
-        "name": "Fantastic Flavors",
-        "seoURL": "fantastic-flavors"
-    },
-    {
-        "categoryId": "400103026",
-        "identifier": "MBP-TPF-HiddenCollections~WXRTRadio",
-        "name": "WXRT Radio Collection",
-        "seoURL": "wxrt-radio",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400103027",
-        "identifier": "MBP-TPF-HiddenCollections~WXRTBanners",
-        "name": "WXRT Radio Holiday Collection",
-        "seoURL": "wxrt-holiday-gift-collection",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400040482",
-        "identifier": "MBP-TPF-SensationalFlavors~SeaSaltSlim",
-        "name": "Sea Salt Slim",
-        "seoURL": "sea-salt-slim",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400103028",
-        "identifier": "MBP-TPF-HiddenCollections~WXRTCBSBanners",
-        "name": "WXRT CBS Holiday Collection",
-        "seoURL": "wxrt-cbs-holiday-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400174553",
-        "identifier": "MBP-TPF-Occasions~Babies",
-        "name": "Babies",
-        "seoURL": "babies",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400181088",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayHolidayVideo",
-        "name": "Holiday Gifts Video Offer",
-        "seoURL": "holiday-gifts-video-offer"
-    },
-    {
-        "categoryId": "400161002",
-        "identifier": "MBP-TPF-HiddenCollections~Rewards",
-        "name": "Rewards",
-        "seoURL": "rewards"
-    },
-    {
-        "categoryId": "400174554",
-        "identifier": "MBP-TPF-Occasions~Weddings",
-        "name": "Weddings",
-        "seoURL": "wedding-gift-snacks-treats"
-    },
-    {
-        "categoryId": "3400000070",
-        "identifier": "MBP-TPF-SensationalFlavors~GingerTeriyaki",
-        "name": "Ginger Teriyaki",
-        "seoURL": "ginger-teriyaki-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000071",
-        "identifier": "MBP-TPF-SensationalFlavors~Jalapeno",
-        "name": "Jalapeno",
-        "seoURL": "jalapeno-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400161004",
-        "identifier": "MBP-TPF-HiddenCollections~TPFPassport",
-        "name": "Passport",
-        "seoURL": "passport--1"
-    },
-    {
-        "categoryId": "3400000072",
-        "identifier": "MBP-TPF-SensationalFlavors~Kettle",
-        "name": "Kettle",
-        "seoURL": "kettle-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400161489",
-        "identifier": "MBP-TPF-GiftType~PersonalizedGiftsRem",
-        "name": "removed",
-        "seoURL": "removed",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000073",
-        "identifier": "MBP-TPF-SensationalFlavors~PeanutBrittle",
-        "name": "Peanut Brittle",
-        "seoURL": "peanut-brittle-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000074",
-        "identifier": "MBP-TPF-SensationalFlavors~S'mores",
-        "name": "S'mores",
-        "seoURL": "smores-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000075",
-        "identifier": "MBP-TPF-SensationalFlavors~DrizToffeeAlmondPretzel",
-        "name": "Drizzled Toffee Almond Pretzel",
-        "seoURL": "drizzled-toffee-almond-pretzel",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000076",
-        "identifier": "MBP-TPF-SensationalFlavors~WhiteCheddar",
-        "name": "White Cheddar",
-        "seoURL": "white-cheddar-gourmet-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000077",
-        "identifier": "MBP-TPF-What'sPopping?",
-        "name": "Shop For Popcorn",
-        "seoURL": "whats-popping",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000078",
-        "identifier": "MBP-TPF-What'sPopping?~MovieNightSnacks",
-        "name": "Movie Night Snacks",
-        "seoURL": "movie-night-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400130519",
-        "identifier": "MBP-TPF-What'sPopping?~FannieMayRedirect",
-        "name": "Fannie May Shoppers",
-        "seoURL": "fannie-may-shoppers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000079",
-        "identifier": "MBP-TPF-What'sPopping?~BakeSale",
-        "name": "Bake Sale",
-        "seoURL": "bake-sale",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400103030",
-        "identifier": "MBP-TPF-HiddenCollections~WXRTCD",
-        "name": "WXRT Holiday CD Collection",
-        "seoURL": "xrt",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400103031",
-        "identifier": "MBP-TPF-HiddenCollections~WXRTCBSFSBanners",
-        "name": "WXRT CBS Free Ship Collection",
-        "seoURL": "cbs-free-ship-collection",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400138001",
-        "identifier": "MBP-TPF-BusinessGifts~GetWell",
-        "name": "Get Well Gifts",
-        "seoURL": "get-well",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400103032",
-        "identifier": "MBP-TPF-HiddenCollections~WXRTFSBanners",
-        "name": "WXRT Radio Free Ship Collection",
-        "seoURL": "wxrt-free-ship-collection",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400063482",
-        "identifier": "MBP-TPF-GiftType~SpringTins",
-        "name": "Spring Tins",
-        "seoURL": "spring-tins",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400097483",
-        "identifier": "MBP-TPF-Occasions~FallPreview",
-        "name": "Fall Preview",
-        "seoURL": "fallpreview",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400160042",
-        "identifier": "MBP-TPF-GiftType~PopcornGiftsforHim",
-        "name": "Popcorn Gifts for Him",
-        "seoURL": "popcorn-gifts-for-him",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400184123",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateEaster",
-        "name": "Easter Treats Special Offer",
-        "seoURL": "easter-treats-special-offer"
-    },
-    {
-        "categoryId": "3400000080",
-        "identifier": "MBP-TPF-What'sPopping?~Bakery",
-        "name": "Bakery",
-        "seoURL": "bakery",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000081",
-        "identifier": "MBP-TPF-What'sPopping?~BestSellers",
-        "name": "Best Sellers",
-        "seoURL": "best-sellers-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000082",
-        "identifier": "MBP-TPF-What'sPopping?~CarePackages",
-        "name": "Care Packages",
-        "seoURL": "care-packages",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000083",
-        "identifier": "MBP-TPF-What'sPopping?~FantasticFlavors",
-        "name": "Fantastic Popcorn Flavors",
-        "seoURL": "clear-favorites-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000084",
-        "identifier": "MBP-TPF-What'sPopping?~CollegeTeamTins",
-        "name": "College Team Popcorn Tins",
-        "seoURL": "college-sports-popcorn-tins",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000085",
-        "identifier": "MBP-TPF-What'sPopping?~FeaturedGifts",
-        "name": "Featured Gifts",
-        "seoURL": "popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000086",
-        "identifier": "MBP-TPF-What'sPopping?~FlavorGuide",
-        "name": "Flavor Guide",
-        "seoURL": "flavorguide",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000087",
-        "identifier": "MBP-TPF-What'sPopping?~IndividualFlavors",
-        "name": "Individual Flavors",
-        "seoURL": "popcorn-individual-bags",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000088",
-        "identifier": "MBP-TPF-What'sPopping?~Pick-a-FlavorPopcorn",
-        "name": "Pick-a-Flavor Popcorn",
-        "seoURL": "pick-a-flavor-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400119502",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateSurfMyAds",
-        "name": "Surf My Ads Offer",
-        "seoURL": "surf-my-ads-offer"
-    },
-    {
-        "categoryId": "400119987",
-        "identifier": "MBP-TPF-Celebrations~ChristmasInJuly",
-        "name": "Christmas in July",
-        "seoURL": "christmas-in-july-sale"
-    },
-    {
-        "categoryId": "400119503",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateSpotOn",
-        "name": "SpotOn Offer",
-        "seoURL": "spoton-offer"
-    },
-    {
-        "categoryId": "400052482",
-        "identifier": "MBP-TPF-Occasions~SnacksfortheBigGame",
-        "name": "Game Day Snacks",
-        "seoURL": "snacks-for-the-big-game",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400173483",
-        "identifier": "MBP-TPF-HiddenCollections~RedboxPlaypass",
-        "name": "Redbox Play Pass Offers",
-        "seoURL": "redbox-playpass"
-    },
-    {
-        "categoryId": "3400000090",
-        "identifier": "MBP-TPF-What'sPopping?~PopcornFlavors",
-        "name": "Popcorn Flavors",
-        "seoURL": "popcorn-flavors",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000091",
-        "identifier": "MBP-TPF-What'sPopping?~PuzzleCollection",
-        "name": "Puzzle Collection",
-        "seoURL": "popcorn-puzzle-tins",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000092",
-        "identifier": "MBP-TPF-What'sPopping?~Refills",
-        "name": "Refills",
-        "seoURL": "popcorn-tin-refills",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000093",
-        "identifier": "MBP-TPF-What'sPopping?~SnackAttack",
-        "name": "Snack Attack",
-        "seoURL": "snack-attack",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400130534",
-        "identifier": "MBP-TPF-HiddenCollections~HomePageFreeShipping",
-        "name": "Ship 4 Free",
-        "seoURL": "ship-4-free"
-    },
-    {
-        "categoryId": "3400000094",
-        "identifier": "MBP-TPF-What'sPopping?~SnackClub",
-        "name": "Snack of the Month Club",
-        "seoURL": "snack-of-the-month-club-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000095",
-        "identifier": "MBP-TPF-What'sPopping?~SpecialValues",
-        "name": "Special Values",
-        "seoURL": "special-values",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000096",
-        "identifier": "MBP-TPF-What'sPopping?~SportsTins",
-        "name": "Sports Tins",
-        "seoURL": "popcorn-sports-tins",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000097",
-        "identifier": "MBP-TPF-What'sPopping?~SugarFreeLite",
-        "name": "Sugar Free Lite",
-        "seoURL": "sugar-free-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000098",
-        "identifier": "MBP-TPF-What'sPopping?~WebsiteExclusives",
-        "name": "Website Exclusives",
-        "seoURL": "website-exclusives",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "3400000099",
-        "identifier": "MBP-TPF-What'sPopping?~EverydayValues",
-        "name": "Everyday Values",
-        "seoURL": "everyday-values",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400090500",
-        "identifier": "MBP-TPF-GiftType~SummerTins",
-        "name": "Summer Tins",
-        "seoURL": "summer-tins",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400029482",
-        "identifier": "MBP-TPF-Celebrations~SummerofSmiles",
-        "name": "Summer of a Million Smiles",
-        "seoURL": "summer-of-a-million-smiles",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400116482",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateMothersDay",
-        "name": "Delicious Gifts for Mother's Day",
-        "seoURL": "delicious-gifts-for-mothers-day"
-    },
-    {
-        "categoryId": "400127495",
-        "identifier": "MBP-TPF-HiddenCollections~BelardiOstrayDigitalAcquisition1",
-        "name": "Exclusive Offer from The Popcorn Factory",
-        "seoURL": "exclusive-special-offer"
-    },
-    {
-        "categoryId": "400119510",
-        "identifier": "MBP-TPF-What'sPopping?~SharetheFun",
-        "name": "Share the Fun",
-        "seoURL": "share-the-fun",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400108983",
-        "identifier": "MBP-TPF-Content~WholesaleLiteWorks",
-        "name": "Wholesale Lite Works",
-        "seoURL": "wholesale-lite-works",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400108984",
-        "identifier": "MBP-TPF-HiddenCollections~WelcomeBack",
-        "name": "Welcome Back",
-        "seoURL": "welcome-back"
-    },
-    {
-        "categoryId": "400029488",
-        "identifier": "MBP-TPF-GiftType~SummerDeals",
-        "name": "Summer Deals",
-        "seoURL": "summer-deals",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400196483",
-        "identifier": "MBP-TPF-SensationalFlavors~PumpkinSpice",
-        "name": "Pumpkin Spice",
-        "seoURL": "pumpkin-spice",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400165991",
-        "identifier": "MBP-TPF-BusinessGifts~PopcornTins",
-        "name": "Popcorn Tins Corporate Gifts",
-        "seoURL": "popcorn-tins-corporate-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400160063",
-        "identifier": "MBP-TPF-HiddenCollections~ShopRunner",
-        "name": "ShopRunner",
-        "seoURL": "shoprunner",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400033982",
-        "identifier": "MBP-TPF-What'sPopping?~NFLTeamTins",
-        "name": "NFL Team Popcorn Tins",
-        "seoURL": "nfl-team-popcorn-tins",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400162002",
-        "identifier": "MBP-TPF-HiddenCollections~Deals",
-        "name": "Popcorn Deals",
-        "seoURL": "deals--1"
-    },
-    {
-        "categoryId": "400198666",
-        "identifier": "MBP-TPF-HiddenCollections~Marketplace",
-        "name": "Marketplace",
-        "seoURL": "marketplace",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400196009",
-        "identifier": "MBP-TPF-HiddenCollections~FSIHalloween50",
-        "name": "Halloween50 Offer",
-        "seoURL": "halloween50-offer"
-    },
-    {
-        "categoryId": "400090510",
-        "identifier": "MBP-TPF-GiftType~PinterestPins",
-        "name": "Pinterest Pins",
-        "seoURL": "pinterest",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400119521",
-        "identifier": "MBP-TPF-GiftType~CaramelLovers",
-        "name": "Caramel Lovers",
-        "seoURL": "caramel-lovers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400029498",
-        "identifier": "MBP-TPF-Strawberries~strawberries",
-        "name": "Strawberries Collection",
-        "seoURL": "popcorn-strawberries-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400103068",
-        "identifier": "MBP-TPF-GiftType~CanisterClubs",
-        "name": "Canister Clubs",
-        "seoURL": "canister-clubs",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400116016",
-        "identifier": "MBP-TPF-Occasions~ArmedForces",
-        "name": "Armed Forces Day",
-        "seoURL": "armed-forces-day",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400064482",
-        "identifier": "MBP-TPF-HiddenCollections~EarthDay",
-        "name": "Earth Day",
-        "seoURL": "earth-day-special-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400196010",
-        "identifier": "MBP-TPF-HiddenCollections~FSIHalloween17",
-        "name": "Halloween17 Offer",
-        "seoURL": "halloween17-offer"
-    },
-    {
-        "categoryId": "400064483",
-        "identifier": "MBP-TPF-HiddenCollections~MothersDay",
-        "name": "Mother's Day",
-        "seoURL": "mothers-day-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400196011",
-        "identifier": "MBP-TPF-HiddenCollections~FSISpooky17",
-        "name": "Spooky17 Offer",
-        "seoURL": "spooky17-offer"
-    },
-    {
-        "categoryId": "400064484",
-        "identifier": "MBP-TPF-What'sPopping?~MeetOurEmployees",
-        "name": "Meet Our Employees",
-        "seoURL": "employee-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400022982",
-        "identifier": "MBP-TPF-Occasions~AdminWeek",
-        "name": "Administrative Professionals Week",
-        "seoURL": "administrative-professionals-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400098486",
-        "identifier": "MBP-TPF-HiddenCollections~GSTVHAL20",
-        "name": "GSTV20 Halloween Gifts",
-        "seoURL": "ghost-popcorn-gifts"
-    },
-    {
-        "categoryId": "400098487",
-        "identifier": "MBP-TPF-HiddenCollections~GSTVHALFS",
-        "name": "GSTVFS Halloween Gifts",
-        "seoURL": "spooky-popcorn-gifts"
-    },
-    {
-        "categoryId": "400098488",
-        "identifier": "MBP-TPF-HiddenCollections~GSTVHOLFS",
-        "name": "GSTVFS Holiday Gifts",
-        "seoURL": "claus-popcorn-gifts"
-    },
-    {
-        "categoryId": "400098489",
-        "identifier": "MBP-TPF-HiddenCollections~GSTVHOL20",
-        "name": "GSTV20 Holiday Gifts",
-        "seoURL": "santa-popcorn-gifts"
-    },
-    {
-        "categoryId": "400064488",
-        "identifier": "MBP-TPF-SpecialOffer~FreeShippingCollection",
-        "name": "Free Shipping Offer",
-        "seoURL": "free-shipping-special-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400064489",
-        "identifier": "MBP-TPF-Occasions~EarthDay",
-        "name": "Earth Day",
-        "seoURL": "earth-day",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400098490",
-        "identifier": "MBP-TPF-HiddenCollections~GSTVHAN20",
-        "name": "GSTV20 Hanukkah Gifts",
-        "seoURL": "festival-popcorn-gifts"
-    },
-    {
-        "categoryId": "400098491",
-        "identifier": "MBP-TPF-HiddenCollections~GSTVHANFS",
-        "name": "GSTVFS Hanukkah Gifts",
-        "seoURL": "lights-popcorn-gifts"
-    },
-    {
-        "categoryId": "400098492",
-        "identifier": "MBP-TPF-HiddenCollections~GSTVNYFS",
-        "name": "GSTVFS New Year Gifts",
-        "seoURL": "cheers-popcorn-gifts"
-    },
-    {
-        "categoryId": "400098493",
-        "identifier": "MBP-TPF-HiddenCollections~GSTVNY20",
-        "name": "GSTV20 New Year Gifts",
-        "seoURL": "happy-popcorn-gifts"
-    },
-    {
-        "categoryId": "400140000",
-        "identifier": "MBP-TPF-HiddenCollections~HidePassport",
-        "name": "TPF Hide Passport",
-        "seoURL": "tpf-hide-passport"
-    },
-    {
-        "categoryId": "400053485",
-        "identifier": "MBP-TPF-Occasions~ChicagosBirthday",
-        "name": "Chicago's Birthday",
-        "seoURL": "chicagobirthday",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400160086",
-        "identifier": "TPF-Best of Brands-400160086",
-        "name": "The Popcorn Factory Best of Brands",
-        "seoURL": "best-of-brands-the-popcorn-factory",
-        "guidedNavFlag": "1"
-    },
-    {
-        "categoryId": "400140486",
-        "identifier": "MBP-TPF-HiddenCollections~DisplaySpring",
-        "name": "Spring Popcorn Gifts",
-        "seoURL": "spring-popcorn-gifts-and-treats"
-    },
-    {
-        "categoryId": "400140489",
-        "identifier": "MBP-TPF-HiddenCollections~IMMomFS",
-        "name": "Moms Day Free Shipping",
-        "seoURL": "moms-day-free-shipping"
-    },
-    {
-        "categoryId": "400091982",
-        "identifier": "MBP-TPF-Content~YahooUsers",
-        "name": "Yahoo Users",
-        "seoURL": "yahoo-users",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400091984",
-        "identifier": "MBP-TPF-Celebrations~BirthdaySale",
-        "name": "Birthday Sale",
-        "seoURL": "birthday-sale",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400053490",
-        "identifier": "MBP-TPF-HiddenCollections~CelebrationInspirations",
-        "name": "Celebration Inspirations",
-        "seoURL": "celebration-inspirations",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400140490",
-        "identifier": "MBP-TPF-HiddenCollections~IMMomOffer",
-        "name": "Moms Day Offer",
-        "seoURL": "moms-day-offer"
-    },
-    {
-        "categoryId": "400053491",
-        "identifier": "MBP-TPF-Occasions~RandomActsofKindness",
-        "name": "Random Acts of Kindness",
-        "seoURL": "random-acts-of-kindness",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400140491",
-        "identifier": "MBP-TPF-HiddenCollections~SocialEveryday",
-        "name": "Welcome Facebook Fans",
-        "seoURL": "welcome-facebook-fans"
-    },
-    {
-        "categoryId": "400053492",
-        "identifier": "MBP-TPF-GiftType~SmileyFace",
-        "name": "Smiley Face",
-        "seoURL": "smiley-face",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400053493",
-        "identifier": "MBP-TPF-HiddenCollections~PreviousInspirations",
-        "name": "Previous Inspirations",
-        "seoURL": "previous-inspirations",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400053496",
-        "identifier": "MBP-TPF-HiddenCollections~EasterEntertainment",
-        "name": "Easter",
-        "seoURL": "easter-gifts-special",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400176554",
-        "identifier": "MBP-TPF-HiddenCollections~SympathyPopcornGifts",
-        "name": "Sympathy Popcorn Gifts",
-        "seoURL": "sympathy-popcorn-gifts"
-    },
-    {
-        "categoryId": "400053498",
-        "identifier": "MBP-TPF-GiftType~EggCeptionalEaster",
-        "name": "Egg-Ceptional Easter",
-        "seoURL": "eggceptional-easter",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400189508",
-        "identifier": "MBP-TPF-Occasions~TeacherAppreciation",
-        "name": "Teacher Appreciation",
-        "seoURL": "teacher-appreciation",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400103093",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayEveryday15",
-        "name": "Everyday Gifts",
-        "seoURL": "everyday15"
-    },
-    {
-        "categoryId": "400106482",
-        "identifier": "MBP-TPF-Occasions~ValentineGiftGuide",
-        "name": "Valentine Gift Guide",
-        "seoURL": "popcorn-valentine-gift-guide",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400103094",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayWinter15",
-        "name": "Save 15% on Winter Gifts",
-        "seoURL": "wintergifts15"
-    },
-    {
-        "categoryId": "400103095",
-        "identifier": "MBP-TPF-GiftType~Slim",
-        "name": "Slim Line",
-        "seoURL": "slim-line",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400106483",
-        "identifier": "MBP-TPF-Occasions~Valentines25under",
-        "name": "Valentines Gifts Shop 25 and Under",
-        "seoURL": "valentines-gifts-shop-25-and-under",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400128022",
-        "identifier": "MBP-TPF-HiddenCollections~Affiliate20OFF",
-        "name": "Affiliate Offers",
-        "seoURL": "ghostly"
-    },
-    {
-        "categoryId": "400106484",
-        "identifier": "MBP-TPF-Occasions~Valentines25-40",
-        "name": "Valentines Gifts Shop 25 - 40",
-        "seoURL": "valentines-gifts-shop-25---40",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400106485",
-        "identifier": "MBP-TPF-Occasions~Valentines40-55",
-        "name": "Valentines Gifts Shop 40 - 55",
-        "seoURL": "valentines-gifts-shop-40---55",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400106486",
-        "identifier": "MBP-TPF-Occasions~Valentines55+",
-        "name": "Valentines Gifts Shop 55 +",
-        "seoURL": "valentines-gifts-shop-55-",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400109514",
-        "identifier": "MBP-TPF-HiddenCollections~OneDaySale",
-        "name": "One Day Sale",
-        "seoURL": "one-day-sale"
-    },
-    {
-        "categoryId": "400189992",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateShopCom",
-        "name": "Shop Dot Com Special Offer",
-        "seoURL": "shop-dot-com-special-offer",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400099485",
-        "identifier": "MBP-TPF-HiddenCollections~JBTest",
-        "name": "#JustBecause",
-        "seoURL": "just-because-gift"
-    },
-    {
-        "categoryId": "400144982",
-        "identifier": "MBP-TPF-HiddenCollections~CorpSpecial",
-        "name": "Corporate Special",
-        "seoURL": "corporate-special"
-    },
-    {
-        "categoryId": "400110506",
-        "identifier": "MBP-TPF-HiddenCollections~ValentinesDaySearch",
-        "name": "Valentine's Day Search for Gifts",
-        "seoURL": "valentines-day-search-for-gifts"
-    },
-    {
-        "categoryId": "400046984",
-        "identifier": "MBP-TPF-GiftType~FanaticsLine",
-        "name": "Fanatics Line",
-        "seoURL": "fanatics-line",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400178998",
-        "identifier": "MBP-TPF-Occasions~HalloweenGiftGuide",
-        "name": "Halloween Gift Guide",
-        "seoURL": "halloween-gift-guide-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400046988",
-        "identifier": "MBP-TPF-Content~CompanyOverview",
-        "name": "Company Overview",
-        "seoURL": "company-overview",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400133988",
-        "identifier": "MBP-TPF-HiddenCollections~SearchEveryDayGifts",
-        "name": "Gifts for Every Occasion",
-        "seoURL": "gifts-for-every-occasion"
-    },
-    {
-        "categoryId": "400110516",
-        "identifier": "MBP-TPF-HiddenCollections~OneDaySpecial",
-        "name": "One Day Special Offer",
-        "seoURL": "one-day-special-offer"
-    },
-    {
-        "categoryId": "400128042",
-        "identifier": "MBP-TPF-BusinessGifts~IncentiveGifts",
-        "name": "Incentive Gifts",
-        "seoURL": "popcorn-incentive-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400118485",
-        "identifier": "MBP-TPF-HiddenCollections~OfferCorp",
-        "name": "Email Offer Corp",
-        "seoURL": "email-offer-corp"
-    },
-    {
-        "categoryId": "400196062",
-        "identifier": "MBP-TPF-HiddenCollections~CelebrationsOffers-400196062",
-        "name": "Celebrations Offers",
-        "seoURL": "elm-offers-tpf"
-    },
-    {
-        "categoryId": "400046990",
-        "identifier": "MBP-TPF-Occasions~TopTen",
-        "name": "Top Ten Gifts",
-        "seoURL": "top-ten-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400167514",
-        "identifier": "MBP-TPF-What'sPopping?~SweetDeals",
-        "name": "Sweet Deals",
-        "seoURL": "sweet-popcorn-deals",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400167518",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayEasterVideo",
-        "name": "Popcorn Gifts and Treats for Easter",
-        "seoURL": "popcorn-gifts-and-treats-for-easter"
-    },
-    {
-        "categoryId": "400167519",
-        "identifier": "MBP-TPF-BusinessGifts~SimplyWhite",
-        "name": "Simply White",
-        "seoURL": "simply-white"
-    },
-    {
-        "categoryId": "400187485",
-        "identifier": "MBP-TPF-Occasions~PopcornClearance",
-        "name": "Clearance",
-        "seoURL": "popcorn-clearance",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400167521",
-        "identifier": "MBP-TPF-BusinessGifts~SeasonalFavorites",
-        "name": "Seasonal Favorites",
-        "seoURL": "seasonal-favorites"
-    },
-    {
-        "categoryId": "400167522",
-        "identifier": "MBP-TPF-BusinessGifts~SimplyStated",
-        "name": "Simply Stated",
-        "seoURL": "simply-stated"
-    },
-    {
-        "categoryId": "400167523",
-        "identifier": "MBP-TPF-BusinessGifts~GiftsforEveryone",
-        "name": "Gifts for Everyone",
-        "seoURL": "gifts-for-everyone",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400179987",
-        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Halloween-Night",
-        "name": "Night",
-        "seoURL": "night--1"
-    },
-    {
-        "categoryId": "400167524",
-        "identifier": "MBP-TPF-BusinessGifts~ClearWinners",
-        "name": "Clear Winners",
-        "seoURL": "clear-winners",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400046524",
-        "identifier": "MBP-TPF-HiddenCollections~FreeShippingCollection",
-        "name": "Free Shipping",
-        "seoURL": "free-shipping-gifts-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400179988",
-        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Halloween-Scary",
-        "name": "Scary",
-        "seoURL": "scary--1"
-    },
-    {
-        "categoryId": "400167525",
-        "identifier": "MBP-TPF-BusinessGifts~ClubsandCards",
-        "name": "Clubs & Cards",
-        "seoURL": "clubs---cards",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400046525",
-        "identifier": "MBP-TPF-HiddenCollections~NextJumpNextDay",
-        "name": "NextJump Next Day Shipping Collection",
-        "seoURL": "nextjump-next-day-shipping-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400179989",
-        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Halloween-ScaryNight",
-        "name": "Scary Night",
-        "seoURL": "scary-night"
-    },
-    {
-        "categoryId": "400046526",
-        "identifier": "MBP-TPF-HiddenCollections~NextJumpTwoDay",
-        "name": "NextJump Two Day Shipping Collection",
-        "seoURL": "nextjump-two-day-shipping-collection",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400167527",
-        "identifier": "MBP-TPF-BusinessGifts~CustomizedPopcornGifts",
-        "name": "Customized Popcorn Gifts",
-        "seoURL": "customized-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400167528",
-        "identifier": "MBP-TPF-BusinessGifts~SnackClubsforCorporate",
-        "name": "Snack of the Month Clubs",
-        "seoURL": "snack-clubs-for-corporate",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400179508",
-        "identifier": "MBP-TPF-HiddenCollections~SnipSnapPopcorn",
-        "name": "SnipSnap Popcorn Snacks and Gifts",
-        "seoURL": "snipsnap-popcorn-snacks-and-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400191984",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateMilitary",
-        "name": "Military.com",
-        "seoURL": "militarycom--1"
-    },
-    {
-        "categoryId": "400107492",
-        "identifier": "MBP-TPF-GiftType~PopcornCards15to5",
-        "name": "Popcorn Cards 15 to 5",
-        "seoURL": "popcorn-cards-15-to-5"
-    },
-    {
-        "categoryId": "400176482",
-        "identifier": "MBP-TPF-BusinessGifts~PatrioticPopcornSnacks&Gifts",
-        "name": "Patriotic Popcorn Snacks & Gifts",
-        "seoURL": "patriotic-popcorn-snacks---gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400179994",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayFootballSnacks",
-        "name": "Popcorn Gifts and Treats for Football Season",
-        "seoURL": "popcorn-gifts-and-treats-for-football-season"
-    },
-    {
-        "categoryId": "400176489",
-        "identifier": "MBP-TPF-HiddenCollections~PatrioticPopcornTreats",
-        "name": "Patriotic Popcorn Treats",
-        "seoURL": "patriotic-popcorn-treats"
-    },
-    {
-        "categoryId": "400142008",
-        "identifier": "MBP-TPF-HiddenCollections~MBC",
-        "name": "Multibrand Offer Email ThePopcornFactory",
-        "seoURL": "multibrand-offer-email-thepopcornfactory"
-    },
-    {
-        "categoryId": "400180985",
-        "identifier": "MBP-TPF-Content~WBTermsOfUse",
-        "name": "TPF HOME ENTERTAINMENT SWEEPSTAKES TERMS OF USE",
-        "seoURL": "tpf-warner-brothers-home-entertainment-sweepstakes-terms-of-use",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400180987",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayHalloweenVideo",
-        "name": "Halloween Video Diplay",
-        "seoURL": "halloween-video"
-    },
-    {
-        "categoryId": "400180988",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayFallVideo",
-        "name": "Fall Gifts Video",
-        "seoURL": "fall-gifts-video",
-        "seoSearchable": "0"
-    },
-    {
-        "categoryId": "400119486",
-        "identifier": "MBP-TPF-GiftType~FunWithSnacks",
-        "name": "Fun with Snacks",
-        "seoURL": "fun-with-snacks"
-    },
-    {
-        "categoryId": "400134991",
-        "identifier": "MBP-TPF-HiddenCollections~OfferCons",
-        "name": "Email Offer Cons",
-        "seoURL": "email-offer-cons"
-    },
-    {
-        "categoryId": "400167541",
-        "identifier": "MBP-TPF-HiddenCollections~EbatesPopcornOffers",
-        "name": "Ebates Exclusive Offers",
-        "seoURL": "ebates-exclusive-offers"
-    },
-    {
-        "categoryId": "400044487",
-        "identifier": "MBP-TPF-Occasions~HolidayGifts",
-        "name": "Holiday Gifts",
-        "seoURL": "holiday-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400036986",
-        "identifier": "MBP-TPF-BusinessGifts~CorporateHolidayGifts",
-        "name": "Corporate Holiday Gifts",
-        "seoURL": "corporate-holiday-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400131004",
-        "identifier": "MBP-TPF-Occasions~HanukkahSale",
-        "name": "Hanukkah Sale",
-        "seoURL": "hanukkah-sale",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400044493",
-        "identifier": "MBP-TPF-GiftType~TinsWithASpin",
-        "name": "Tins with a Spin",
-        "seoURL": "tins-with-a-spin",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400044494",
-        "identifier": "MBP-TPF-GiftType~CreateYourOwnPopcornAssortment",
-        "name": "Create Your Own",
-        "seoURL": "create-your-own-popcorn-assortment",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400059982",
-        "identifier": "MBP-TPF-HiddenCollections~FreeShippingS",
-        "name": "Free Shipping Gifts",
-        "seoURL": "free-shipping-offers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400146982",
-        "identifier": "MBP-TPF-HiddenCollections~SportsTinsCollection",
-        "name": "Sports Tins Collection",
-        "seoURL": "sports-tins-collection"
-    },
-    {
-        "categoryId": "400044495",
-        "identifier": "MBP-TPF-What'sPopping?~SnackoftheMonthClub",
-        "name": "Popcorn Snack Clubs",
-        "seoURL": "snack-of-the-month-popcorn-club",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400059983",
-        "identifier": "MBP-TPF-HiddenCollections~FreeShippingA",
-        "name": "Free Shipping Gifts",
-        "seoURL": "free-shipping-special-offers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400167553",
-        "identifier": "MBP-TPF-What'sPopping?~CustomerFavorites",
-        "name": "Customer Favorites",
-        "seoURL": "customer-favorites-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112982",
-        "identifier": "MBP-TPF-GiftType~BuyPopcorn",
-        "name": "Buy Popcorn",
-        "seoURL": "buy-popcorn",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400157995",
-        "identifier": "MBP-TPF-HiddenCollections~Reactivation",
-        "name": "Reactivation Email",
-        "seoURL": "reactivation-email"
-    },
-    {
-        "categoryId": "400131012",
-        "identifier": "MBP-TPF-HiddenCollections~18FEmail",
-        "name": "Flowers Emails",
-        "seoURL": "flowers-emails"
-    },
-    {
-        "categoryId": "400044497",
-        "identifier": "MBP-TPF-HiddenCollections~GiftListSpecials",
-        "name": "Gift List Specials",
-        "seoURL": "gift-list-specials",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112983",
-        "identifier": "MBP-TPF-Occasions~NationalCaramel",
-        "name": "National Caramel Week",
-        "seoURL": "national-caramel-week",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400146984",
-        "identifier": "MBP-TPF-HiddenCollections~SaveAround",
-        "name": "savearound",
-        "seoURL": "savearound"
-    },
-    {
-        "categoryId": "400167555",
-        "identifier": "MBP-TPF-GiftType~EasterPopcornBaskets",
-        "name": "Easter Popcorn Baskets",
-        "seoURL": "easter-popcorn-baskets",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112500",
-        "identifier": "MBP-TPF-Occasions~Easter40-55",
-        "name": "Easter Gifts 40-55",
-        "seoURL": "easter-gifts-40-55",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112984",
-        "identifier": "MBP-TPF-HiddenCollections~EmailC",
-        "name": "Email C",
-        "seoURL": "email-c"
-    },
-    {
-        "categoryId": "400167556",
-        "identifier": "MBP-TPF-GiftType~EasterPopcornSamplers",
-        "name": "Easter Popcorn Samplers",
-        "seoURL": "easter-popcorn-samplers",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112985",
-        "identifier": "MBP-TPF-HiddenCollections~EmailM",
-        "name": "Email M",
-        "seoURL": "email-m"
-    },
-    {
-        "categoryId": "400025986",
-        "identifier": "MBP-TPF-Occasions~TwoDayDelivery",
-        "name": "Two Day Delivery",
-        "seoURL": "two-day-popcorn-delivery",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112501",
-        "identifier": "MBP-TPF-Occasions~Easter55+",
-        "name": "Easter Gifts over 55",
-        "seoURL": "easter-gifts-over-55",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400157998",
-        "identifier": "MBP-TPF-Content~PassportTermsandConditions",
-        "name": "Passport Terms and Conditions",
-        "seoURL": "tpf-passport-terms-and-conditions"
-    },
-    {
-        "categoryId": "400112502",
-        "identifier": "MBP-TPF-Occasions~EasterBunny",
-        "name": "Easter Bunny ",
-        "seoURL": "easter-bunny-",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112986",
-        "identifier": "MBP-TPF-HiddenCollections~EmailT",
-        "name": "Email T",
-        "seoURL": "email-t"
-    },
-    {
-        "categoryId": "400025987",
-        "identifier": "MBP-TPF-Occasions~NextDayDelivery",
-        "name": "Next Day Delivery",
-        "seoURL": "next-day-delivery",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400025988",
-        "identifier": "MBP-TPF-Occasions~SaturdayDelivery",
-        "name": "Saturday Delivery",
-        "seoURL": "saturday-delivery-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112503",
-        "identifier": "MBP-TPF-Occasions~EasterFunIdeas",
-        "name": "Easter Fun Ideas",
-        "seoURL": "easter-fun-ideas",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112989",
-        "identifier": "MBP-TPF-HiddenCollections~DisplayCollege",
-        "name": "Display College Tins",
-        "seoURL": "display-college-tins"
-    },
-    {
-        "categoryId": "400192505",
-        "identifier": "MBP-TPF-Content~TPFSweepstakesTermsOfUse",
-        "name": "THE POPCORN FACTORY SWEEPSTAKES TERMS OF USE",
-        "seoURL": "the-popcorn-factory-sweepstakes-terms-of-use--1",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112990",
-        "identifier": "MBP-TPF-HiddenCollections~SearchCollege",
-        "name": "Search College Tins",
-        "seoURL": "search-college-tins"
-    },
-    {
-        "categoryId": "400025992",
-        "identifier": "MBP-TPF-Occasions~GraduationGifts",
-        "name": "Graduation Gifts",
-        "seoURL": "graduation-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112991",
-        "identifier": "MBP-TPF-HiddenCollections~SocialMediaCollege",
-        "name": "Social Media College Tins",
-        "seoURL": "social-media-college-tins"
-    },
-    {
-        "categoryId": "400112992",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateCollege",
-        "name": "Affiliate College Tins",
-        "seoURL": "affiliate-college-tins"
-    },
-    {
-        "categoryId": "400025993",
-        "identifier": "MBP-TPF-Occasions~EmergencyMedicalServicesWeek",
-        "name": "Emergency Medical Services Week",
-        "seoURL": "emergency-medical-services-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048983",
-        "identifier": "MBP-TPF-Content~FactoryStore",
-        "name": "The Popcorn Factory Store",
-        "seoURL": "the-popcorn-factory-store",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400198056",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateCoupons",
-        "name": "Welcome Coupons.com Customers",
-        "seoURL": "welcome-couponscom-customers"
-    },
-    {
-        "categoryId": "400048984",
-        "identifier": "MBP-TPF-Content~ContactUs",
-        "name": "Contact Us",
-        "seoURL": "contact-us-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400120011",
-        "identifier": "MBP-TPF-Content~GlutenFree",
-        "name": "Gluten Free",
-        "seoURL": "gluten-free-popcorn-flavors",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400198057",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateEbates",
-        "name": "Welcome Ebates Customers",
-        "seoURL": "welcome-ebates-customers"
-    },
-    {
-        "categoryId": "400131023",
-        "identifier": "MBP-TPF-HiddenCollections~SocialChristmasSale",
-        "name": "Special Christmas Treat Sale",
-        "seoURL": "special-christmas-treat-sale"
-    },
-    {
-        "categoryId": "400048985",
-        "identifier": "MBP-TPF-Content~BusinessGiftServices",
-        "name": "Business Gift Services",
-        "seoURL": "business-gift-services",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400025995",
-        "identifier": "MBP-TPF-HiddenCollections~Coupons",
-        "name": "Coupons",
-        "seoURL": "coupons-tpf",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400198058",
-        "identifier": "MBP-TPF-HiddenCollections~AffiliateRetailMeNot",
-        "name": "Welcome Retail Me Not Customers",
-        "seoURL": "welcome-retail-me-not-customers"
-    },
-    {
-        "categoryId": "400048986",
-        "identifier": "MBP-TPF-Content~AffiliateProgram",
-        "name": "Affiliate Program",
-        "seoURL": "affiliate-program",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048987",
-        "identifier": "MBP-TPF-Content~PrivacyPolicy",
-        "name": "Privacy Policy",
-        "seoURL": "privacy-policy",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400025997",
-        "identifier": "MBP-TPF-Occasions~CyberMonday",
-        "name": "Cyber Monday Sale",
-        "seoURL": "cyber-monday-sale",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048988",
-        "identifier": "MBP-TPF-Content~TermsOfUse",
-        "name": "Terms of Use",
-        "seoURL": "terms-of-use-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400025998",
-        "identifier": "MBP-TPF-Occasions~LastMinute",
-        "name": "Last Minute Gifts",
-        "seoURL": "last-minute-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400112513",
-        "identifier": "MBP-TPF-HiddenCollections~CaramelCornTest",
-        "name": "Caramel Corn Test",
-        "seoURL": "caramel-corn-test",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400120016",
-        "identifier": "MBP-TPF-GiftType~GlutenFreePopcornGifts",
-        "name": "Gluten Free Popcorn",
-        "seoURL": "gluten-free-popcorn-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400048989",
-        "identifier": "MBP-TPF-Content~ShippingInformation",
-        "name": "Shipping Information",
-        "seoURL": "shipping-information-thepopcornfactory",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400025999",
-        "identifier": "MBP-TPF-Occasions~Winter",
-        "name": "Winter Gifts",
-        "seoURL": "winter-gift-ideas",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400192992",
-        "identifier": "MBP-TPF-Celebrations~SendaSmile",
-        "name": "Send a Smile",
-        "seoURL": "send-a-smile-gifts",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400060982",
-        "identifier": "MBP-TPF-GiftType~EasterTins",
-        "name": "Easter Tins",
-        "seoURL": "easter-tins",
-        "seoSearchable": "1"
-    },
-    {
-        "categoryId": "400181620",
-        "identifier": "MBP-TPF-HiddenCollections~PopcornSale",
-        "name": "Sale",
-        "seoURL": "popcorn-sale",
-        "seoSearchable": "1"
-    },
-
     {
         "categoryId": "400079482",
         "identifier": "Our Story",
@@ -32524,7 +29439,7 @@ let collections = [
         "categoryId": "400127604",
         "identifier": "13877",
         "name": "Holiday Gift Towers",
-        "seoURL": "18b-holiday-gift-towers-13877",
+        "seoURL": "holiday-gift-towers-13877",
         "guidedNavFlag": "0",
         "seoSearchable": "1"
     },
@@ -32638,7 +29553,7 @@ let collections = [
         "identifier": "13754",
         "name": "IM - Free Shipping",
         "seoURL": "free-shipping-gifts-delivered",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400127503",
@@ -32681,6 +29596,13 @@ let collections = [
         "identifier": "13664",
         "name": "Gluten Free Sub Col 2 Primary 13662",
         "seoURL": "gluten-free-sub-col-2",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400202527",
+        "identifier": "16260",
+        "name": "IM General Offer",
+        "seoURL": "im-offer-16260",
         "guidedNavFlag": "0"
     },
     {
@@ -32870,7 +29792,7 @@ let collections = [
         "name": "IM - SEM - Pumpkin Cake Pops",
         "seoURL": "pumpkin-cake-pops-sem",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400127511",
@@ -33195,9 +30117,9 @@ let collections = [
         "categoryId": "400127538",
         "identifier": "9100-8",
         "name": "1800Baskets SEM Coupons",
-        "seoURL": "1800baskets-coupons",
+        "seoURL": "baskets-coupons",
         "guidedNavFlag": "0",
-        "seoSearchable": "0"
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400174982",
@@ -33625,7 +30547,7 @@ let collections = [
     {
         "categoryId": "400086207",
         "identifier": "11168",
-        "name": "Valentines Day",
+        "name": "Valentine Gift Baskets",
         "seoURL": "valentines-day",
         "guidedNavFlag": "0",
         "seoSearchable": "1",
@@ -33676,9 +30598,10 @@ let collections = [
     {
         "categoryId": "400126484",
         "identifier": "11287",
-        "name": "Free Shipping Gifts",
+        "name": "Free Shipping Gift Baskets",
         "seoURL": "free-ship-gifts",
-        "guidedNavFlag": "0"
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400126485",
@@ -33890,7 +30813,7 @@ let collections = [
         "name": "BGS Free Shipping",
         "seoURL": "bgs-free-shipping-14489",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400137021",
@@ -33927,7 +30850,7 @@ let collections = [
     {
         "categoryId": "400086220",
         "identifier": "11097",
-        "name": "Gift Baskets",
+        "name": "Gift Baskets For Any Occasion",
         "seoURL": "Gift-Baskets",
         "guidedNavFlag": "0",
         "seoSearchable": "1",
@@ -34193,6 +31116,13 @@ let collections = [
         "priceConfig": "1",
         "pageTitle": "Christmas Cookies and Cakes",
         "startDate": "21-Nov-2010"
+    },
+    {
+        "categoryId": "400138000",
+        "identifier": "14121",
+        "name": "IM - Save 20% on Sympathy Gifts",
+        "seoURL": "im-save-20-on-sympathy-gifts-14121",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400138004",
@@ -34649,7 +31579,7 @@ let collections = [
     {
         "categoryId": "400086128",
         "identifier": "11210",
-        "name": "Mother's Day",
+        "name": "Mother's Day Gift Baskets",
         "seoURL": "mothers-day-gift-baskets-11210",
         "guidedNavFlag": "0",
         "seoSearchable": "1",
@@ -35244,7 +32174,7 @@ let collections = [
     {
         "categoryId": "400086144",
         "identifier": "11183",
-        "name": "Gourmet Easter Baskets, Easter Treats | 1800baskets.com",
+        "name": "Easter Baskets & Treats",
         "seoURL": "easter-gift-baskets-11183",
         "guidedNavFlag": "0",
         "seoSearchable": "1",
@@ -35322,7 +32252,7 @@ let collections = [
     {
         "categoryId": "400086146",
         "identifier": "11089",
-        "name": "Get Well",
+        "name": "Get Well Gift Baskets",
         "seoURL": "Get-Well-Gift-Baskets-11089",
         "guidedNavFlag": "0",
         "seoSearchable": "1",
@@ -35590,7 +32520,7 @@ let collections = [
     {
         "categoryId": "400086155",
         "identifier": "11182",
-        "name": "St. Patrick's Day",
+        "name": "St. Patrick's Day Gifts",
         "seoURL": "st-patricks-day-gift-baskets-11182",
         "guidedNavFlag": "0",
         "seoSearchable": "1",
@@ -35824,10 +32754,10 @@ let collections = [
     {
         "categoryId": "400128012",
         "identifier": "13756",
-        "name": "IM - SEM - $10 Chocolate Pretzel",
-        "seoURL": "chocolate-pretzel-gifts",
+        "name": "IM - SEM - Everyday Gifts",
+        "seoURL": "sem-everyday-gifts",
         "guidedNavFlag": "0",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400128013",
@@ -36372,7 +33302,7 @@ let collections = [
     {
         "categoryId": "400086177",
         "identifier": "11186",
-        "name": "Spring Gifts",
+        "name": "Spring Gift Baskets",
         "seoURL": "spring-gift-baskets-11186",
         "guidedNavFlag": "0",
         "seoSearchable": "1",
@@ -37268,8 +34198,8 @@ let collections = [
     {
         "categoryId": "400086095",
         "identifier": "11252",
-        "name": "Birthday Gifts For Her",
-        "seoURL": "Birthday-Gift-Baskets-For-Her",
+        "name": "Gifts For Her",
+        "seoURL": "gift-baskets-for-her-11252",
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
@@ -37279,8 +34209,8 @@ let collections = [
     {
         "categoryId": "400086096",
         "identifier": "11251",
-        "name": "Birthday Gifts For Him",
-        "seoURL": "Birthday-Gift-Baskets-For-Him",
+        "name": "Gifts For Him",
+        "seoURL": "gift-baskets-for-him-11251",
         "guidedNavFlag": "0",
         "seoSearchable": "1",
         "priceConfig": "1",
@@ -37660,7 +34590,4150 @@ let collections = [
         "seoURL": "email-gifts-under-30-14025",
         "guidedNavFlag": "0"
     },
-
+    {
+        "categoryId": "400181504",
+        "identifier": "MBP-TPF-HiddenCollections~FSIHalloweenOffer",
+        "name": "FSI Halloween Offer",
+        "seoURL": "fsi-halloween-offer"
+    },
+    {
+        "categoryId": "400048990",
+        "identifier": "MBP-TPF-Content~SubstitutionPolicy",
+        "name": "Our Substitution Policy",
+        "seoURL": "our-substitution-policy",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400048991",
+        "identifier": "MBP-TPF-Content~PackageSecurity",
+        "name": "Package Security",
+        "seoURL": "package-security",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400048992",
+        "identifier": "MBP-TPF-Content~TPFFAQ",
+        "name": "Frequently Asked Questions",
+        "seoURL": "frequently-asked-questions",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400048993",
+        "identifier": "MBP-TPF-Content~OurGuarantee",
+        "name": "Our Guarantee",
+        "seoURL": "our-guarantee",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400048994",
+        "identifier": "MBP-TPF-Content~PaymentMethodsTax",
+        "name": "Payment Methods and Sales Tax",
+        "seoURL": "payment-methods-and-sales-tax",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400048995",
+        "identifier": "MBP-TPF-Content~Fundraising",
+        "name": "Ideas for Fundraising |  Fundraising Events | The Popcorn Factory",
+        "seoURL": "fundraising",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400048996",
+        "identifier": "MBP-TPF-Content~Kosher",
+        "name": "We Are Kosher",
+        "seoURL": "we-are-kosher",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400131035",
+        "identifier": "MBP-TPF-Content~RealSimple",
+        "name": "Real Simple Gifts",
+        "seoURL": "real-simple-gift-ideas",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400048997",
+        "identifier": "MBP-TPF-Content~OrderForm",
+        "name": "Order Form",
+        "seoURL": "orderform",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400102601",
+        "identifier": "MBP-TPF-Occasions~TwoDayDeliveryHP",
+        "name": "Two Day Delivery Offer",
+        "seoURL": "two-day-homepage",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400048998",
+        "identifier": "MBP-TPF-Content~OrderingInformation",
+        "name": "Ordering Information",
+        "seoURL": "ordering-information",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400167579",
+        "identifier": "MBP-TPF-HiddenCollections~CouponSavings",
+        "name": "Coupon Savings",
+        "seoURL": "coupon-savings"
+    },
+    {
+        "categoryId": "400048999",
+        "identifier": "MBP-TPF-Content~AffiliateProgramDetails",
+        "name": "Affiliate Program Details",
+        "seoURL": "affiliate-program-details-thepopcornfactory",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400045008",
+        "identifier": "MBP-TPF-HiddenCollections~SearchChristmas",
+        "name": "Christmas Gifts",
+        "seoURL": "christmas-popcorn-gifts-search",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400158507",
+        "identifier": "MBP-TPF-SensationalFlavors~HolidayCookiePopcorn",
+        "name": "Holiday Cookie Popcorn",
+        "seoURL": "holiday-cookie-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400045009",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateChristmas",
+        "name": "Christmas Gifts",
+        "seoURL": "christmas-popcorn-gifts-partners",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400083982",
+        "identifier": "MBP-TPF-HiddenCollections~FathersDayA",
+        "name": "Father's Day",
+        "seoURL": "fathers-day-popcorn-offers",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400158508",
+        "identifier": "MBP-TPF-SensationalFlavors~CornfusionCorn",
+        "name": "Cornfusion Corn",
+        "seoURL": "cornfusion-corn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400083983",
+        "identifier": "MBP-TPF-HiddenCollections~FathersDayS",
+        "name": "Father's Day",
+        "seoURL": "popcorn-fathers-day-offers",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400094510",
+        "identifier": "MBP-TPF-CherylsHomepage",
+        "name": "Cheryls",
+        "seoURL": "tpf-cheryls",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1",
+        "priceConfig": "0",
+        "startDate": "26-Jul-2013"
+    },
+    {
+        "categoryId": "400158509",
+        "identifier": "MBP-TPF-SensationalFlavors~CheezyJalapeno",
+        "name": "Cheezy Jalapeno",
+        "seoURL": "cheezy-jalapeno",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400094512",
+        "identifier": "MBP-TPF-18FHomepage",
+        "name": "1-800-Flowers",
+        "seoURL": "tpf-1-800-flowers",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1",
+        "priceConfig": "0",
+        "startDate": "26-Jul-2013"
+    },
+    {
+        "categoryId": "400094513",
+        "identifier": "MBP-TPF-18BHomepage",
+        "name": "1-800-Baskets",
+        "seoURL": "tpf-1-800-baskets",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1",
+        "priceConfig": "0",
+        "startDate": "26-Jul-2013"
+    },
+    {
+        "categoryId": "400094514",
+        "identifier": "MBP-TPF-FruitBouquets",
+        "name": "Fruit Bouquets",
+        "seoURL": "tpf-fruit-bouquets",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1",
+        "priceConfig": "0",
+        "startDate": "26-Jul-2013"
+    },
+    {
+        "categoryId": "400094516",
+        "identifier": "MBP-TPF-FannieMayHomepage",
+        "name": "Fannie May",
+        "seoURL": "tpf-fannie-may",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1",
+        "priceConfig": "0",
+        "startDate": "26-Jul-2013"
+    },
+    {
+        "categoryId": "400068482",
+        "identifier": "MBP-TPF-Occasions~VolunteerWeek",
+        "name": "Volunteer Week",
+        "seoURL": "volunteer-week",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400068483",
+        "identifier": "MBP-TPF-BusinessGifts~VolunteerWeekOffer",
+        "name": "Volunteer Week Offer",
+        "seoURL": "volunteer-week-offer",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400068484",
+        "identifier": "MBP-TPF-Occasions~CincodeMayo",
+        "name": "Cinco de Mayo",
+        "seoURL": "cinco-de-mayo",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400045011",
+        "identifier": "MBP-TPF-HiddenCollections~PopcornTinsSpecialOffer",
+        "name": "Popcorn Tins Special Offer",
+        "seoURL": "popcorn-tins-special-offer",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400158510",
+        "identifier": "MBP-TPF-SensationalFlavors~PeppermintBarkPopcorn",
+        "name": "Peppermint Bark Popcorn",
+        "seoURL": "peppermint-bark-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198079",
+        "identifier": "MBP-TPF-GiftType~HolidayPopcornBalls",
+        "name": "Holiday Popcorn Balls",
+        "seoURL": "holiday-popcorn-balls",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400200500",
+        "identifier": "MBP-TPF-GiftType~UniquePopcornGifts",
+        "name": "Unique Popcorn Gifts",
+        "seoURL": "unique-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112533",
+        "identifier": "MBP-TPF-Occasions~SaturdayDeliveryHP",
+        "name": "Saturday Delivery HP",
+        "seoURL": "saturday-delivery-hp"
+    },
+    {
+        "categoryId": "400158515",
+        "identifier": "MBP-TPF-HiddenCollections~HomepageHalloweenSale",
+        "name": "Halloween Sale Collection",
+        "seoURL": "halloween-sale-collection"
+    },
+    {
+        "categoryId": "400158516",
+        "identifier": "MBP-TPF-HiddenCollections~HomepageHalloweenOffer",
+        "name": "Halloween Offer Collection",
+        "seoURL": "halloween-offer-collection"
+    },
+    {
+        "categoryId": "400112538",
+        "identifier": "MBP-TPF-HiddenCollections~BradsDealsTest",
+        "name": "Brads Deals Test Page",
+        "seoURL": "brads-deals-test-page"
+    },
+    {
+        "categoryId": "400094524",
+        "identifier": "MBP-TPF-SensationalFlavors~CocoaS'mores",
+        "name": "Cocoa S'mores",
+        "seoURL": "cocoa-smores",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400057482",
+        "identifier": "MBP-TPF-GiftType~EasterFriends",
+        "name": "Easter Friends",
+        "seoURL": "easter-friends",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049982",
+        "identifier": "MBP-TPF-BusinessGifts~SalesPromotions",
+        "name": "Sales Promotions",
+        "seoURL": "sales-promotions",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049983",
+        "identifier": "MBP-TPF-BusinessGifts~EmployeeRecognition",
+        "name": "Employee Recognition",
+        "seoURL": "employee-recognition-reward",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400120043",
+        "identifier": "MBP-TPF-HiddenCollections~FriendShipDay",
+        "name": "Friendship Day",
+        "seoURL": "friendship-day"
+    },
+    {
+        "categoryId": "400049984",
+        "identifier": "MBP-TPF-BusinessGifts~CustomerLoyalty",
+        "name": "Customer Retention",
+        "seoURL": "tpf-customer-loyalty",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049985",
+        "identifier": "MBP-TPF-BusinessGifts~CustomizedGifts",
+        "name": "Customized Gifts",
+        "seoURL": "corporate-customized-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400136985",
+        "identifier": "MBP-TPF-HiddenCollections~ValentinesDaySale",
+        "name": "Valentine's Day Sale",
+        "seoURL": "valentines-day-sale"
+    },
+    {
+        "categoryId": "400049986",
+        "identifier": "MBP-TPF-HiddenCollections~SneakPeek",
+        "name": "Sneak Peek",
+        "seoURL": "sneak-peek",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400102985",
+        "identifier": "MBP-TPF-Content~QRCodeRefill",
+        "name": "QR Code Offer",
+        "seoURL": "qr",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400131058",
+        "identifier": "MBP-TPF-HiddenCollections~CelebrationEmails30Off",
+        "name": "Celebration Savings",
+        "seoURL": "celebration-savings"
+    },
+    {
+        "categoryId": "400112545",
+        "identifier": "MBP-TPF-Occasions~MothersDayGiftGuide",
+        "name": "Mother's Day Gift Guide",
+        "seoURL": "tpf-mothers-day-gift-guide",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400131059",
+        "identifier": "MBP-TPF-HiddenCollections~CelebrationEmailsFS",
+        "name": "Celebrate Free Ship",
+        "seoURL": "celebrate-free-ship"
+    },
+    {
+        "categoryId": "400102987",
+        "identifier": "MBP-TPF-Content~CorporateFundraising",
+        "name": "Corporate Fundraising | Get Involved in Fundraising | The Popcorn Factory",
+        "seoURL": "corporate-fundraising",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400102989",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayThanksgiving",
+        "name": "Thanksgiving Gifts",
+        "seoURL": "save-on-thanksgiving-gifts",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400182983",
+        "identifier": "MBP-TPF-HiddenCollections~EmailOfferNovelty",
+        "name": "Email Offer Novelty",
+        "seoURL": "email-offer-novelty"
+    },
+    {
+        "categoryId": "400182500",
+        "identifier": "MBP-TPF-HiddenCollections~CubsNews",
+        "name": "news",
+        "seoURL": "news"
+    },
+    {
+        "categoryId": "400190488",
+        "identifier": "MBP-TPF-HiddenCollections~SpecialOffer",
+        "name": "Special Offer",
+        "seoURL": "special-offer--1"
+    },
+    {
+        "categoryId": "400102990",
+        "identifier": "MBP-TPF-HiddenCollections~GSTVNOMATCH",
+        "name": "GSTV Gifts",
+        "seoURL": "gstv-gifts"
+    },
+    {
+        "categoryId": "400131062",
+        "identifier": "MBP-TPF-SensationalFlavors~WhiteChocolatePeppermintCandyCane",
+        "name": "White Chocolate Peppermint Candy Cane",
+        "seoURL": "white-chocolate-peppermint-kettle-corn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400178495",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayMovieNightSnacks",
+        "name": "Movie Night Snacks",
+        "seoURL": "movie-night-snacks"
+    },
+    {
+        "categoryId": "400038982",
+        "identifier": "MBP-TPF-BusinessGifts~CorporateGifts",
+        "name": "Corporate Gifts",
+        "seoURL": "tpf-corporate-gift-services",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400102991",
+        "identifier": "MBP-TPF-HiddenCollections~WXRT",
+        "name": "WXRT Holiday Collection",
+        "seoURL": "wxrt",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400102992",
+        "identifier": "MBP-TPF-HiddenCollections~WXRTNL",
+        "name": "WXRT Collection",
+        "seoURL": "wxrtnl",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400125983",
+        "identifier": "MBP-TPF-HiddenCollections~HalloweenFavoritesTest",
+        "name": "Halloween Favorites",
+        "seoURL": "halloween-fsi-test"
+    },
+    {
+        "categoryId": "400046486",
+        "identifier": "MBP-TPF-GiftType~SnowyNight",
+        "name": "Snowy Night",
+        "seoURL": "snowy-night",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400102993",
+        "identifier": "MBP-TPF-Content~CorpOffer",
+        "name": "Corporate Gifts | Gourmet Gifts | The Popcorn Factory",
+        "seoURL": "corporate-gifts-offer",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400125984",
+        "identifier": "MBP-TPF-HiddenCollections~SignUpforEmail",
+        "name": "Sign Up for Email",
+        "seoURL": "sign-up-for-email",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400046487",
+        "identifier": "MBP-TPF-GiftType~Snowtime",
+        "name": "Snowtime",
+        "seoURL": "snowtime",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400136996",
+        "identifier": "MBP-TPF-Occasions~PresidentsDayHP",
+        "name": "Presidents Day",
+        "seoURL": "presidents-day",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400046488",
+        "identifier": "MBP-TPF-GiftType~MerryChristmas",
+        "name": "Merry Christmas",
+        "seoURL": "merry-christmas",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400110497",
+        "identifier": "MBP-TPF-HiddenCollections~Offer",
+        "name": "Offer Email",
+        "seoURL": "offer-email"
+    },
+    {
+        "categoryId": "400136997",
+        "identifier": "MBP-TPF-Occasions~PresidentsDayIM",
+        "name": "Presidents Day Sale",
+        "seoURL": "presidents-day-sale",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400110498",
+        "identifier": "MBP-TPF-HiddenCollections~BestiesOffer",
+        "name": "Besties Offer",
+        "seoURL": "besties-offer"
+    },
+    {
+        "categoryId": "400046489",
+        "identifier": "MBP-TPF-GiftType~FrostyFriends",
+        "name": "Frosty Friends Too",
+        "seoURL": "frosty-friends-too",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400102997",
+        "identifier": "MBP-TPF-Content~guidetest",
+        "name": "Guide Test",
+        "seoURL": "guide-test"
+    },
+    {
+        "categoryId": "400110499",
+        "identifier": "MBP-TPF-HiddenCollections~Males",
+        "name": "25% off Valentine's Day Gifts",
+        "seoURL": "males"
+    },
+    {
+        "categoryId": "400136999",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayEaster",
+        "name": "Easter Gifts and Treats",
+        "seoURL": "easter-gifts-and-treats"
+    },
+    {
+        "categoryId": "400092482",
+        "identifier": "MBP-TPF-GiftType~PeaceLovePopcorn",
+        "name": "Peace Love and Popcorn",
+        "seoURL": "peace-love-and-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400192551",
+        "identifier": "MBP-TPF-Celebrations~SweetTastesofSummerPopcorn",
+        "name": "Sweet Tastes of Summer ThePopcornFactory",
+        "seoURL": "sweet-tastes-of-summer-thepopcornfactory",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400190494",
+        "identifier": "MBP-TPF-HiddenCollections~DealoftheDay",
+        "name": "Deal of the Day",
+        "seoURL": "deal-of-the-day--1"
+    },
+    {
+        "categoryId": "400192552",
+        "identifier": "MBP-TPF-Celebrations~SweetTastesofSummerPopcornGifts",
+        "name": "Sweet Tastes of Summer Gifts ThePopcornFactory",
+        "seoURL": "sweet-tastes-of-summer-gifts-thepopcornfactory",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400050982",
+        "identifier": "MBP-TPF-HiddenCollections~Greeting",
+        "name": "Greeting Card",
+        "seoURL": "greeting-card",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400050983",
+        "identifier": "MBP-TPF-GiftType~GraffitiHearts",
+        "name": "Graffiti Hearts",
+        "seoURL": "graffiti-hearts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400050984",
+        "identifier": "MBP-TPF-GiftType~ValentineMonster",
+        "name": "Valentine Monster",
+        "seoURL": "valentine-monster",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400050985",
+        "identifier": "MBP-TPF-GiftType~Tulips",
+        "name": "Tulips",
+        "seoURL": "popcorn-tulips",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400050986",
+        "identifier": "MBP-TPF-GiftType~HappyHearts",
+        "name": "Happy Hearts",
+        "seoURL": "happy-hearts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400192557",
+        "identifier": "MBP-TPF-HiddenCollections~BirthdayPopcornGifts",
+        "name": "Birthday Popcorn Gifts",
+        "seoURL": "birthday-popcorn-gifts",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400192558",
+        "identifier": "MBP-TPF-HiddenCollections~BirthdayPopcornBirthdayGifts",
+        "name": "Popcorn Birthday Gifts",
+        "seoURL": "popcorn-birthday-gifts",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400050988",
+        "identifier": "MBP-TPF-GiftType~MonkeyLove",
+        "name": "Monkey Love",
+        "seoURL": "monkey-love",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400050989",
+        "identifier": "MBP-TPF-GiftType~LoveBugCollection",
+        "name": "Love Bug Collection",
+        "seoURL": "love-bug-collection",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400046490",
+        "identifier": "MBP-TPF-GiftType~LeavesonGold",
+        "name": "Leaves on Gold",
+        "seoURL": "leaves-on-gold",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400046491",
+        "identifier": "MBP-TPF-GiftType~WinterSong",
+        "name": "Winter Song",
+        "seoURL": "winter-song",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400046492",
+        "identifier": "MBP-TPF-GiftType~PeekABooSanta",
+        "name": "Peek A Boo Santa",
+        "seoURL": "ornaments!",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400133494",
+        "identifier": "MBP-TPF-HiddenCollections~ValentineFavoritesTest",
+        "name": "Spring Favorites",
+        "seoURL": "clipper-promo-code"
+    },
+    {
+        "categoryId": "400110020",
+        "identifier": "MBP-TPF-SensationalFlavors~Sriracha",
+        "name": "Sriracha",
+        "seoURL": "sriracha",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400156485",
+        "identifier": "MBP-TPF-Content~BGSThankyou",
+        "name": "Corporate Gifts - Thank You",
+        "seoURL": "tpf-corporate-gifts-thank-you"
+    },
+    {
+        "categoryId": "400110021",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayValentinesDay",
+        "name": "Save 15% on Valentine's Day Gifts",
+        "seoURL": "val15"
+    },
+    {
+        "categoryId": "400133496",
+        "identifier": "MBP-TPF-HiddenCollections~NatlPopcornDay",
+        "name": "National-Popcorn-Day",
+        "seoURL": "national-popcorn-day"
+    },
+    {
+        "categoryId": "400156486",
+        "identifier": "MBP-TPF-Content~FundraisingThankyou",
+        "name": "Fundraising - Thank You",
+        "seoURL": "tpf-fundraising-thank-you"
+    },
+    {
+        "categoryId": "400114983",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayMothersDay",
+        "name": "Mothers Day Popcorn Gifts",
+        "seoURL": "mothers-day-popcorn-gifts"
+    },
+    {
+        "categoryId": "400156487",
+        "identifier": "MBP-TPF-Content~FundraisingFAQ",
+        "name": "Fundraising FAQ",
+        "seoURL": "tpf-fundraising-faq"
+    },
+    {
+        "categoryId": "400201985",
+        "identifier": "MBP-TPF-HiddenCollections~FSIHop2Easter2018",
+        "name": "Hop2Easter Offer",
+        "seoURL": "hop2easter-offer"
+    },
+    {
+        "categoryId": "400110025",
+        "identifier": "MBP-TPF-GiftType~Ultra-Extravagant-Popcorn",
+        "name": "Ultra-Extravagant Popcorn",
+        "seoURL": "ultra-extravagant-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400201986",
+        "identifier": "MBP-TPF-HiddenCollections~FSIHappyEaster2018",
+        "name": "Happy Easter Offer",
+        "seoURL": "happyeaster-offer"
+    },
+    {
+        "categoryId": "400201987",
+        "identifier": "MBP-TPF-HiddenCollections~FSIFunBunny2018",
+        "name": "Fun Bunny Offer",
+        "seoURL": "funbunny-offer"
+    },
+    {
+        "categoryId": "400156007",
+        "identifier": "MBP-TPF-CelebrationsRewards-400156007",
+        "name": "Celebrations Rewards",
+        "seoURL": "celebrations-rewards-popcorn",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400050990",
+        "identifier": "MBP-TPF-Occasions~CheeseDayCollection",
+        "name": "Cheese Day Collection",
+        "seoURL": "cheese-day-collection",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400194982",
+        "identifier": "MBP-TPF-Content~AffiliatesPopcorn",
+        "name": "Affiliates Popcorn",
+        "seoURL": "affiliates-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400179483",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayBacktoSchool",
+        "name": "Display Back to School",
+        "seoURL": "display-back-to-school"
+    },
+    {
+        "categoryId": "400024482",
+        "identifier": "MBP-TPF-Occasions~MothersDay",
+        "name": "Mother's Day",
+        "seoURL": "mothers-day-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400179000",
+        "identifier": "MBP-TPF-SensationalFlavors~HalloweenKettleCorn",
+        "name": "Halloween Kettle Corn",
+        "seoURL": "halloween-kettle-corn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400156494",
+        "identifier": "MBP-TPF-HiddenCollections~Passport",
+        "name": "Join Passport ",
+        "seoURL": "join-passport"
+    },
+    {
+        "categoryId": "400120074",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateHip2Save",
+        "name": "Hip2Save Offers",
+        "seoURL": "hip2save-offers"
+    },
+    {
+        "categoryId": "400137982",
+        "identifier": "MBP-TPF-HiddenCollections~SecretSale",
+        "name": "Secret Sale",
+        "seoURL": "secret-sale"
+    },
+    {
+        "categoryId": "400137983",
+        "identifier": "MBP-TPF-SensationalFlavors~ChicagoHotDog",
+        "name": "Chicago Hot Dog",
+        "seoURL": "chicago-hot-dog",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400137984",
+        "identifier": "MBP-TPF-SensationalFlavors~ChicagoStyleDeepDishPizza",
+        "name": "Chicago Style Deep Dish Pizza",
+        "seoURL": "chicago-style-deep-dish-pizza",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400137985",
+        "identifier": "MBP-TPF-SensationalFlavors~ChocolatePopcorn",
+        "name": "Chocolate Popcorn",
+        "seoURL": "chocolate-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400111486",
+        "identifier": "MBP-TPF-HiddenCollections~MarchEmail0-6",
+        "name": "March Email 06",
+        "seoURL": "march-email-06"
+    },
+    {
+        "categoryId": "400137986",
+        "identifier": "MBP-TPF-SensationalFlavors~DillPicklePopcorn",
+        "name": "Dill Pickle Popcorn",
+        "seoURL": "dill-pickle-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400111487",
+        "identifier": "MBP-TPF-HiddenCollections~MarchEmail 7-12",
+        "name": "March Email 7-12",
+        "seoURL": "march-email-7-12"
+    },
+    {
+        "categoryId": "400137987",
+        "identifier": "MBP-TPF-SensationalFlavors~DrizzledCaramelCorn",
+        "name": "Drizzled Caramel Corn",
+        "seoURL": "drizzled-caramel-corn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400111488",
+        "identifier": "MBP-TPF-HiddenCollections~March Email 13+",
+        "name": "March Email 13+",
+        "seoURL": "march-email-13"
+    },
+    {
+        "categoryId": "400137988",
+        "identifier": "MBP-TPF-SensationalFlavors~GreenButter",
+        "name": "Green Butter",
+        "seoURL": "green-butter",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400111489",
+        "identifier": "MBP-TPF-HiddenCollections~MarchEmail Byrs",
+        "name": "March Email Buyers",
+        "seoURL": "march-email-buyers"
+    },
+    {
+        "categoryId": "400137989",
+        "identifier": "MBP-TPF-SensationalFlavors~PumpkinCaramelPralineCrunch",
+        "name": "PumpkinCaramelPralineCrunch",
+        "seoURL": "pumpkincaramelpralinecrunch",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400070482",
+        "identifier": "MBP-TPF-HiddenCollections~MothersDaySpecialOffer",
+        "name": "Mother's Day Special Offer",
+        "seoURL": "mothers-day-special-offer",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400062982",
+        "identifier": "MBP-TPF-GiftType~Butterfly",
+        "name": "Butterfly",
+        "seoURL": "butterfly",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400062983",
+        "identifier": "MBP-TPF-Content~CaramelPopcorn",
+        "name": "Caramel Popcorn",
+        "seoURL": "caramel-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400062984",
+        "identifier": "MBP-TPF-Content~CaramelPopcornDay",
+        "name": "Caramel Popcorn Day",
+        "seoURL": "caramel-popcorn-day",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400070488",
+        "identifier": "MBP-TPF-HiddenCollections~TrueBlood",
+        "name": "True Blood",
+        "seoURL": "true-blood",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400111490",
+        "identifier": "MBP-TPF-HiddenCollections~MarchEmailVByrs",
+        "name": "March Email VByrs",
+        "seoURL": "march-email-vbyrs"
+    },
+    {
+        "categoryId": "400137990",
+        "identifier": "MBP-TPF-SensationalFlavors~SaltVinegar",
+        "name": "Salt & Vinegar",
+        "seoURL": "salt---vinegar",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400111491",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayEasterFreeShip",
+        "name": "Free Ground Shipping on Easter Treats",
+        "seoURL": "free-ground-shipping-on-easter-treats"
+    },
+    {
+        "categoryId": "400137991",
+        "identifier": "MBP-TPF-SensationalFlavors~SugarFreeCaramelCorn",
+        "name": "Sugar Free Caramel Corn",
+        "seoURL": "sugar-free-caramel-corn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400137992",
+        "identifier": "MBP-TPF-SensationalFlavors~ToffeeAlmondPretzelMix",
+        "name": "Toffee Almond Pretzel Mix",
+        "seoURL": "toffee-almond-pretzel-mix",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400134483",
+        "identifier": "MBP-TPF-SensationalFlavors~DarkChocolateCherryCordial",
+        "name": "Dark Chocolate Cherry Cordial",
+        "seoURL": "dark-chocolate-cherry-cordial",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400168001",
+        "identifier": "MBP-TPF-HiddenCollections~RewardsTPF",
+        "name": "TPF Rewards",
+        "seoURL": "tpf-rewards"
+    },
+    {
+        "categoryId": "400137993",
+        "identifier": "MBP-TPF-SensationalFlavors~ToffeeCaramelSeaSalt",
+        "name": "Toffee Caramel & Sea Salt",
+        "seoURL": "toffee-caramel---sea-salt",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400126985",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateHalloween",
+        "name": "Halloween Treats Special Offer",
+        "seoURL": "halloween-treats-special-offer"
+    },
+    {
+        "categoryId": "400102543",
+        "identifier": "MBP-TPF-HiddenCollections~UPromise",
+        "name": "UPromise Special Offer",
+        "seoURL": "upromise-special-offer",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400126986",
+        "identifier": "MBP-TPF-HiddenCollections~SearchHalloween",
+        "name": "Halloween Treats Offer",
+        "seoURL": "halloween-treats-offer"
+    },
+    {
+        "categoryId": "400070491",
+        "identifier": "MBP-TPF-BusinessGifts~NursesWeek",
+        "name": "Nurses & EMS Week",
+        "seoURL": "nurses-and-ems-week-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400110049",
+        "identifier": "MBP-TPF-What'sPopping?~GrouponDeals",
+        "name": "Groupon Deals",
+        "seoURL": "groupon-popcorn-deals",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400070493",
+        "identifier": "MBP-TPF-Celebrations~OutdoorEntertaining",
+        "name": "Outdoor Entertaining",
+        "seoURL": "outdoorentertaining",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400070494",
+        "identifier": "MBP-TPF-Celebrations~BackyardBlast",
+        "name": "Backyard Blast",
+        "seoURL": "backyardblast",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400070495",
+        "identifier": "MBP-TPF-Celebrations~SummerFieldDay",
+        "name": "Summer Field Day",
+        "seoURL": "summerfieldday",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400051983",
+        "identifier": "MBP-TPF-BusinessGifts~CorporateIncentiveGifts",
+        "name": "Incentive Gifts",
+        "seoURL": "incentive-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400070496",
+        "identifier": "MBP-TPF-Celebrations~SummertimeCelebrations",
+        "name": "Summertime Celebrations",
+        "seoURL": "summertimecelebrations",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400180002",
+        "identifier": "MBP-TPF-HiddenCollections~FlavorOfTheMonth",
+        "name": "Flavor of the Month",
+        "seoURL": "flavor-of-the-month--1"
+    },
+    {
+        "categoryId": "400070497",
+        "identifier": "MBP-TPF-Celebrations~RoadtripEssentials",
+        "name": "Roadtrip Essentials",
+        "seoURL": "roadtrip",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400070498",
+        "identifier": "MBP-TPF-Celebrations~StudyBreak",
+        "name": "Study Break",
+        "seoURL": "studybreak",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400180004",
+        "identifier": "MBP-TPF-Content~PopcornDelivery",
+        "name": "Popcorn Delivery",
+        "seoURL": "popcorn-delivery",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400070499",
+        "identifier": "MBP-TPF-Celebrations~PersonalizeSummer",
+        "name": "Personalize Summer",
+        "seoURL": "personalizesummer",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400180005",
+        "identifier": "MBP-TPF-Content~PopcornCompany",
+        "name": "Popcorn Company",
+        "seoURL": "popcorn-company",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400180006",
+        "identifier": "MBP-TPF-Content~SendPopcornGifts",
+        "name": "Send Popcorn Gifts",
+        "seoURL": "send-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400180007",
+        "identifier": "MBP-TPF-Content~MailPopcornGift",
+        "name": "Mail Popcorn Gift",
+        "seoURL": "mail-popcorn-gift",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400036483",
+        "identifier": "MBP-TPF-GiftType~SameDayDelivery",
+        "name": "Same Day Delivery",
+        "seoURL": "same-day-gifts-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400115982",
+        "identifier": "MBP-TPF-Content~SweetTreatsSamplerEmail",
+        "name": "Sweet Treats Sampler",
+        "seoURL": "sweet-treats-sampler",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400102553",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateShippingHoliday",
+        "name": "Affiliate Free Ground Shipping",
+        "seoURL": "affiliate-free-ground-shipping",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400028988",
+        "identifier": "MBP-TPF-Occasions~Summer",
+        "name": "Summer",
+        "seoURL": "summer-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400172990",
+        "identifier": "MBP-TPF-HiddenCollections~BGSAccountsCG",
+        "name": "BGS Accounts Carol",
+        "seoURL": "bgs-accounts-carol"
+    },
+    {
+        "categoryId": "400172991",
+        "identifier": "MBP-TPF-HiddenCollections~BGSAccountsEP",
+        "name": "BSG Accounts Eric",
+        "seoURL": "bsg-accounts-eric"
+    },
+    {
+        "categoryId": "400172992",
+        "identifier": "MBP-TPF-HiddenCollections~BGSAccountsSV",
+        "name": "BGS Accounts Sheri",
+        "seoURL": "bgs-accounts-sheri"
+    },
+    {
+        "categoryId": "400040982",
+        "identifier": "MBP-TPF-SensationalFlavors~DoubleCheese",
+        "name": "Double Cheese",
+        "seoURL": "double-cheese",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400040983",
+        "identifier": "MBP-TPF-SensationalFlavors~Cranberry",
+        "name": "Cranberry",
+        "seoURL": "cranberry-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400040984",
+        "identifier": "MBP-TPF-SensationalFlavors~SourGreenApple",
+        "name": "Sour Green Apple",
+        "seoURL": "sour-green-apple-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400040985",
+        "identifier": "MBP-TPF-SensationalFlavors~ButterToffeePretzelMix",
+        "name": "Butter Toffee Pretzel Mix ",
+        "seoURL": "butter-toffee-pretzel-mix-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400040986",
+        "identifier": "MBP-TPF-SensationalFlavors~CoconutPopcorn ",
+        "name": "Coconut Popcorn ",
+        "seoURL": "toasted-coconut-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400059482",
+        "identifier": "MBP-TPF-HiddenCollections~FreeShippingFB",
+        "name": "Free Shipping Gifts",
+        "seoURL": "free-shipping-for-fans",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400025482",
+        "identifier": "MBP-TPF-What'sPopping?~BaseballTins",
+        "name": "MLB Team Popcorn Tins",
+        "seoURL": "baseball-popcorn-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400115990",
+        "identifier": "MBP-TPF-Content~SweetTreatsSamplerWeb",
+        "name": "Sweet Treats Sampler Special",
+        "seoURL": "sweet-treats-sampler-offer",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400115991",
+        "identifier": "MBP-TPF-Content~SweetTreatsSamplerIM",
+        "name": "Sweet Treats Sampler Offer",
+        "seoURL": "sweet-treats-sampler-special",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400104983",
+        "identifier": "MBP-TPF-GiftType~BestPopcornFriends",
+        "name": "Best Popcorn Friends",
+        "seoURL": "bpfs"
+    },
+    {
+        "categoryId": "400102564",
+        "identifier": "MBP-TPF-Occasions~HolidayGiftGuide",
+        "name": "Holiday Gift Guide",
+        "seoURL": "holiday-gift-guide-thepopcornfactory",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202512",
+        "identifier": "MBP-TPF-GiftType~NewFlavorCanisters",
+        "name": "New Flavor Canisters",
+        "seoURL": "new-flavor-canisters",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400097982",
+        "identifier": "MBP-TPF-HiddenCollections~BackToSchoolSale",
+        "name": "Back to School Sale",
+        "seoURL": "back-to-school-sale",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400195510",
+        "identifier": "MBP-TPF-HiddenCollections~IMOfferNFLTins",
+        "name": "Save on NFL Popcorn Tins",
+        "seoURL": "save-on-nfl-popcorn-tins"
+    },
+    {
+        "categoryId": "400161993",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateDeals",
+        "name": "Special Deals",
+        "seoURL": "affiliate-deals"
+    },
+    {
+        "categoryId": "400180147",
+        "identifier": "MBP-TPF-GiftType~FundraisingGiftIdeas",
+        "name": "Fundraising Gift Ideas",
+        "seoURL": "fundraising-gift-ideas",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400180029",
+        "identifier": "MBP-TPF-Content~FreePopcornMonthlySweepstakes",
+        "name": "Free Popcorn Monthly Sweepstakes",
+        "seoURL": "free-popcorn-monthly-sweepstakes",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000100",
+        "identifier": "MBP-TPF-What'sPopping?~WhatsNew",
+        "name": "What's New",
+        "seoURL": "whats-new",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400169482",
+        "identifier": "MBP-TPF-HiddenCollections~CelebrationsBirthdayOffers",
+        "name": "Celebrations Birthday Popcorn Offers",
+        "seoURL": "celebrations-birthday-popcorn-offers",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400169483",
+        "identifier": "MBP-TPF-HiddenCollections~CelebrationsBirthdayGifts",
+        "name": "Celebrations Birthday Popcorn Gifts",
+        "seoURL": "celebrations-birthday-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400127984",
+        "identifier": "MBP-TPF-HiddenCollections~OctNatlPopcornMonth",
+        "name": "October is National Popcorn Popping Month",
+        "seoURL": "october-national-popcorn-popping-month"
+    },
+    {
+        "categoryId": "400112497",
+        "identifier": "MBP-TPF-Occasions~EasterGiftGuide",
+        "name": "Easter Gift Guide",
+        "seoURL": "easter-gift-guide-thepopcornfactory",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112498",
+        "identifier": "MBP-TPF-Occasions~EasterUnder25",
+        "name": "Easter Gifts under 25",
+        "seoURL": "easter-gifts-under-25",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112499",
+        "identifier": "MBP-TPF-Occasions~Easter25-40",
+        "name": "Easter Gifts 25-40",
+        "seoURL": "easter-gifts-25-40",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400127989",
+        "identifier": "MBP-TPF-HiddenCollections~WhatFlavorAreYou",
+        "name": "What Flavor Are You",
+        "seoURL": "what-flavor-are-you"
+    },
+    {
+        "categoryId": "400135007",
+        "identifier": "MBP-TPF-Content~RatingsReview",
+        "name": "The Popcorn Factory Ratings & Reviews",
+        "seoURL": "popcorn-ratings-and-reviews"
+    },
+    {
+        "categoryId": "400086982",
+        "identifier": "MBP-TPF-HiddenCollections~BlackhawksOffer",
+        "name": "Blackhawks Special Offer",
+        "seoURL": "blackhawks-special-offer",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400097997",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayFall",
+        "name": "Fall Gifts",
+        "seoURL": "fall15",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400097998",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayHalloween",
+        "name": "Halloween Gifts",
+        "seoURL": "halloween15"
+    },
+    {
+        "categoryId": "400097999",
+        "identifier": "MBP-TPF-HiddenCollections~AffluentMagazine",
+        "name": "Ultra-Extravagant Popcorn",
+        "seoURL": "Affluent",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400052987",
+        "identifier": "MBP-TPF-Content~Strawberries",
+        "name": "Strawberries",
+        "seoURL": "strawberries",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400102581",
+        "identifier": "MBP-TPF-Content~Vegan",
+        "name": "Vegan Friendly",
+        "seoURL": "vegan-friendly",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400102582",
+        "identifier": "MBP-TPF-Content~TransFatFree",
+        "name": "Trans-Fat Free",
+        "seoURL": "trans-fat-free",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400181492",
+        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Snow",
+        "name": "Snow",
+        "seoURL": "snow"
+    },
+    {
+        "categoryId": "400135017",
+        "identifier": "MBP-TPF-Content~passport",
+        "name": "Join The Popcorn Factory Passport",
+        "seoURL": "passport-popcorn"
+    },
+    {
+        "categoryId": "400116504",
+        "identifier": "MBP-TPF-HiddenCollections~SearchFathersDay",
+        "name": "Gifts for Father's Day",
+        "seoURL": "gifts-for-fathers-day"
+    },
+    {
+        "categoryId": "400181493",
+        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Wreath",
+        "name": "Wreath",
+        "seoURL": "wreath"
+    },
+    {
+        "categoryId": "400158008",
+        "identifier": "MBP-TPF-Content~TPFPassport",
+        "name": "Passport TPF",
+        "seoURL": "passport-tpf"
+    },
+    {
+        "categoryId": "400181494",
+        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-HolidayFun",
+        "name": "holidayfun",
+        "seoURL": "holidayfun"
+    },
+    {
+        "categoryId": "400181495",
+        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Mistletoe",
+        "name": "mistletoe",
+        "seoURL": "mistletoe"
+    },
+    {
+        "categoryId": "400162982",
+        "identifier": "MBP-TPF-HiddenCollections~PassportMembers",
+        "name": "Passport Members",
+        "seoURL": "passport-members"
+    },
+    {
+        "categoryId": "400181496",
+        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Stockings",
+        "name": "stockings",
+        "seoURL": "stockings"
+    },
+    {
+        "categoryId": "400181497",
+        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Tidings",
+        "name": "tidings",
+        "seoURL": "tidings"
+    },
+    {
+        "categoryId": "400180045",
+        "identifier": "MBP-TPF-HiddenCollections~HelloFresh",
+        "name": "HelloFresh",
+        "seoURL": "hellofresh"
+    },
+    {
+        "categoryId": "400181498",
+        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Christmas-Jolly",
+        "name": "Jolly",
+        "seoURL": "jolly"
+    },
+    {
+        "categoryId": "400180046",
+        "identifier": "MBP-TPF-HiddenCollections~HelloFresh2",
+        "name": "Hello Fresh",
+        "seoURL": "hello-fresh"
+    },
+    {
+        "categoryId": "400180048",
+        "identifier": "MBP-TPF-HiddenCollections~HelloFreshFreeShipA",
+        "name": "Hello Fresh Free Shipping",
+        "seoURL": "hello-fresh-free-shipping"
+    },
+    {
+        "categoryId": "400180049",
+        "identifier": "MBP-TPF-HiddenCollections~HelloFreshFreeShipB",
+        "name": "Hello Fresh Free Shipping Offer",
+        "seoURL": "hello-fresh-free-shipping-offer"
+    },
+    {
+        "categoryId": "400196509",
+        "identifier": "MBP-TPF-HiddenCollections~QuickenLoans",
+        "name": "Quicken Loans",
+        "seoURL": "quicken-loans",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000007",
+        "identifier": "MBP-TPF-BusinessGifts",
+        "name": "Business Gifts",
+        "seoURL": "business-corporate-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000008",
+        "identifier": "MBP-TPF-BusinessGifts~Birthday",
+        "name": "Birthday",
+        "seoURL": "corporate-birthday-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000009",
+        "identifier": "MBP-TPF-BusinessGifts~Congratulations",
+        "name": "Congratulations",
+        "seoURL": "corporate-congratulations-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400147482",
+        "identifier": "MBP-TPF-HiddenCollections~DisplaySummer",
+        "name": "Summer Popcorn Gifts and Snacks",
+        "seoURL": "summer-popcorn-gifts-and-snacks"
+    },
+    {
+        "categoryId": "400135020",
+        "identifier": "MBP-TPF-HiddenCollections~SocialValentineSale",
+        "name": "Special Valentine Offer",
+        "seoURL": "special-valentine-offer"
+    },
+    {
+        "categoryId": "400026000",
+        "identifier": "MBP-TPF-Occasions~TestGroup",
+        "name": "Test Group",
+        "seoURL": "test-group",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400026001",
+        "identifier": "MBP-TPF-Occasions~Summer2",
+        "name": "Summer",
+        "seoURL": "summer-gift-ideas",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400158497",
+        "identifier": "MBP-TPF-SensationalFlavors~ZombieKettleCorn",
+        "name": "Zombie Kettle Corn",
+        "seoURL": "zombie-kettle-corn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400026002",
+        "identifier": "MBP-TPF-Occasions~Grandparents",
+        "name": "Grandparents Day",
+        "seoURL": "grandparents-day-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400026003",
+        "identifier": "MBP-TPF-Occasions~BigGame",
+        "name": "Big Game Snacks",
+        "seoURL": "big-game-snacks",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400026004",
+        "identifier": "MBP-TPF-Occasions~HalloweenSale",
+        "name": "Halloween Sale",
+        "seoURL": "halloween-sale",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400026005",
+        "identifier": "MBP-TPF-Occasions~FreeShipping",
+        "name": "Free Shipping",
+        "seoURL": "free-shipping",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400113004",
+        "identifier": "MBP-TPF-HiddenCollections~EmailNonClicks",
+        "name": "Email N C",
+        "seoURL": "email-n-c"
+    },
+    {
+        "categoryId": "400026006",
+        "identifier": "MBP-TPF-Occasions~NewYears",
+        "name": "New Year's",
+        "seoURL": "new-years-party",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400102599",
+        "identifier": "MBP-TPF-HiddenCollections~NYEEmail123013",
+        "name": "New Year's Eve",
+        "seoURL": "nye-sale",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400026007",
+        "identifier": "MBP-TPF-Occasions~NextDayDeliveryHP",
+        "name": "Next Day Gifts Homepage",
+        "seoURL": "next-day-gift-delivery",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400026008",
+        "identifier": "MBP-TPF-Occasions~TeachersWeek",
+        "name": "Teachers Appreciation Week",
+        "seoURL": "teachers-appreciation-week-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400026009",
+        "identifier": "MBP-TPF-Occasions~FathersDay",
+        "name": "Father's Day Gifts",
+        "seoURL": "fathers-day-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400127529",
+        "identifier": "MBP-TPF-HiddenCollections~PickAFillSpecialOffer",
+        "name": "Pick A Fill Special Offer",
+        "seoURL": "pick-a-fill-special"
+    },
+    {
+        "categoryId": "400193003",
+        "identifier": "MBP-TPF-Occasions~PassportDayThePopcornFactory",
+        "name": "Passport Day at The Popcorn Factory",
+        "seoURL": "passport-day-thepopcornfactory",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400098506",
+        "identifier": "MBP-TPF-HiddenCollections~GSTV",
+        "name": "GSTV",
+        "seoURL": "gstv"
+    },
+    {
+        "categoryId": "3400000010",
+        "identifier": "MBP-TPF-BusinessGifts~PersonalizedGifts",
+        "name": "Personalized Gifts",
+        "seoURL": "corporate-gifts-personalized-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000011",
+        "identifier": "MBP-TPF-BusinessGifts~ThankYou",
+        "name": "Thank You",
+        "seoURL": "corporate-thank-you-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000012",
+        "identifier": "MBP-TPF-Celebrations",
+        "name": "Celebrations",
+        "seoURL": "celebrrations",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000013",
+        "identifier": "MBP-TPF-Celebrations~JustBecause",
+        "name": "Just Because",
+        "seoURL": "just-because-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000014",
+        "identifier": "MBP-TPF-Celebrations~Birthday",
+        "name": "Birthday",
+        "seoURL": "birthday-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000015",
+        "identifier": "MBP-TPF-Celebrations~Congratulations",
+        "name": "Congratulations",
+        "seoURL": "congratulations-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000016",
+        "identifier": "MBP-TPF-Celebrations~Encouragement",
+        "name": "Encouragement",
+        "seoURL": "encouragement-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000017",
+        "identifier": "MBP-TPF-Celebrations~GetWell",
+        "name": "Get Well",
+        "seoURL": "get-well-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000018",
+        "identifier": "MBP-TPF-Celebrations~ThankYou",
+        "name": "Thank You",
+        "seoURL": "thank-you-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000019",
+        "identifier": "MBP-TPF-Celebrations~ThinkingofYou",
+        "name": "Thinking of You",
+        "seoURL": "thinking-of-you",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400139991",
+        "identifier": "MBP-TPF-Content~AARP",
+        "name": "The Popcorn Factory AARP",
+        "seoURL": "the-popcorn-factory-aarp",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049000",
+        "identifier": "MBP-TPF-Content~CorporateGiftServices",
+        "name": "Corporate Gift Services",
+        "seoURL": "corporate-gift-services",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400026011",
+        "identifier": "MBP-TPF-Occasions~PatrioticGifts",
+        "name": "Patriotic Gifts",
+        "seoURL": "patriotic-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400158023",
+        "identifier": "MBP-TPF-HiddenCollections~NatlPopcornMonthPR",
+        "name": "October Popcorn Month",
+        "seoURL": "october-popcorn-month"
+    },
+    {
+        "categoryId": "400026012",
+        "identifier": "MBP-TPF-Occasions~SummerPicnics",
+        "name": "Summer Picnics",
+        "seoURL": "summer-of-celebrations-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049002",
+        "identifier": "MBP-TPF-Content~CustomerLoyalty",
+        "name": "Customer Loyalty",
+        "seoURL": "customer-loyalty",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400049003",
+        "identifier": "MBP-TPF-Content~EmployeeRecognition",
+        "name": "Employee Recognition",
+        "seoURL": "employee-recognition",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400026013",
+        "identifier": "MBP-TPF-Occasions~CampWannaSnack",
+        "name": "Camp Wanna Snack",
+        "seoURL": "camp-wanna-snack",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049004",
+        "identifier": "MBP-TPF-Content~CustomizedGifts",
+        "name": "Customized Gifts",
+        "seoURL": "customized-corporate-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400026014",
+        "identifier": "MBP-TPF-Occasions~Fall",
+        "name": "Fall Gifts",
+        "seoURL": "fall-gift-ideas",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400127534",
+        "identifier": "MBP-TPF-HiddenCollections~BaseballTinsOffer",
+        "name": "Baseball Tins Special Offer",
+        "seoURL": "baseball-tins-special-offer",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049005",
+        "identifier": "MBP-TPF-Content~PuzzleSolutions",
+        "name": "Puzzle Solutions",
+        "seoURL": "puzzle-solutions",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400026015",
+        "identifier": "MBP-TPF-Occasions~HalloweenTreats",
+        "name": "Halloween Treats",
+        "seoURL": "halloween-popcorn-candy-snacks",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400127535",
+        "identifier": "MBP-TPF-HiddenCollections~HarryDavid",
+        "name": "Harry and David",
+        "seoURL": "harry-david"
+    },
+    {
+        "categoryId": "400026016",
+        "identifier": "MBP-TPF-Occasions~HolidaySale",
+        "name": "Holiday Sale",
+        "seoURL": "holiday-popcorn-sale",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400127536",
+        "identifier": "MBP-TPF-HiddenCollections~ChristmasFavoritesTest",
+        "name": "Christmas Favorites",
+        "seoURL": "christmas-fsi-test"
+    },
+    {
+        "categoryId": "400049007",
+        "identifier": "MBP-TPF-Content~WholesaleLearnMore",
+        "name": "Wholesale Learn More",
+        "seoURL": "wholesale-learn-more",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400026017",
+        "identifier": "MBP-TPF-Occasions~BossesDay",
+        "name": "Bosses Day",
+        "seoURL": "bosses-day-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049008",
+        "identifier": "MBP-TPF-Content~WholesaleBagline",
+        "name": "Wholesale Bagline",
+        "seoURL": "wholesale-bagline",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400026018",
+        "identifier": "MBP-TPF-Occasions~SweetestDay",
+        "name": "Sweetest Day",
+        "seoURL": "sweetest-day-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049009",
+        "identifier": "MBP-TPF-Content~WholesaleBulkPopcorn",
+        "name": "Wholesale Bulk Popcorn",
+        "seoURL": "wholesale-bulk-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400026019",
+        "identifier": "MBP-TPF-Occasions~Christmas",
+        "name": "Christmas Gifts",
+        "seoURL": "christmas-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400053982",
+        "identifier": "MBP-TPF-HiddenCollections~FreeShipping",
+        "name": "Free Shipping",
+        "seoURL": "free-shipping-offer",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400053983",
+        "identifier": "MBP-TPF-HiddenCollections~FreeShippingGifts",
+        "name": "Free Shipping Gifts",
+        "seoURL": "free-shipping-gifts",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400053984",
+        "identifier": "MBP-TPF-Occasions~BigAwardsShow",
+        "name": "Big Awards Show",
+        "seoURL": "big-awards-show",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000020",
+        "identifier": "MBP-TPF-GiftType",
+        "name": "Shop by Product",
+        "seoURL": "premium-popcorn-products",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000021",
+        "identifier": "MBP-TPF-GiftType~Baskets",
+        "name": "Gift Baskets",
+        "seoURL": "popcorn-gift-baskets",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400098517",
+        "identifier": "MBP-TPF-Content~SmartQR",
+        "name": "Smart QR",
+        "seoURL": "smart",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000022",
+        "identifier": "MBP-TPF-GiftType~BirthdayAnimals",
+        "name": "Birthday Animals",
+        "seoURL": "kids-birthday-gifts-favors",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400098518",
+        "identifier": "MBP-TPF-BusinessGifts~CorporateVIP",
+        "name": "Very Indulgent Popcorn",
+        "seoURL": "vip",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000023",
+        "identifier": "MBP-TPF-GiftType~CollegeTeams",
+        "name": "College Team Tins",
+        "seoURL": "college-team-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000024",
+        "identifier": "MBP-TPF-GiftType~FunGifts",
+        "name": "Fun Gifts for Kids",
+        "seoURL": "fun-gift-ideas",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000025",
+        "identifier": "MBP-TPF-GiftType~GiftsforKids",
+        "name": "Gifts for Kids",
+        "seoURL": "gifts-for-kids",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000026",
+        "identifier": "MBP-TPF-GiftType~PersonalizedGifts",
+        "name": "Personalized Gifts",
+        "seoURL": "personalized-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000027",
+        "identifier": "MBP-TPF-GiftType~PopcornBalls",
+        "name": "Popcorn Balls",
+        "seoURL": "popcorn-balls-collection",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000028",
+        "identifier": "MBP-TPF-GiftType~PopcornFlavors",
+        "name": "Popcorn Flavors",
+        "seoURL": "individual-popcorn-flavors",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000029",
+        "identifier": "MBP-TPF-GiftType~PopcornTins",
+        "name": "Popcorn Tins",
+        "seoURL": "popcorn-tin-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400159482",
+        "identifier": "MBP-TPF-What'sPopping?~HalloweenPartyIdeas",
+        "name": "Halloween Party Ideas",
+        "seoURL": "halloween-party-ideas",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049010",
+        "identifier": "MBP-TPF-Content~WholsaleCanisters",
+        "name": "Wholesale Canisters",
+        "seoURL": "wholesale-canisters",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049011",
+        "identifier": "MBP-TPF-Content~WholesaleGableBoxes",
+        "name": "Wholesale Gable Boxes",
+        "seoURL": "wholesale-gable-boxes",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049012",
+        "identifier": "MBP-TPF-Content~WholesalePopcornBalls",
+        "name": "Wholesale Popcorn Balls",
+        "seoURL": "wholesale-popcorn-balls",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049013",
+        "identifier": "MBP-TPF-Content~LargestPopcornBall",
+        "name": "Worlds Largest Popcorn Ball",
+        "seoURL": "worlds-largest-popcorn-ball",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400102496",
+        "identifier": "MBP-TPF-GiftType~PopcornCards",
+        "name": "$5 Popcorn Cards",
+        "seoURL": "popcorn-cards",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400049015",
+        "identifier": "MBP-TPF-Content~WholesaleHome",
+        "name": "Wholesale Home",
+        "seoURL": "wholesale-home",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400102498",
+        "identifier": "MBP-TPF-Content~MeetOurEmployees",
+        "name": "Meet Our Employees",
+        "seoURL": "new-meet-our-employees",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400181160",
+        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner",
+        "name": "Celebrations Popcorn Gift Planner",
+        "seoURL": "celebrations-popcorn-gift-planner",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400102499",
+        "identifier": "MBP-TPF-BusinessGifts~CorporateGiftsSpecialOffer",
+        "name": "Corporate Gifts Special Offer",
+        "seoURL": "corporate-gifts-special-offer",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400053990",
+        "identifier": "MBP-TPF-GiftType~SayItInColor",
+        "name": "Say It In Color",
+        "seoURL": "say-it-in-color",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400182493",
+        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner~EverydayGifting2",
+        "name": "Everyday Gifting",
+        "seoURL": "everyday-gifting",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400113028",
+        "identifier": "MBP-TPF-GiftType~BunnyPatch",
+        "name": "Bunny Patch",
+        "seoURL": "bunny-patch"
+    },
+    {
+        "categoryId": "400127549",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateHalloweenSale",
+        "name": "Halloween Treats Special Sale",
+        "seoURL": "halloween-treats-special-sale"
+    },
+    {
+        "categoryId": "400098520",
+        "identifier": "MBP-TPF-Occasions~BlackFridaySale",
+        "name": "Black Friday Sale",
+        "seoURL": "black-friday-sale",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400181164",
+        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner~BackToSchool2",
+        "name": "Snack to School®",
+        "seoURL": "snack-to-school®",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400098521",
+        "identifier": "MBP-TPF-GiftType~VIP",
+        "name": "V.I.P. Access",
+        "seoURL": "vip-very-indulgent-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400197984",
+        "identifier": "MBP-TPF-HiddenCollections~SocialFacebookOffer",
+        "name": "Facebook Offer",
+        "seoURL": "facebook-offer"
+    },
+    {
+        "categoryId": "400098522",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayHolidayFS",
+        "name": "Free Shipping on Holiday Gifts",
+        "seoURL": "free-shipping-on-holiday-gifts"
+    },
+    {
+        "categoryId": "400180077",
+        "identifier": "MBP-TPF-Occasions~SympathyGiftsPopcorn",
+        "name": "Sympathy Gifts",
+        "seoURL": "popcorn-gifts-sympathy-collection",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400197985",
+        "identifier": "MBP-TPF-HiddenCollections~MoneyMailer",
+        "name": "Money Mailer",
+        "seoURL": "money-mailer-offer"
+    },
+    {
+        "categoryId": "400182497",
+        "identifier": "MBP-TPF-HiddenCollections~CubsRadio",
+        "name": "Radio",
+        "seoURL": "radio--1"
+    },
+    {
+        "categoryId": "400098523",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayHoliday15",
+        "name": "Save 15% on Holiday Gifts",
+        "seoURL": "save-on-holiday-gifts"
+    },
+    {
+        "categoryId": "400098524",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayNewYear15",
+        "name": "Save 15% on New Year's Eve Gifts",
+        "seoURL": "save-on-new-years-eve-gifts"
+    },
+    {
+        "categoryId": "400182499",
+        "identifier": "MBP-TPF-HiddenCollections~CubsTheScore",
+        "name": "thescore",
+        "seoURL": "thescore"
+    },
+    {
+        "categoryId": "400098525",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayHanukkah15",
+        "name": "Save 15% on Hanukkah Gifts",
+        "seoURL": "save-on-hanukkah-gifts"
+    },
+    {
+        "categoryId": "400098526",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayHolidayat20",
+        "name": "Holiday Gifts Starting at $20",
+        "seoURL": "holiday-gifts-starting-at-20"
+    },
+    {
+        "categoryId": "3400000031",
+        "identifier": "MBP-TPF-GiftType~Samplers",
+        "name": "Samplers",
+        "seoURL": "popcorn-gift-samplers",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000032",
+        "identifier": "MBP-TPF-GiftType~SnackAssortments",
+        "name": "Snack Assortments",
+        "seoURL": "popcorn-snack-assortments",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400183108",
+        "identifier": "MBP-TPF-SensationalFlavors~JellyBeanCornfetti",
+        "name": "Jelly Bean Cornfetti",
+        "seoURL": "jelly-bean-cornfetti",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000033",
+        "identifier": "MBP-TPF-GiftType~SportsTins",
+        "name": "Sports Tins",
+        "seoURL": "sports-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000034",
+        "identifier": "MBP-TPF-GiftType~Towers",
+        "name": "Towers",
+        "seoURL": "gift-towers",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000036",
+        "identifier": "MBP-TPF-HiddenCollections~BoxTops",
+        "name": "BoxTops",
+        "seoURL": "box-tops",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000037",
+        "identifier": "MBP-TPF-HiddenCollections~CollegeGifts",
+        "name": "CollegeGifts",
+        "seoURL": "college-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000038",
+        "identifier": "MBP-TPF-HiddenCollections~DIRECTVCustomers",
+        "name": "DIRECTVCustomers",
+        "seoURL": "direct-tv-customers",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000039",
+        "identifier": "MBP-TPF-HiddenCollections~GiftsUnder30",
+        "name": "GiftsUnder30",
+        "seoURL": "gifts-under-30",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400127550",
+        "identifier": "MBP-TPF-HiddenCollections~SearchHalloweenSale",
+        "name": "Halloween Special Sale",
+        "seoURL": "halloween-special-sale"
+    },
+    {
+        "categoryId": "400127551",
+        "identifier": "MBP-TPF-HiddenCollections~SocialHalloweenSale",
+        "name": "Special Halloween Treat Sale",
+        "seoURL": "special-halloween-treat-sale"
+    },
+    {
+        "categoryId": "400113031",
+        "identifier": "MBP-TPF-BusinessGifts~AdminWeek",
+        "name": "Administrative Professional's Week",
+        "seoURL": "administrative-professionals-week",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400106982",
+        "identifier": "MBP-TPF-Occasions~ValentinesForMen",
+        "name": "Valentine's Gifts for Men",
+        "seoURL": "valentines-for-men",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400158047",
+        "identifier": "MBP-TPF-SensationalFlavors~HolidayKettleCorn",
+        "name": "Holiday Kettle Corn",
+        "seoURL": "holiday-kettle-corn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400117996",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateFathersDay",
+        "name": "Delicious Gifts for Father's Day",
+        "seoURL": "delicious-gifts-for-fathers-day"
+    },
+    {
+        "categoryId": "400181170",
+        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner~HalloweenTreats2",
+        "name": "Halloween Treats",
+        "seoURL": "halloween-treats",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400181173",
+        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner~PatrioticGifts2",
+        "name": "Patriotic Gifts",
+        "seoURL": "patriotic-gifts",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400113039",
+        "identifier": "MBP-TPF-HiddenCollections~BradsDeals",
+        "name": "Brads Deals",
+        "seoURL": "brads-deals--1"
+    },
+    {
+        "categoryId": "400181054",
+        "identifier": "MBP-TPF-HiddenCollections~ShowtimeSubscriberExclusiveOffer",
+        "name": "Showtime Exclusive Offer",
+        "seoURL": "showtime-subscriber-exclusive-offer",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400098532",
+        "identifier": "MBP-TPF-HiddenCollections~EntBookFreeShipping",
+        "name": "Entertainment Book Offer",
+        "seoURL": "entertainment-book-free-shipping",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400160485",
+        "identifier": "MBP-TPF-HiddenCollections~HomepageHolidayOffer",
+        "name": "Holiday Special Offer",
+        "seoURL": "holiday-special-offer"
+    },
+    {
+        "categoryId": "400098533",
+        "identifier": "MBP-TPF-HiddenCollections~DoubleTakeOfferFreeShipping",
+        "name": "Double Take Offer Free Shipping",
+        "seoURL": "double-take-offer-free-shipping",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400181177",
+        "identifier": "MBP-TPF-CelebrationsPopcornGiftPlanner~Thanksgiving2",
+        "name": "Thanksgiving Sale",
+        "seoURL": "thanksgiving-sale",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400160486",
+        "identifier": "MBP-TPF-HiddenCollections~HomepageHolidaySale",
+        "name": "Holiday Special Sale",
+        "seoURL": "holiday-special-sale"
+    },
+    {
+        "categoryId": "3400000040",
+        "identifier": "MBP-TPF-HiddenCollections~GreetingCans",
+        "name": "GreetingCans",
+        "seoURL": "greeting-cans",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000041",
+        "identifier": "MBP-TPF-HiddenCollections~HalloweenPickAFilling",
+        "name": "HalloweenPickAFilling",
+        "seoURL": "halloween-pick-a-filling-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000042",
+        "identifier": "MBP-TPF-HiddenCollections~Linkshare",
+        "name": "Linkshare",
+        "seoURL": "linkshare",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400185538",
+        "identifier": "MBP-TPF-HiddenCollections~BradsDealsNew",
+        "name": "Brads Deals Special Offer",
+        "seoURL": "brads-deals-special-offer"
+    },
+    {
+        "categoryId": "3400000043",
+        "identifier": "MBP-TPF-HiddenCollections~MardiGras",
+        "name": "MardiGras",
+        "seoURL": "mardi-gras-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000044",
+        "identifier": "MBP-TPF-HiddenCollections~NewGifts",
+        "name": "NewGifts",
+        "seoURL": "new-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000045",
+        "identifier": "MBP-TPF-GiftType~NewGifts",
+        "name": "New Gifts",
+        "seoURL": "new-gift-ideas",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198609",
+        "identifier": "MBP-TPF-GiftType~GoldSnowflake",
+        "name": "Gold Snowflake",
+        "seoURL": "gold-snowflake",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "3400000046",
+        "identifier": "MBP-TPF-HiddenCollections~ShopAtHome",
+        "name": "ShopAtHome",
+        "seoURL": "shop-at-home",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000047",
+        "identifier": "MBP-TPF-HiddenCollections~ShopDiscover",
+        "name": "ShopDiscover",
+        "seoURL": "shop-discover",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000048",
+        "identifier": "MBP-TPF-HiddenCollections~Upromise",
+        "name": "Upromise",
+        "seoURL": "upromise",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "3400000049",
+        "identifier": "MBP-TPF-Occasions",
+        "name": "Shop By Occasion",
+        "seoURL": "occasions",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400137002",
+        "identifier": "MBP-TPF-SensationalFlavors~BaconCheddar",
+        "name": "Bacon Cheddar Popcorn",
+        "seoURL": "bacon-cheddar-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400137003",
+        "identifier": "MBP-TPF-SensationalFlavors~BirthdayCelebrationCornfetti",
+        "name": "Birthday Celebration Cornfetti",
+        "seoURL": "birthday-celebration-cornfetti",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400129985",
+        "identifier": "MBP-TPF-BusinessGifts~LinkedInOffer",
+        "name": "LinkedIn Exclusive Offer",
+        "seoURL": "linkedin-exclusive-offer",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400137004",
+        "identifier": "MBP-TPF-SensationalFlavors~BunnyPopCornfetti",
+        "name": "Bunny Pop Cornfetti",
+        "seoURL": "bunny-pop-cornfetti",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400137489",
+        "identifier": "MBP-TPF-Content~Coupons",
+        "name": "The Popcorn Factory Coupon Page",
+        "seoURL": "the-popcorn-factory-coupon-page",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400137005",
+        "identifier": "MBP-TPF-SensationalFlavors~CaramelApple",
+        "name": "Caramel Apple",
+        "seoURL": "caramel-apple-corn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400099990",
+        "identifier": "MBP-TPF-HiddenCollections~TestPage",
+        "name": "Testpage",
+        "seoURL": "testpage"
+    },
+    {
+        "categoryId": "400137006",
+        "identifier": "MBP-TPF-SensationalFlavors~CelebrationCorn",
+        "name": "Celebration Corn",
+        "seoURL": "celebration-corn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400183482",
+        "identifier": "MBP-TPF-HiddenCollections~CBSOffer",
+        "name": "cbs offer",
+        "seoURL": "cbs-offer"
+    },
+    {
+        "categoryId": "400062482",
+        "identifier": "MBP-TPF-Occasions~IconicChicago",
+        "name": "Iconic Chicago",
+        "seoURL": "chicago-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400099992",
+        "identifier": "MBP-TPF-HiddenCollections~MysteryTinsforEmailSegmentation",
+        "name": "Mystery Tins",
+        "seoURL": "mystery-tins"
+    },
+    {
+        "categoryId": "400183484",
+        "identifier": "MBP-TPF-HiddenCollections~FreeShippingDayPopcornGifts",
+        "name": "Free Shipping Day Popcorn Gifts",
+        "seoURL": "free-shipping-day-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198610",
+        "identifier": "MBP-TPF-GiftType~HappyHolidays",
+        "name": "Happy Holidays",
+        "seoURL": "happy-holidays",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400175983",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayFathersDay",
+        "name": "Father's Day Popcorn Gifts",
+        "seoURL": "fathers-day-popcorn-gifts"
+    },
+    {
+        "categoryId": "400198611",
+        "identifier": "MBP-TPF-GiftType~WinterWonderland",
+        "name": "Winter Wonderland",
+        "seoURL": "winter-wonderland",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400198612",
+        "identifier": "MBP-TPF-GiftType~SantasBelt",
+        "name": "Santa's Belt",
+        "seoURL": "santas-belt",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400054985",
+        "identifier": "MBP-TPF-GiftType~ChocolateBunny",
+        "name": "Chocolate Bunny",
+        "seoURL": "chocolate-bunny",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198613",
+        "identifier": "MBP-TPF-GiftType~Nutcracker",
+        "name": "Nutcracker",
+        "seoURL": "nutcracker",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000050",
+        "identifier": "MBP-TPF-Occasions~BackToSchool",
+        "name": "Snack to School®",
+        "seoURL": "snack-to-school",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400160499",
+        "identifier": "MBP-TPF-HiddenCollections~HomepageHolidayDeals",
+        "name": "Holiday Deals",
+        "seoURL": "holiday-deals"
+    },
+    {
+        "categoryId": "3400000051",
+        "identifier": "MBP-TPF-Occasions~CollegeGifts",
+        "name": "College Gifts",
+        "seoURL": "college-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000052",
+        "identifier": "MBP-TPF-Occasions~Easter",
+        "name": "Easter",
+        "seoURL": "easter-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000053",
+        "identifier": "MBP-TPF-Occasions~FamilyNight",
+        "name": "Family Night",
+        "seoURL": "family-night-ideas",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000054",
+        "identifier": "MBP-TPF-Occasions~Hanukkah",
+        "name": "Hanukkah",
+        "seoURL": "popcorn-hanukkah-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000055",
+        "identifier": "MBP-TPF-Occasions~MardiGras",
+        "name": "Mardi Gras",
+        "seoURL": "mardis-gras-party",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000056",
+        "identifier": "MBP-TPF-Occasions~Spring",
+        "name": "Spring",
+        "seoURL": "spring-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000057",
+        "identifier": "MBP-TPF-Occasions~StPatricksDay",
+        "name": "St Patrick's Day",
+        "seoURL": "st-patricks-day-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000058",
+        "identifier": "MBP-TPF-Occasions~Thanksgiving",
+        "name": "Thanksgiving",
+        "seoURL": "thanksgiving-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000059",
+        "identifier": "MBP-TPF-Occasions~ValentinesDay",
+        "name": "Valentine's Day",
+        "seoURL": "valentines-day-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400126486",
+        "identifier": "MBP-TPF-BusinessGifts~CorporateHolidayGifts2",
+        "name": "Corporate Gifts for the Holidays",
+        "seoURL": "corporate-gifts-for-the-holidays",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400172482",
+        "identifier": "MBP-TPF-HiddenCollections~SaveAround2",
+        "name": "Save",
+        "seoURL": "save"
+    },
+    {
+        "categoryId": "400198622",
+        "identifier": "MBP-TPF-GiftType~CrimsonCardinal",
+        "name": "Crimson Cardinal",
+        "seoURL": "crimson-cardinal",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400198623",
+        "identifier": "MBP-TPF-GiftType~SimplyRed",
+        "name": "Simply Red",
+        "seoURL": "simply-red",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400043985",
+        "identifier": "MBP-TPF-BusinessGifts~EnableCookies",
+        "name": "Enable Browser Cookie",
+        "seoURL": "enable-browser-cookie-thepopcornfactory",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "3400000060",
+        "identifier": "MBP-TPF-SensationalFlavors",
+        "name": "SensationalFlavors",
+        "seoURL": "sensational-popcorn-flavors",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400130501",
+        "identifier": "MBP-TPF-FreshRewards-400130501",
+        "name": "MBP-TPF-FreshRewards-400130501",
+        "seoURL": "freshrewards-400130501"
+    },
+    {
+        "categoryId": "3400000061",
+        "identifier": "MBP-TPF-SensationalFlavors~AlmondPecan",
+        "name": "Almond Pecan",
+        "seoURL": "almond-pecan-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000062",
+        "identifier": "MBP-TPF-SensationalFlavors~BuffaloRanch",
+        "name": "Buffalo Ranch",
+        "seoURL": "buffalo-ranch-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000063",
+        "identifier": "MBP-TPF-SensationalFlavors~Butter",
+        "name": "Butter",
+        "seoURL": "butter-flavored-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000064",
+        "identifier": "MBP-TPF-SensationalFlavors~Caramel",
+        "name": "Caramel",
+        "seoURL": "caramel-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000065",
+        "identifier": "MBP-TPF-SensationalFlavors~Cheese",
+        "name": "Cheese",
+        "seoURL": "cheese-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000066",
+        "identifier": "MBP-TPF-SensationalFlavors~ChocDrizzle",
+        "name": "Chocolate Drizzle",
+        "seoURL": "chocolate-drizzle-gourmet-popcorn",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "3400000067",
+        "identifier": "MBP-TPF-SensationalFlavors~Cinnamon",
+        "name": "Cinnamon",
+        "seoURL": "cinnamon-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000068",
+        "identifier": "MBP-TPF-SensationalFlavors~CrackedPepper",
+        "name": "Cracked Pepper",
+        "seoURL": "cracked-pepper-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000069",
+        "identifier": "MBP-TPF-SensationalFlavors~DarkChocSeaSalt",
+        "name": "Dark Chocolate SeaSalt",
+        "seoURL": "dark-chocolate-sea-salt-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400126491",
+        "identifier": "MBP-TPF-HiddenCollections~NatlPopcornMonth",
+        "name": "National Popcorn Popping Month",
+        "seoURL": "national-popcorn-popping-month"
+    },
+    {
+        "categoryId": "400126492",
+        "identifier": "MBP-TPF-HiddenCollections~TwoDaySpecialOffer",
+        "name": "Two Day Special Offer",
+        "seoURL": "two-day-special-offer"
+    },
+    {
+        "categoryId": "400126493",
+        "identifier": "MBP-TPF-HiddenCollections~Cooking",
+        "name": "Cooking",
+        "seoURL": "cooking"
+    },
+    {
+        "categoryId": "400126494",
+        "identifier": "MBP-TPF-HiddenCollections~SearchFall",
+        "name": "Fall Offer",
+        "seoURL": "fall-gifts-offer"
+    },
+    {
+        "categoryId": "400115483",
+        "identifier": "MBP-TPF-HiddenCollections~SearchMothersDay",
+        "name": "Gifts for Mother's Day ",
+        "seoURL": "gifts-for-mothers-day"
+    },
+    {
+        "categoryId": "400127585",
+        "identifier": "MBP-TPF-HiddenCollections~BelardiOstrayDigitalAcquisition2",
+        "name": "Exclusive Holiday Offer from The Popcorn Factory",
+        "seoURL": "exclusive-holiday-offer"
+    },
+    {
+        "categoryId": "400103022",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayBirthday15",
+        "name": "Birthday Gifts",
+        "seoURL": "birthday15"
+    },
+    {
+        "categoryId": "400127586",
+        "identifier": "MBP-TPF-HiddenCollections~BelardiOstrayDigitalAcquisition3",
+        "name": "Exclusive Holiday Gifts Offer from The Popcorn Factory",
+        "seoURL": "exclusive-holiday-gifts-offer"
+    },
+    {
+        "categoryId": "400103023",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayThankYou15",
+        "name": "Thank You Gifts",
+        "seoURL": "thankyou15"
+    },
+    {
+        "categoryId": "400103024",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayFantasticFlavors",
+        "name": "Fantastic Flavors",
+        "seoURL": "fantastic-flavors"
+    },
+    {
+        "categoryId": "400103026",
+        "identifier": "MBP-TPF-HiddenCollections~WXRTRadio",
+        "name": "WXRT Radio Collection",
+        "seoURL": "wxrt-radio",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400198991",
+        "identifier": "MBP-TPF-What'sPopping?~AsSeenOnGoodMorningAmerica",
+        "name": "As seen on GMA",
+        "seoURL": "as-seen-on-good-morning-america",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400103027",
+        "identifier": "MBP-TPF-HiddenCollections~WXRTBanners",
+        "name": "WXRT Radio Holiday Collection",
+        "seoURL": "wxrt-holiday-gift-collection",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400040482",
+        "identifier": "MBP-TPF-SensationalFlavors~SeaSaltSlim",
+        "name": "Sea Salt Slim",
+        "seoURL": "sea-salt-slim",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400103028",
+        "identifier": "MBP-TPF-HiddenCollections~WXRTCBSBanners",
+        "name": "WXRT CBS Holiday Collection",
+        "seoURL": "wxrt-cbs-holiday-collection",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400174553",
+        "identifier": "MBP-TPF-Occasions~Babies",
+        "name": "Babies",
+        "seoURL": "babies",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400181088",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayHolidayVideo",
+        "name": "Holiday Gifts Video Offer",
+        "seoURL": "holiday-gifts-video-offer"
+    },
+    {
+        "categoryId": "400161002",
+        "identifier": "MBP-TPF-HiddenCollections~Rewards",
+        "name": "Rewards",
+        "seoURL": "rewards"
+    },
+    {
+        "categoryId": "400174554",
+        "identifier": "MBP-TPF-Occasions~Weddings",
+        "name": "Weddings",
+        "seoURL": "wedding-gift-snacks-treats"
+    },
+    {
+        "categoryId": "3400000070",
+        "identifier": "MBP-TPF-SensationalFlavors~GingerTeriyaki",
+        "name": "Ginger Teriyaki",
+        "seoURL": "ginger-teriyaki-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000071",
+        "identifier": "MBP-TPF-SensationalFlavors~Jalapeno",
+        "name": "Jalapeno",
+        "seoURL": "jalapeno-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400161004",
+        "identifier": "MBP-TPF-HiddenCollections~TPFPassport",
+        "name": "Passport",
+        "seoURL": "passport--1"
+    },
+    {
+        "categoryId": "3400000072",
+        "identifier": "MBP-TPF-SensationalFlavors~Kettle",
+        "name": "Kettle",
+        "seoURL": "kettle-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400161489",
+        "identifier": "MBP-TPF-GiftType~PersonalizedGiftsRem",
+        "name": "removed",
+        "seoURL": "removed",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000073",
+        "identifier": "MBP-TPF-SensationalFlavors~PeanutBrittle",
+        "name": "Peanut Brittle",
+        "seoURL": "peanut-brittle-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000074",
+        "identifier": "MBP-TPF-SensationalFlavors~S'mores",
+        "name": "S'mores",
+        "seoURL": "smores-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000075",
+        "identifier": "MBP-TPF-SensationalFlavors~DrizToffeeAlmondPretzel",
+        "name": "Drizzled Toffee Almond Pretzel",
+        "seoURL": "drizzled-toffee-almond-pretzel",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000076",
+        "identifier": "MBP-TPF-SensationalFlavors~WhiteCheddar",
+        "name": "White Cheddar",
+        "seoURL": "white-cheddar-gourmet-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000077",
+        "identifier": "MBP-TPF-What'sPopping?",
+        "name": "Shop For Popcorn",
+        "seoURL": "whats-popping",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000078",
+        "identifier": "MBP-TPF-What'sPopping?~MovieNightSnacks",
+        "name": "Movie Night Snacks",
+        "seoURL": "movie-night-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400130519",
+        "identifier": "MBP-TPF-What'sPopping?~FannieMayRedirect",
+        "name": "Fannie May Shoppers",
+        "seoURL": "fannie-may-shoppers",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000079",
+        "identifier": "MBP-TPF-What'sPopping?~BakeSale",
+        "name": "Bake Sale",
+        "seoURL": "bake-sale",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400103030",
+        "identifier": "MBP-TPF-HiddenCollections~WXRTCD",
+        "name": "WXRT Holiday CD Collection",
+        "seoURL": "xrt",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400103031",
+        "identifier": "MBP-TPF-HiddenCollections~WXRTCBSFSBanners",
+        "name": "WXRT CBS Free Ship Collection",
+        "seoURL": "cbs-free-ship-collection",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400138001",
+        "identifier": "MBP-TPF-BusinessGifts~GetWell",
+        "name": "Get Well Gifts",
+        "seoURL": "get-well",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400103032",
+        "identifier": "MBP-TPF-HiddenCollections~WXRTFSBanners",
+        "name": "WXRT Radio Free Ship Collection",
+        "seoURL": "wxrt-free-ship-collection",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400063482",
+        "identifier": "MBP-TPF-GiftType~SpringTins",
+        "name": "Spring Tins",
+        "seoURL": "spring-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400097483",
+        "identifier": "MBP-TPF-Occasions~FallPreview",
+        "name": "Fall Preview",
+        "seoURL": "fallpreview",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400160042",
+        "identifier": "MBP-TPF-GiftType~PopcornGiftsforHim",
+        "name": "Popcorn Gifts for Him",
+        "seoURL": "popcorn-gifts-for-him",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400184123",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateEaster",
+        "name": "Easter Treats Special Offer",
+        "seoURL": "easter-treats-special-offer"
+    },
+    {
+        "categoryId": "3400000080",
+        "identifier": "MBP-TPF-What'sPopping?~Bakery",
+        "name": "Bakery",
+        "seoURL": "bakery",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000081",
+        "identifier": "MBP-TPF-What'sPopping?~BestSellers",
+        "name": "Best Sellers",
+        "seoURL": "best-sellers-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000082",
+        "identifier": "MBP-TPF-What'sPopping?~CarePackages",
+        "name": "Care Packages",
+        "seoURL": "care-packages",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000083",
+        "identifier": "MBP-TPF-What'sPopping?~FantasticFlavors",
+        "name": "Fantastic Popcorn Flavors",
+        "seoURL": "clear-favorites-collection",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000084",
+        "identifier": "MBP-TPF-What'sPopping?~CollegeTeamTins",
+        "name": "College Team Popcorn Tins",
+        "seoURL": "college-sports-popcorn-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000085",
+        "identifier": "MBP-TPF-What'sPopping?~FeaturedGifts",
+        "name": "Featured Gifts",
+        "seoURL": "popcorn-gifts",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "3400000086",
+        "identifier": "MBP-TPF-What'sPopping?~FlavorGuide",
+        "name": "Flavor Guide",
+        "seoURL": "flavorguide",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000087",
+        "identifier": "MBP-TPF-What'sPopping?~IndividualFlavors",
+        "name": "Individual Flavors",
+        "seoURL": "popcorn-individual-bags",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000088",
+        "identifier": "MBP-TPF-What'sPopping?~Pick-a-FlavorPopcorn",
+        "name": "Pick-a-Flavor Popcorn",
+        "seoURL": "pick-a-flavor-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400119502",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateSurfMyAds",
+        "name": "Surf My Ads Offer",
+        "seoURL": "surf-my-ads-offer"
+    },
+    {
+        "categoryId": "400119987",
+        "identifier": "MBP-TPF-Celebrations~ChristmasInJuly",
+        "name": "Christmas in July",
+        "seoURL": "christmas-in-july-sale"
+    },
+    {
+        "categoryId": "400119503",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateSpotOn",
+        "name": "SpotOn Offer",
+        "seoURL": "spoton-offer"
+    },
+    {
+        "categoryId": "400052482",
+        "identifier": "MBP-TPF-Occasions~SnacksfortheBigGame",
+        "name": "Game Day Snacks",
+        "seoURL": "snacks-for-the-big-game",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400173483",
+        "identifier": "MBP-TPF-HiddenCollections~RedboxPlaypass",
+        "name": "Redbox Play Pass Offers",
+        "seoURL": "redbox-playpass"
+    },
+    {
+        "categoryId": "3400000090",
+        "identifier": "MBP-TPF-What'sPopping?~PopcornFlavors",
+        "name": "Popcorn Flavors",
+        "seoURL": "popcorn-flavors",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000091",
+        "identifier": "MBP-TPF-What'sPopping?~PuzzleCollection",
+        "name": "Puzzle Collection",
+        "seoURL": "popcorn-puzzle-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000092",
+        "identifier": "MBP-TPF-What'sPopping?~Refills",
+        "name": "Refills",
+        "seoURL": "popcorn-tin-refills",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400199987",
+        "identifier": "MBP-TPF-HiddenCollections~FSICupid18",
+        "name": "Cupid18 Offer",
+        "seoURL": "cupid18-offer"
+    },
+    {
+        "categoryId": "3400000093",
+        "identifier": "MBP-TPF-What'sPopping?~SnackAttack",
+        "name": "Snack Attack",
+        "seoURL": "snack-attack",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400199988",
+        "identifier": "MBP-TPF-HiddenCollections~FSIHeart18",
+        "name": "Heart18 Offer",
+        "seoURL": "heart18-offer"
+    },
+    {
+        "categoryId": "400130534",
+        "identifier": "MBP-TPF-HiddenCollections~HomePageFreeShipping",
+        "name": "Ship 4 Free",
+        "seoURL": "ship-4-free"
+    },
+    {
+        "categoryId": "3400000094",
+        "identifier": "MBP-TPF-What'sPopping?~SnackClub",
+        "name": "Snack of the Month Club",
+        "seoURL": "snack-of-the-month-club-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400199989",
+        "identifier": "MBP-TPF-HiddenCollections~FSILove18",
+        "name": "Love18 Offer",
+        "seoURL": "love18-offer"
+    },
+    {
+        "categoryId": "3400000095",
+        "identifier": "MBP-TPF-What'sPopping?~SpecialValues",
+        "name": "Special Values",
+        "seoURL": "special-values",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "3400000096",
+        "identifier": "MBP-TPF-What'sPopping?~SportsTins",
+        "name": "Sports Tins",
+        "seoURL": "popcorn-sports-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000097",
+        "identifier": "MBP-TPF-What'sPopping?~SugarFreeLite",
+        "name": "Sugar Free Lite",
+        "seoURL": "sugar-free-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000098",
+        "identifier": "MBP-TPF-What'sPopping?~WebsiteExclusives",
+        "name": "Website Exclusives",
+        "seoURL": "website-exclusives",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "3400000099",
+        "identifier": "MBP-TPF-What'sPopping?~EverydayValues",
+        "name": "Everyday Values",
+        "seoURL": "everyday-values",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400090500",
+        "identifier": "MBP-TPF-GiftType~SummerTins",
+        "name": "Summer Tins",
+        "seoURL": "summer-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400029482",
+        "identifier": "MBP-TPF-Celebrations~SummerofSmiles",
+        "name": "Summer of a Million Smiles",
+        "seoURL": "summer-of-a-million-smiles",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400116482",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateMothersDay",
+        "name": "Delicious Gifts for Mother's Day",
+        "seoURL": "delicious-gifts-for-mothers-day"
+    },
+    {
+        "categoryId": "400127495",
+        "identifier": "MBP-TPF-HiddenCollections~BelardiOstrayDigitalAcquisition1",
+        "name": "Exclusive Offer from The Popcorn Factory",
+        "seoURL": "exclusive-special-offer"
+    },
+    {
+        "categoryId": "400119510",
+        "identifier": "MBP-TPF-What'sPopping?~SharetheFun",
+        "name": "Share the Fun",
+        "seoURL": "share-the-fun",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400108983",
+        "identifier": "MBP-TPF-Content~WholesaleLiteWorks",
+        "name": "Wholesale Lite Works",
+        "seoURL": "wholesale-lite-works",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400108984",
+        "identifier": "MBP-TPF-HiddenCollections~WelcomeBack",
+        "name": "Welcome Back",
+        "seoURL": "welcome-back"
+    },
+    {
+        "categoryId": "400029488",
+        "identifier": "MBP-TPF-GiftType~SummerDeals",
+        "name": "Summer Deals",
+        "seoURL": "summer-deals",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400196483",
+        "identifier": "MBP-TPF-SensationalFlavors~PumpkinSpice",
+        "name": "Pumpkin Spice",
+        "seoURL": "pumpkin-spice",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400165991",
+        "identifier": "MBP-TPF-BusinessGifts~PopcornTins",
+        "name": "Popcorn Tins Corporate Gifts",
+        "seoURL": "popcorn-tins-corporate-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400160063",
+        "identifier": "MBP-TPF-HiddenCollections~ShopRunner",
+        "name": "ShopRunner",
+        "seoURL": "shoprunner",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400033982",
+        "identifier": "MBP-TPF-What'sPopping?~NFLTeamTins",
+        "name": "NFL Team Popcorn Tins",
+        "seoURL": "nfl-team-popcorn-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400162002",
+        "identifier": "MBP-TPF-HiddenCollections~Deals",
+        "name": "Popcorn Deals",
+        "seoURL": "deals--1"
+    },
+    {
+        "categoryId": "400198666",
+        "identifier": "MBP-TPF-HiddenCollections~Marketplace",
+        "name": "Marketplace",
+        "seoURL": "marketplace",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400196009",
+        "identifier": "MBP-TPF-HiddenCollections~FSIHalloween50",
+        "name": "Halloween50 Offer",
+        "seoURL": "halloween50-offer"
+    },
+    {
+        "categoryId": "400090510",
+        "identifier": "MBP-TPF-GiftType~PinterestPins",
+        "name": "Pinterest Pins",
+        "seoURL": "pinterest",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400119521",
+        "identifier": "MBP-TPF-GiftType~CaramelLovers",
+        "name": "Caramel Lovers",
+        "seoURL": "caramel-lovers",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400029498",
+        "identifier": "MBP-TPF-Strawberries~strawberries",
+        "name": "Strawberries Collection",
+        "seoURL": "popcorn-strawberries-collection",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400103068",
+        "identifier": "MBP-TPF-GiftType~CanisterClubs",
+        "name": "Canister Clubs",
+        "seoURL": "canister-clubs",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400116016",
+        "identifier": "MBP-TPF-Occasions~ArmedForces",
+        "name": "Armed Forces Day",
+        "seoURL": "armed-forces-day",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400064482",
+        "identifier": "MBP-TPF-HiddenCollections~EarthDay",
+        "name": "Earth Day",
+        "seoURL": "earth-day-special-offer",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400196010",
+        "identifier": "MBP-TPF-HiddenCollections~FSIHalloween17",
+        "name": "Halloween17 Offer",
+        "seoURL": "halloween17-offer"
+    },
+    {
+        "categoryId": "400064483",
+        "identifier": "MBP-TPF-HiddenCollections~MothersDay",
+        "name": "Mother's Day",
+        "seoURL": "mothers-day-offer",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400196011",
+        "identifier": "MBP-TPF-HiddenCollections~FSISpooky17",
+        "name": "Spooky17 Offer",
+        "seoURL": "spooky17-offer"
+    },
+    {
+        "categoryId": "400064484",
+        "identifier": "MBP-TPF-What'sPopping?~MeetOurEmployees",
+        "name": "Meet Our Employees",
+        "seoURL": "employee-collection",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400022982",
+        "identifier": "MBP-TPF-Occasions~AdminWeek",
+        "name": "Administrative Professionals Week",
+        "seoURL": "administrative-professionals-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400098486",
+        "identifier": "MBP-TPF-HiddenCollections~GSTVHAL20",
+        "name": "GSTV20 Halloween Gifts",
+        "seoURL": "ghost-popcorn-gifts"
+    },
+    {
+        "categoryId": "400098487",
+        "identifier": "MBP-TPF-HiddenCollections~GSTVHALFS",
+        "name": "GSTVFS Halloween Gifts",
+        "seoURL": "spooky-popcorn-gifts"
+    },
+    {
+        "categoryId": "400098488",
+        "identifier": "MBP-TPF-HiddenCollections~GSTVHOLFS",
+        "name": "GSTVFS Holiday Gifts",
+        "seoURL": "claus-popcorn-gifts"
+    },
+    {
+        "categoryId": "400098489",
+        "identifier": "MBP-TPF-HiddenCollections~GSTVHOL20",
+        "name": "GSTV20 Holiday Gifts",
+        "seoURL": "santa-popcorn-gifts"
+    },
+    {
+        "categoryId": "400064488",
+        "identifier": "MBP-TPF-SpecialOffer~FreeShippingCollection",
+        "name": "Free Shipping Offer",
+        "seoURL": "free-shipping-special-offer",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400064489",
+        "identifier": "MBP-TPF-Occasions~EarthDay",
+        "name": "Earth Day",
+        "seoURL": "earth-day",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400098490",
+        "identifier": "MBP-TPF-HiddenCollections~GSTVHAN20",
+        "name": "GSTV20 Hanukkah Gifts",
+        "seoURL": "festival-popcorn-gifts"
+    },
+    {
+        "categoryId": "400098491",
+        "identifier": "MBP-TPF-HiddenCollections~GSTVHANFS",
+        "name": "GSTVFS Hanukkah Gifts",
+        "seoURL": "lights-popcorn-gifts"
+    },
+    {
+        "categoryId": "400098492",
+        "identifier": "MBP-TPF-HiddenCollections~GSTVNYFS",
+        "name": "GSTVFS New Year Gifts",
+        "seoURL": "cheers-popcorn-gifts"
+    },
+    {
+        "categoryId": "400098493",
+        "identifier": "MBP-TPF-HiddenCollections~GSTVNY20",
+        "name": "GSTV20 New Year Gifts",
+        "seoURL": "happy-popcorn-gifts"
+    },
+    {
+        "categoryId": "400140000",
+        "identifier": "MBP-TPF-HiddenCollections~HidePassport",
+        "name": "TPF Hide Passport",
+        "seoURL": "tpf-hide-passport"
+    },
+    {
+        "categoryId": "400160086",
+        "identifier": "TPF-Best of Brands-400160086",
+        "name": "The Popcorn Factory Best of Brands",
+        "seoURL": "best-of-brands-the-popcorn-factory",
+        "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400053485",
+        "identifier": "MBP-TPF-Occasions~ChicagosBirthday",
+        "name": "Chicago's Birthday",
+        "seoURL": "chicagobirthday",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400140486",
+        "identifier": "MBP-TPF-HiddenCollections~DisplaySpring",
+        "name": "Spring Popcorn Gifts",
+        "seoURL": "spring-popcorn-gifts-and-treats"
+    },
+    {
+        "categoryId": "400140489",
+        "identifier": "MBP-TPF-HiddenCollections~IMMomFS",
+        "name": "Moms Day Free Shipping",
+        "seoURL": "moms-day-free-shipping"
+    },
+    {
+        "categoryId": "400091982",
+        "identifier": "MBP-TPF-Content~YahooUsers",
+        "name": "Yahoo Users",
+        "seoURL": "yahoo-users",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400091984",
+        "identifier": "MBP-TPF-Celebrations~BirthdaySale",
+        "name": "Birthday Sale",
+        "seoURL": "birthday-sale",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400053490",
+        "identifier": "MBP-TPF-HiddenCollections~CelebrationInspirations",
+        "name": "Celebration Inspirations",
+        "seoURL": "celebration-inspirations",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400140490",
+        "identifier": "MBP-TPF-HiddenCollections~IMMomOffer",
+        "name": "Moms Day Offer",
+        "seoURL": "moms-day-offer"
+    },
+    {
+        "categoryId": "400053491",
+        "identifier": "MBP-TPF-Occasions~RandomActsofKindness",
+        "name": "Random Acts of Kindness",
+        "seoURL": "random-acts-of-kindness",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400140491",
+        "identifier": "MBP-TPF-HiddenCollections~SocialEveryday",
+        "name": "Welcome Facebook Fans",
+        "seoURL": "welcome-facebook-fans"
+    },
+    {
+        "categoryId": "400053492",
+        "identifier": "MBP-TPF-GiftType~SmileyFace",
+        "name": "Smiley Face",
+        "seoURL": "smiley-face",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400053493",
+        "identifier": "MBP-TPF-HiddenCollections~PreviousInspirations",
+        "name": "Previous Inspirations",
+        "seoURL": "previous-inspirations",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400053496",
+        "identifier": "MBP-TPF-HiddenCollections~EasterEntertainment",
+        "name": "Easter",
+        "seoURL": "easter-gifts-special",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400176554",
+        "identifier": "MBP-TPF-HiddenCollections~SympathyPopcornGifts",
+        "name": "Sympathy Popcorn Gifts",
+        "seoURL": "sympathy-popcorn-gifts"
+    },
+    {
+        "categoryId": "400053498",
+        "identifier": "MBP-TPF-GiftType~EggCeptionalEaster",
+        "name": "Egg-Ceptional Easter",
+        "seoURL": "eggceptional-easter",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400189508",
+        "identifier": "MBP-TPF-Occasions~TeacherAppreciation",
+        "name": "Teacher Appreciation",
+        "seoURL": "teacher-appreciation",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400103093",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayEveryday15",
+        "name": "Everyday Gifts",
+        "seoURL": "everyday15"
+    },
+    {
+        "categoryId": "400106482",
+        "identifier": "MBP-TPF-Occasions~ValentineGiftGuide",
+        "name": "Valentine Gift Guide",
+        "seoURL": "popcorn-valentine-gift-guide",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400103094",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayWinter15",
+        "name": "Save 15% on Winter Gifts",
+        "seoURL": "wintergifts15"
+    },
+    {
+        "categoryId": "400103095",
+        "identifier": "MBP-TPF-GiftType~Slim",
+        "name": "Slim Line",
+        "seoURL": "slim-line",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400106483",
+        "identifier": "MBP-TPF-Occasions~Valentines25under",
+        "name": "Valentines Gifts Shop 25 and Under",
+        "seoURL": "valentines-gifts-shop-25-and-under",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400128022",
+        "identifier": "MBP-TPF-HiddenCollections~Affiliate20OFF",
+        "name": "Affiliate Offers",
+        "seoURL": "ghostly"
+    },
+    {
+        "categoryId": "400106484",
+        "identifier": "MBP-TPF-Occasions~Valentines25-40",
+        "name": "Valentines Gifts Shop 25 - 40",
+        "seoURL": "valentines-gifts-shop-25---40",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400106485",
+        "identifier": "MBP-TPF-Occasions~Valentines40-55",
+        "name": "Valentines Gifts Shop 40 - 55",
+        "seoURL": "valentines-gifts-shop-40---55",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400106486",
+        "identifier": "MBP-TPF-Occasions~Valentines55+",
+        "name": "Valentines Gifts Shop 55 +",
+        "seoURL": "valentines-gifts-shop-55-",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400109514",
+        "identifier": "MBP-TPF-HiddenCollections~OneDaySale",
+        "name": "One Day Sale",
+        "seoURL": "one-day-sale"
+    },
+    {
+        "categoryId": "400189992",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateShopCom",
+        "name": "Shop Dot Com Special Offer",
+        "seoURL": "shop-dot-com-special-offer",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400099485",
+        "identifier": "MBP-TPF-HiddenCollections~JBTest",
+        "name": "#JustBecause",
+        "seoURL": "just-because-gift"
+    },
+    {
+        "categoryId": "400144982",
+        "identifier": "MBP-TPF-HiddenCollections~CorpSpecial",
+        "name": "Corporate Special",
+        "seoURL": "corporate-special"
+    },
+    {
+        "categoryId": "400110506",
+        "identifier": "MBP-TPF-HiddenCollections~ValentinesDaySearch",
+        "name": "Valentine's Day Search for Gifts",
+        "seoURL": "valentines-day-search-for-gifts"
+    },
+    {
+        "categoryId": "400046984",
+        "identifier": "MBP-TPF-GiftType~FanaticsLine",
+        "name": "Fanatics Line",
+        "seoURL": "fanatics-line",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400178998",
+        "identifier": "MBP-TPF-Occasions~HalloweenGiftGuide",
+        "name": "Halloween Gift Guide",
+        "seoURL": "halloween-gift-guide-thepopcornfactory",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400046988",
+        "identifier": "MBP-TPF-Content~CompanyOverview",
+        "name": "Company Overview",
+        "seoURL": "company-overview",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400133988",
+        "identifier": "MBP-TPF-HiddenCollections~SearchEveryDayGifts",
+        "name": "Gifts for Every Occasion",
+        "seoURL": "gifts-for-every-occasion"
+    },
+    {
+        "categoryId": "400110516",
+        "identifier": "MBP-TPF-HiddenCollections~OneDaySpecial",
+        "name": "One Day Special Offer",
+        "seoURL": "one-day-special-offer"
+    },
+    {
+        "categoryId": "400128042",
+        "identifier": "MBP-TPF-BusinessGifts~IncentiveGifts",
+        "name": "Incentive Gifts",
+        "seoURL": "popcorn-incentive-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400118485",
+        "identifier": "MBP-TPF-HiddenCollections~OfferCorp",
+        "name": "Email Offer Corp",
+        "seoURL": "email-offer-corp"
+    },
+    {
+        "categoryId": "400196062",
+        "identifier": "MBP-TPF-HiddenCollections~CelebrationsOffers-400196062",
+        "name": "Celebrations Offers",
+        "seoURL": "elm-offers-tpf"
+    },
+    {
+        "categoryId": "400046990",
+        "identifier": "MBP-TPF-Occasions~TopTen",
+        "name": "Top Ten Gifts",
+        "seoURL": "top-ten-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400167514",
+        "identifier": "MBP-TPF-What'sPopping?~SweetDeals",
+        "name": "Sweet Deals",
+        "seoURL": "sweet-popcorn-deals",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400167518",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayEasterVideo",
+        "name": "Popcorn Gifts and Treats for Easter",
+        "seoURL": "popcorn-gifts-and-treats-for-easter"
+    },
+    {
+        "categoryId": "400167519",
+        "identifier": "MBP-TPF-BusinessGifts~SimplyWhite",
+        "name": "Simply White",
+        "seoURL": "simply-white"
+    },
+    {
+        "categoryId": "400187485",
+        "identifier": "MBP-TPF-Occasions~PopcornClearance",
+        "name": "Clearance",
+        "seoURL": "popcorn-clearance",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400167521",
+        "identifier": "MBP-TPF-BusinessGifts~SeasonalFavorites",
+        "name": "Seasonal Favorites",
+        "seoURL": "seasonal-favorites"
+    },
+    {
+        "categoryId": "400167522",
+        "identifier": "MBP-TPF-BusinessGifts~SimplyStated",
+        "name": "Simply Stated",
+        "seoURL": "simply-stated"
+    },
+    {
+        "categoryId": "400167523",
+        "identifier": "MBP-TPF-BusinessGifts~GiftsforEveryone",
+        "name": "Gifts for Everyone",
+        "seoURL": "gifts-for-everyone",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400179987",
+        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Halloween-Night",
+        "name": "Night",
+        "seoURL": "night--1"
+    },
+    {
+        "categoryId": "400167524",
+        "identifier": "MBP-TPF-BusinessGifts~ClearWinners",
+        "name": "Clear Winners",
+        "seoURL": "clear-winners",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400046524",
+        "identifier": "MBP-TPF-HiddenCollections~FreeShippingCollection",
+        "name": "Free Shipping",
+        "seoURL": "free-shipping-gifts-collection",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400179988",
+        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Halloween-Scary",
+        "name": "Scary",
+        "seoURL": "scary--1"
+    },
+    {
+        "categoryId": "400167525",
+        "identifier": "MBP-TPF-BusinessGifts~ClubsandCards",
+        "name": "Clubs & Cards",
+        "seoURL": "clubs---cards",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400046525",
+        "identifier": "MBP-TPF-HiddenCollections~NextJumpNextDay",
+        "name": "NextJump Next Day Shipping Collection",
+        "seoURL": "nextjump-next-day-shipping-collection",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400179989",
+        "identifier": "MBP-TPF-HiddenCollections~AltMedia-Halloween-ScaryNight",
+        "name": "Scary Night",
+        "seoURL": "scary-night"
+    },
+    {
+        "categoryId": "400046526",
+        "identifier": "MBP-TPF-HiddenCollections~NextJumpTwoDay",
+        "name": "NextJump Two Day Shipping Collection",
+        "seoURL": "nextjump-two-day-shipping-collection",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400167527",
+        "identifier": "MBP-TPF-BusinessGifts~CustomizedPopcornGifts",
+        "name": "Customized Popcorn Gifts",
+        "seoURL": "customized-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400167528",
+        "identifier": "MBP-TPF-BusinessGifts~SnackClubsforCorporate",
+        "name": "Snack of the Month Clubs",
+        "seoURL": "snack-clubs-for-corporate",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400179508",
+        "identifier": "MBP-TPF-HiddenCollections~SnipSnapPopcorn",
+        "name": "SnipSnap Popcorn Snacks and Gifts",
+        "seoURL": "snipsnap-popcorn-snacks-and-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400191984",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateMilitary",
+        "name": "Military.com",
+        "seoURL": "militarycom--1"
+    },
+    {
+        "categoryId": "400107492",
+        "identifier": "MBP-TPF-GiftType~PopcornCards15to5",
+        "name": "Popcorn Cards 15 to 5",
+        "seoURL": "popcorn-cards-15-to-5"
+    },
+    {
+        "categoryId": "400176482",
+        "identifier": "MBP-TPF-BusinessGifts~PatrioticPopcornSnacks&Gifts",
+        "name": "Patriotic Popcorn Snacks & Gifts",
+        "seoURL": "patriotic-popcorn-snacks---gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400179994",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayFootballSnacks",
+        "name": "Popcorn Gifts and Treats for Football Season",
+        "seoURL": "popcorn-gifts-and-treats-for-football-season"
+    },
+    {
+        "categoryId": "400176489",
+        "identifier": "MBP-TPF-HiddenCollections~PatrioticPopcornTreats",
+        "name": "Patriotic Popcorn Treats",
+        "seoURL": "patriotic-popcorn-treats"
+    },
+    {
+        "categoryId": "400142008",
+        "identifier": "MBP-TPF-HiddenCollections~MBC",
+        "name": "Multibrand Offer Email ThePopcornFactory",
+        "seoURL": "multibrand-offer-email-thepopcornfactory"
+    },
+    {
+        "categoryId": "400180985",
+        "identifier": "MBP-TPF-Content~WBTermsOfUse",
+        "name": "TPF HOME ENTERTAINMENT SWEEPSTAKES TERMS OF USE",
+        "seoURL": "tpf-warner-brothers-home-entertainment-sweepstakes-terms-of-use",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400180987",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayHalloweenVideo",
+        "name": "Halloween Video Diplay",
+        "seoURL": "halloween-video"
+    },
+    {
+        "categoryId": "400180988",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayFallVideo",
+        "name": "Fall Gifts Video",
+        "seoURL": "fall-gifts-video",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400119486",
+        "identifier": "MBP-TPF-GiftType~FunWithSnacks",
+        "name": "Fun with Snacks",
+        "seoURL": "fun-with-snacks"
+    },
+    {
+        "categoryId": "400134991",
+        "identifier": "MBP-TPF-HiddenCollections~OfferCons",
+        "name": "Email Offer Cons",
+        "seoURL": "email-offer-cons"
+    },
+    {
+        "categoryId": "400167541",
+        "identifier": "MBP-TPF-HiddenCollections~EbatesPopcornOffers",
+        "name": "Ebates Exclusive Offers",
+        "seoURL": "ebates-exclusive-offers"
+    },
+    {
+        "categoryId": "400044487",
+        "identifier": "MBP-TPF-Occasions~HolidayGifts",
+        "name": "Holiday Gifts",
+        "seoURL": "holiday-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400036986",
+        "identifier": "MBP-TPF-BusinessGifts~CorporateHolidayGifts",
+        "name": "Corporate Holiday Gifts",
+        "seoURL": "corporate-holiday-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400131004",
+        "identifier": "MBP-TPF-Occasions~HanukkahSale",
+        "name": "Hanukkah Sale",
+        "seoURL": "hanukkah-sale",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400044493",
+        "identifier": "MBP-TPF-GiftType~TinsWithASpin",
+        "name": "Tins with a Spin",
+        "seoURL": "tins-with-a-spin",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400044494",
+        "identifier": "MBP-TPF-GiftType~CreateYourOwnPopcornAssortment",
+        "name": "Create Your Own",
+        "seoURL": "create-your-own-popcorn-assortment",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400059982",
+        "identifier": "MBP-TPF-HiddenCollections~FreeShippingS",
+        "name": "Free Shipping Gifts",
+        "seoURL": "free-shipping-offers",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400146982",
+        "identifier": "MBP-TPF-HiddenCollections~SportsTinsCollection",
+        "name": "Sports Tins Collection",
+        "seoURL": "sports-tins-collection"
+    },
+    {
+        "categoryId": "400044495",
+        "identifier": "MBP-TPF-What'sPopping?~SnackoftheMonthClub",
+        "name": "Popcorn Snack Clubs",
+        "seoURL": "snack-of-the-month-popcorn-club",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400059983",
+        "identifier": "MBP-TPF-HiddenCollections~FreeShippingA",
+        "name": "Free Shipping Gifts",
+        "seoURL": "free-shipping-special-offers",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400167553",
+        "identifier": "MBP-TPF-What'sPopping?~CustomerFavorites",
+        "name": "Customer Favorites",
+        "seoURL": "customer-favorites-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112982",
+        "identifier": "MBP-TPF-GiftType~BuyPopcorn",
+        "name": "Buy Popcorn",
+        "seoURL": "buy-popcorn",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400157995",
+        "identifier": "MBP-TPF-HiddenCollections~Reactivation",
+        "name": "Reactivation Email",
+        "seoURL": "reactivation-email"
+    },
+    {
+        "categoryId": "400131012",
+        "identifier": "MBP-TPF-HiddenCollections~18FEmail",
+        "name": "Flowers Emails",
+        "seoURL": "flowers-emails"
+    },
+    {
+        "categoryId": "400044497",
+        "identifier": "MBP-TPF-HiddenCollections~GiftListSpecials",
+        "name": "Gift List Specials",
+        "seoURL": "gift-list-specials",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112983",
+        "identifier": "MBP-TPF-Occasions~NationalCaramel",
+        "name": "National Caramel Week",
+        "seoURL": "national-caramel-week",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400146984",
+        "identifier": "MBP-TPF-HiddenCollections~SaveAround",
+        "name": "savearound",
+        "seoURL": "savearound"
+    },
+    {
+        "categoryId": "400167555",
+        "identifier": "MBP-TPF-GiftType~EasterPopcornBaskets",
+        "name": "Easter Popcorn Baskets",
+        "seoURL": "easter-popcorn-baskets",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112500",
+        "identifier": "MBP-TPF-Occasions~Easter40-55",
+        "name": "Easter Gifts 40-55",
+        "seoURL": "easter-gifts-40-55",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112984",
+        "identifier": "MBP-TPF-HiddenCollections~EmailC",
+        "name": "Email C",
+        "seoURL": "email-c"
+    },
+    {
+        "categoryId": "400167556",
+        "identifier": "MBP-TPF-GiftType~EasterPopcornSamplers",
+        "name": "Easter Popcorn Samplers",
+        "seoURL": "easter-popcorn-samplers",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112985",
+        "identifier": "MBP-TPF-HiddenCollections~EmailM",
+        "name": "Email M",
+        "seoURL": "email-m"
+    },
+    {
+        "categoryId": "400025986",
+        "identifier": "MBP-TPF-Occasions~TwoDayDelivery",
+        "name": "Two Day Delivery",
+        "seoURL": "two-day-popcorn-delivery",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400112501",
+        "identifier": "MBP-TPF-Occasions~Easter55+",
+        "name": "Easter Gifts over 55",
+        "seoURL": "easter-gifts-over-55",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400157998",
+        "identifier": "MBP-TPF-Content~PassportTermsandConditions",
+        "name": "Passport Terms and Conditions",
+        "seoURL": "tpf-passport-terms-and-conditions"
+    },
+    {
+        "categoryId": "400112502",
+        "identifier": "MBP-TPF-Occasions~EasterBunny",
+        "name": "Easter Bunny ",
+        "seoURL": "easter-bunny-",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112986",
+        "identifier": "MBP-TPF-HiddenCollections~EmailT",
+        "name": "Email T",
+        "seoURL": "email-t"
+    },
+    {
+        "categoryId": "400025987",
+        "identifier": "MBP-TPF-Occasions~NextDayDelivery",
+        "name": "Next Day Delivery",
+        "seoURL": "next-day-delivery",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400025988",
+        "identifier": "MBP-TPF-Occasions~SaturdayDelivery",
+        "name": "Saturday Delivery",
+        "seoURL": "saturday-delivery-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112503",
+        "identifier": "MBP-TPF-Occasions~EasterFunIdeas",
+        "name": "Easter Fun Ideas",
+        "seoURL": "easter-fun-ideas",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112989",
+        "identifier": "MBP-TPF-HiddenCollections~DisplayCollege",
+        "name": "Display College Tins",
+        "seoURL": "display-college-tins"
+    },
+    {
+        "categoryId": "400192505",
+        "identifier": "MBP-TPF-Content~TPFSweepstakesTermsOfUse",
+        "name": "THE POPCORN FACTORY SWEEPSTAKES TERMS OF USE",
+        "seoURL": "the-popcorn-factory-sweepstakes-terms-of-use--1",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112990",
+        "identifier": "MBP-TPF-HiddenCollections~SearchCollege",
+        "name": "Search College Tins",
+        "seoURL": "search-college-tins"
+    },
+    {
+        "categoryId": "400025992",
+        "identifier": "MBP-TPF-Occasions~GraduationGifts",
+        "name": "Graduation Gifts",
+        "seoURL": "graduation-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112991",
+        "identifier": "MBP-TPF-HiddenCollections~SocialMediaCollege",
+        "name": "Social Media College Tins",
+        "seoURL": "social-media-college-tins"
+    },
+    {
+        "categoryId": "400112992",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateCollege",
+        "name": "Affiliate College Tins",
+        "seoURL": "affiliate-college-tins"
+    },
+    {
+        "categoryId": "400025993",
+        "identifier": "MBP-TPF-Occasions~EmergencyMedicalServicesWeek",
+        "name": "Emergency Medical Services Week",
+        "seoURL": "emergency-medical-services-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400048983",
+        "identifier": "MBP-TPF-Content~FactoryStore",
+        "name": "The Popcorn Factory Store",
+        "seoURL": "the-popcorn-factory-store",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198056",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateCoupons",
+        "name": "Welcome Coupons.com Customers",
+        "seoURL": "welcome-couponscom-customers"
+    },
+    {
+        "categoryId": "400048984",
+        "identifier": "MBP-TPF-Content~ContactUs",
+        "name": "Contact Us",
+        "seoURL": "contact-us-thepopcornfactory",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400120011",
+        "identifier": "MBP-TPF-Content~GlutenFree",
+        "name": "Gluten Free",
+        "seoURL": "gluten-free-popcorn-flavors",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198057",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateEbates",
+        "name": "Welcome Ebates Customers",
+        "seoURL": "welcome-ebates-customers"
+    },
+    {
+        "categoryId": "400131023",
+        "identifier": "MBP-TPF-HiddenCollections~SocialChristmasSale",
+        "name": "Special Christmas Treat Sale",
+        "seoURL": "special-christmas-treat-sale"
+    },
+    {
+        "categoryId": "400048985",
+        "identifier": "MBP-TPF-Content~BusinessGiftServices",
+        "name": "Business Gift Services",
+        "seoURL": "business-gift-services",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400025995",
+        "identifier": "MBP-TPF-HiddenCollections~Coupons",
+        "name": "Coupons",
+        "seoURL": "coupons-tpf",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198058",
+        "identifier": "MBP-TPF-HiddenCollections~AffiliateRetailMeNot",
+        "name": "Welcome Retail Me Not Customers",
+        "seoURL": "welcome-retail-me-not-customers"
+    },
+    {
+        "categoryId": "400048986",
+        "identifier": "MBP-TPF-Content~AffiliateProgram",
+        "name": "Affiliate Program",
+        "seoURL": "affiliate-program",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400048987",
+        "identifier": "MBP-TPF-Content~PrivacyPolicy",
+        "name": "Privacy Policy",
+        "seoURL": "privacy-policy",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400025997",
+        "identifier": "MBP-TPF-Occasions~CyberMonday",
+        "name": "Cyber Monday Sale",
+        "seoURL": "cyber-monday-sale",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400048988",
+        "identifier": "MBP-TPF-Content~TermsOfUse",
+        "name": "Terms of Use",
+        "seoURL": "terms-of-use-thepopcornfactory",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400025998",
+        "identifier": "MBP-TPF-Occasions~LastMinute",
+        "name": "Last Minute Gifts",
+        "seoURL": "last-minute-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400112513",
+        "identifier": "MBP-TPF-HiddenCollections~CaramelCornTest",
+        "name": "Caramel Corn Test",
+        "seoURL": "caramel-corn-test",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400120016",
+        "identifier": "MBP-TPF-GiftType~GlutenFreePopcornGifts",
+        "name": "Gluten Free Popcorn",
+        "seoURL": "gluten-free-popcorn-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400048989",
+        "identifier": "MBP-TPF-Content~ShippingInformation",
+        "name": "Shipping Information",
+        "seoURL": "shipping-information-thepopcornfactory",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400025999",
+        "identifier": "MBP-TPF-Occasions~Winter",
+        "name": "Winter Gifts",
+        "seoURL": "winter-gift-ideas",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400192992",
+        "identifier": "MBP-TPF-Celebrations~SendaSmile",
+        "name": "Send a Smile",
+        "seoURL": "send-a-smile-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400060982",
+        "identifier": "MBP-TPF-GiftType~EasterTins",
+        "name": "Easter Tins",
+        "seoURL": "easter-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400181620",
+        "identifier": "MBP-TPF-HiddenCollections~PopcornSale",
+        "name": "Sale",
+        "seoURL": "popcorn-sale",
+        "seoSearchable": "0"
+    },
     {
         "categoryId": "3200000056",
         "identifier": "MBP-CCO-Occasions~Sympathy",
@@ -37851,6 +38924,13 @@ let collections = [
         "seoURL": "season-preview-2"
     },
     {
+        "categoryId": "400200501",
+        "identifier": "MBP-CCO-Categories~MrsBeasleysGiftBaskets",
+        "name": "Mrs Beasleys Gift Baskets",
+        "seoURL": "mrs-beasleys-gift-baskets",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400102617",
         "identifier": "MBP-CCO-Categories~ValentineGiftGuide",
         "name": "Valentine Gift Guide",
@@ -37909,7 +38989,7 @@ let collections = [
         "identifier": "MBP-CCO-Occasions~ValentinesDay-25-50",
         "name": "Valentines Day 25-50",
         "seoURL": "valentines-day-25-50",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400112543",
@@ -37923,7 +39003,7 @@ let collections = [
         "identifier": "MBP-CCO-Occasions~ValentinesDay-50-75",
         "name": "Valentines Day 50-75",
         "seoURL": "valentines-day-50-75",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400112544",
@@ -37937,7 +39017,7 @@ let collections = [
         "identifier": "MBP-CCO-Occasions~ValentinesDay-75+",
         "name": "Valentines Day 75+",
         "seoURL": "valentines-day-75",
-        "seoSearchable": "1"
+        "seoSearchable": "0"
     },
     {
         "categoryId": "400095986",
@@ -40675,7 +41755,6 @@ let collections = [
         "name": "OLD-SummerGiftCollection",
         "seoURL": "Old-Summer-Gifts"
     },
-
     {
         "categoryId": "400181622",
         "identifier": "FB-Hanukkah-400181622",
@@ -40712,7 +41791,7 @@ let collections = [
         "identifier": "FB-Spring-400169996",
         "name": "Spring Fruit Arrangements",
         "seoURL": "fb-spring-collection-400169996",
-        "guidedNavFlag": "2",
+        "guidedNavFlag": "1",
         "seoSearchable": "1"
     },
     {
@@ -40802,7 +41881,7 @@ let collections = [
     {
         "categoryId": "400198626",
         "identifier": "FB-Fruit Arrangements-400198626",
-        "name": "Chocolate Covered Strawberries Delivery",
+        "name": "$20 off Berries",
         "seoURL": "fruit-arrangements-400198626",
         "guidedNavFlag": "1"
     },
@@ -40821,11 +41900,46 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
+        "categoryId": "400198071",
+        "identifier": "FB-Fruit Arrangements-400198071",
+        "name": "25% Off",
+        "seoURL": "fruit-arrangements-400198071",
+        "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400198072",
+        "identifier": "FB-Fruit Arrangements-400198072",
+        "name": "10% Off",
+        "seoURL": "fruit-arrangements-400198072",
+        "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400198073",
+        "identifier": "FB-Fruit Arrangements-400198073",
+        "name": "10% Off",
+        "seoURL": "fruit-arrangements-400198073",
+        "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400198074",
+        "identifier": "FB-Fruit Arrangements-400198074",
+        "name": "5% Off",
+        "seoURL": "fruit-arrangements-400198074",
+        "guidedNavFlag": "1"
+    },
+    {
         "categoryId": "400181080",
         "identifier": "FB-Fruit Arrangements-400181080",
         "name": "Flash Jump Page",
         "seoURL": "fruit-arrangements-400181080",
         "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198075",
+        "identifier": "FB-Fruit Arrangements-400198075",
+        "name": "Christmas",
+        "seoURL": "fruit-arrangements-400198075",
+        "guidedNavFlag": "1"
     },
     {
         "categoryId": "400181082",
@@ -40859,7 +41973,7 @@ let collections = [
     {
         "categoryId": "400183022",
         "identifier": "FB-Email-400183022",
-        "name": "FB email 5",
+        "name": "Save 20% Sitewide",
         "seoURL": "fruit-arrangements-400183022",
         "guidedNavFlag": "1"
     },
@@ -40878,11 +41992,26 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
+        "categoryId": "400200504",
+        "identifier": "FB-Berrylicious-400200504",
+        "name": "Berrylicious ",
+        "seoURL": "fruit-arrangement-400200504",
+        "guidedNavFlag": "0"
+    },
+    {
         "categoryId": "400174555",
         "identifier": "FB-Fruit Arrangements-400174555",
         "name": "AUSA | Fruit Bouquets",
         "seoURL": "fruit-arrangements-400174555",
         "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400200505",
+        "identifier": "FB-Valentines-Gifts-for-Her-400200505",
+        "name": "Valentine's Gift's for Her",
+        "seoURL": "valentines-for-her",
+        "guidedNavFlag": "1",
+        "seoSearchable": "1"
     },
     {
         "categoryId": "400193982",
@@ -40913,6 +42042,14 @@ let collections = [
         "redirectUrl": "fruit-bouquets-birthday-400160075"
     },
     {
+        "categoryId": "400200508",
+        "identifier": "FB-Valentines-Gifts-for-Him-400200508",
+        "name": "Valentine's Gifts for Him",
+        "seoURL": "valentines-for-him",
+        "guidedNavFlag": "1",
+        "seoSearchable": "1"
+    },
+    {
         "categoryId": "400192537",
         "identifier": "FB-Passport Day-400192537",
         "name": "Passport Day",
@@ -40932,6 +42069,13 @@ let collections = [
         "name": "Double the Fruit for Free!",
         "seoURL": "fb-subcollection-400170999",
         "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400199050",
+        "identifier": "FB-Berrylicious-400199050",
+        "name": "Berrylicious Berries Starting at 19.99",
+        "seoURL": "berrylicious-400199050",
+        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400178483",
@@ -40996,7 +42140,7 @@ let collections = [
         "identifier": "FB-Chocolate Covered Strawberries-400167486",
         "name": "Chocolate Covered Strawberries",
         "seoURL": "chocolate-covered-strawberries-delivery",
-        "guidedNavFlag": "1",
+        "guidedNavFlag": "2",
         "seoSearchable": "1"
     },
     {
@@ -41068,6 +42212,14 @@ let collections = [
         "name": "Fruit Gift Guide",
         "seoURL": "fruit-gift-guide",
         "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400199990",
+        "identifier": "FB-Housewarming-400199990",
+        "name": "Housewarming Gifts",
+        "seoURL": "fruit-for-new-home",
+        "guidedNavFlag": "1",
         "seoSearchable": "1"
     },
     {
@@ -41156,6 +42308,13 @@ let collections = [
         "seoURL": "fb-template-test-3"
     },
     {
+        "categoryId": "400199998",
+        "identifier": "FB-Fruit Arrangements-400199998",
+        "name": "Fruit Arrangements",
+        "seoURL": "fruit-arrangements-400199998",
+        "guidedNavFlag": "1"
+    },
+    {
         "categoryId": "400196489",
         "identifier": "FB-Template-Test-400196489",
         "name": "FB Template Test 4",
@@ -41171,7 +42330,7 @@ let collections = [
     {
         "categoryId": "400173015",
         "identifier": "FB-Fruit Arrangements-400173015",
-        "name": "Fruit Bouquets Affiliates",
+        "name": "20% Off",
         "seoURL": "fruit-arrangements-400173015",
         "guidedNavFlag": "0"
     },
@@ -41379,7 +42538,7 @@ let collections = [
         "identifier": "FB-Chocolate Dipped Fruit-400181562",
         "name": "Chocolate Dipped Fruit",
         "seoURL": "fruit-bouquets-chocolate-dipped-fruit-400181562",
-        "guidedNavFlag": "1"
+        "guidedNavFlag": "2"
     },
     {
         "categoryId": "400181563",
@@ -41583,7 +42742,7 @@ let collections = [
     {
         "categoryId": "400166987",
         "identifier": "FB-Fruit Discounts-400166987",
-        "name": "Save 20% Sitewide",
+        "name": "Take 20% Off",
         "seoURL": "fruit-bouquets-400166987",
         "guidedNavFlag": "1"
     },
@@ -41670,7 +42829,7 @@ let collections = [
         "identifier": "FB-Get Well-400110056",
         "name": "Get Well ",
         "seoURL": "get-well-fruit-arrangements-400110056",
-        "guidedNavFlag": "2",
+        "guidedNavFlag": "1",
         "seoSearchable": "1"
     },
     {
@@ -41769,14 +42928,14 @@ let collections = [
     {
         "categoryId": "400155985",
         "identifier": "FB-Fruit Discounts-400155985",
-        "name": "Save 10% - Christmas Fruit Arrangements & Gifts",
+        "name": "Save 10% - Valentine's Fruit Arrangements",
         "seoURL": "fruit-arrangements-400155985",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400181582",
         "identifier": "FB-Fruit Arrangements-400181582",
-        "name": "Summer Parties Flash",
+        "name": "Save 25%",
         "seoURL": "fruit-arrangements-400181582",
         "guidedNavFlag": "1",
         "seoSearchable": "0"
@@ -41878,7 +43037,7 @@ let collections = [
     {
         "categoryId": "400128020",
         "identifier": "FB-Fruit Discounts-400128020",
-        "name": "10% Off",
+        "name": "20% Off",
         "seoURL": "fruit-arrangements-400128020",
         "guidedNavFlag": "2"
     },
@@ -41887,7 +43046,7 @@ let collections = [
         "identifier": "FB-Thank You-400110060",
         "name": "Thank You",
         "seoURL": "thank-you-fruit-arrangements-400110060",
-        "guidedNavFlag": "2",
+        "guidedNavFlag": "1",
         "seoSearchable": "1"
     },
     {
@@ -42102,7 +43261,7 @@ let collections = [
     {
         "categoryId": "400135004",
         "identifier": "FB-Fruit Discounts-400135004",
-        "name": "Save 15% - Christmas Fruit Arrangements & Gifts",
+        "name": "Save 15% - Valentine's Fruit Arrangements",
         "seoURL": "fruit-discounts-400135004",
         "guidedNavFlag": "1"
     },
@@ -42168,7 +43327,7 @@ let collections = [
     {
         "categoryId": "400175491",
         "identifier": "FB-Fruit Arrangements-400175491",
-        "name": "Halloween",
+        "name": "Valentine's Day",
         "seoURL": "fruit-arrangements-400175491",
         "guidedNavFlag": "2"
     },
@@ -42326,6 +43485,13 @@ let collections = [
         "seoSearchable": "1"
     },
     {
+        "categoryId": "400200001",
+        "identifier": "FB-Berrylicious-400200001",
+        "name": "Berrylicious Berries Starting at 19.99",
+        "seoURL": "berrylicious-400200001",
+        "guidedNavFlag": "1"
+    },
+    {
         "categoryId": "400135024",
         "identifier": "FB-Valentines Day-400135024",
         "name": "Valentines Day Collection",
@@ -42335,7 +43501,7 @@ let collections = [
     {
         "categoryId": "400179982",
         "identifier": "FB-Fruit Discounts-400179982",
-        "name": "Free Shipping No Service Charge",
+        "name": "Save 25% Sitewide",
         "seoURL": "fruit-discounts-400179982",
         "guidedNavFlag": "1"
     },
@@ -42417,7 +43583,8 @@ let collections = [
         "name": "Chocolate Covered Strawberries & Fruit",
         "seoURL": "chocolate-covered-strawberries-and-dipped-fruit-400113008",
         "guidedNavFlag": "1",
-        "seoSearchable": "1"
+        "seoSearchable": "1",
+        "redirectUrl": "/chocolate-covered-strawberries-delivery"
     },
     {
         "categoryId": "400130498",
@@ -42463,28 +43630,28 @@ let collections = [
     {
         "categoryId": "400181703",
         "identifier": "FB-Fruit-Discounts-400181703",
-        "name": "Save 20% Sitewide",
+        "name": "Save 20% on Fruit Bouquets",
         "seoURL": "fruit-discounts-400181703",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400181704",
         "identifier": "FB-Fruit-Discounts-400181704",
-        "name": "Save 20% Sitewide",
+        "name": "Save 20% on FruitBouquets",
         "seoURL": "fruit-discounts-400181704",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400181705",
         "identifier": "FB-Fruit-Discounts-400181705",
-        "name": "Save 15% on treats for the New Year",
+        "name": "Save 20% on FruitBouquets",
         "seoURL": "fruit-discounts-400181705",
         "guidedNavFlag": "1"
     },
     {
         "categoryId": "400181706",
         "identifier": "FB-Fruit-Discounts-400181706",
-        "name": "Save 20% Sitewide",
+        "name": "Save 20% on Fruit Bouquets",
         "seoURL": "fruit-discounts-400181706",
         "guidedNavFlag": "1"
     },
@@ -42498,7 +43665,7 @@ let collections = [
     {
         "categoryId": "400181707",
         "identifier": "FB-Fruit-Discounts-400181707",
-        "name": "Save 20% off Fruit Treats",
+        "name": "Free Shipping/No Service Charge",
         "seoURL": "fruit-discounts-400181707",
         "guidedNavFlag": "1"
     },
@@ -42615,6 +43782,12 @@ let collections = [
         "guidedNavFlag": "1"
     },
     {
+        "categoryId": "400200019",
+        "identifier": "FB_Global_Sales_Addons_Category",
+        "name": "FB_Global_Sales_Addons_Category",
+        "seoURL": "fb-global-sales-addons-category"
+    },
+    {
         "categoryId": "400182485",
         "identifier": "FB-Fruit Discounts-400182485",
         "name": "25% off + FS*",
@@ -42652,7 +43825,7 @@ let collections = [
     {
         "categoryId": "400174501",
         "identifier": "FB-Fruit Arrangements-400174501",
-        "name": "20% Off",
+        "name": "FruitBouquets.com",
         "seoURL": "fruit-arrangements-400174501",
         "guidedNavFlag": "0"
     },
@@ -42673,7 +43846,7 @@ let collections = [
     {
         "categoryId": "400110548",
         "identifier": "FB-Fruit Discounts-400110548",
-        "name": "Save 20% Sitewide",
+        "name": "Free Shipping / No Service Charge",
         "seoURL": "fruit-discounts-400110548",
         "guidedNavFlag": "1"
     },
@@ -42723,7 +43896,7 @@ let collections = [
     {
         "categoryId": "400134992",
         "identifier": "FB-Valentines Day-400134992",
-        "name": "Valentines Day",
+        "name": "Valentine's Day",
         "seoURL": "valentines-day-fruit-gifts",
         "guidedNavFlag": "1",
         "seoSearchable": "1"
@@ -42796,7 +43969,7 @@ let collections = [
     {
         "categoryId": "400110555",
         "identifier": "FB-Fruit Discounts-400110555",
-        "name": "Save 25% Sitewide",
+        "name": "Take 20% Off FruitBouquets",
         "seoURL": "fruit-discounts-400110555",
         "guidedNavFlag": "1"
     },
@@ -42843,6 +44016,13 @@ let collections = [
         "seoURL": "thanksgiving-fruit-gifts-400127553",
         "guidedNavFlag": "1",
         "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400201001",
+        "identifier": "FB-Fruit-Arrangments-400201001",
+        "name": "Jump Page",
+        "seoURL": "fruit-arrangements-400201001",
+        "guidedNavFlag": "0"
     },
     {
         "categoryId": "400146985",
@@ -42901,6 +44081,13 @@ let collections = [
         "identifier": "FB-Fruit Arrangements-400192989",
         "name": "Birthday Flash",
         "seoURL": "fruit-arrangements-400192989",
+        "guidedNavFlag": "2"
+    },
+    {
+        "categoryId": "400201493",
+        "identifier": "FB-Fruit Discounts-400201493",
+        "name": "Fruit Bouquets Groupon",
+        "seoURL": "fruit-arrangements-400201493",
         "guidedNavFlag": "2"
     },
     {
@@ -43012,6 +44199,893 @@ let collections = [
         "name": "Birthday for Kids",
         "seoURL": "fb-birthday-for-kids-400175988",
         "guidedNavFlag": "1"
+    },
+    {
+        "categoryId": "400198060",
+        "identifier": "MBP-SC-Chocolate Gifts-Just for Him",
+        "name": "Just for Him",
+        "seoURL": "just-for-him",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198061",
+        "identifier": "MBP-SC-Chocolate Gifts-Just for Her",
+        "name": "Just for Her",
+        "seoURL": "just-for-her",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198580",
+        "identifier": "IM-SC-Promotion-DSP",
+        "name": "IM-SC-Promotion-DSP",
+        "seoURL": "im-sc-promotion-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198581",
+        "identifier": "IM-SC-Promotion-01-DSP",
+        "name": "IM-SC-Promotion-01-DSP",
+        "seoURL": "im-sc-promotion-01-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198582",
+        "identifier": "IM-SC-Holiday-AFF",
+        "name": "IM-SC-Holiday-AFF",
+        "seoURL": "im-sc-holiday-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198583",
+        "identifier": "IM-SC-Holiday-DSP",
+        "name": "IM-SC-Holiday-DSP",
+        "seoURL": "im-sc-holiday-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198584",
+        "identifier": "IM-SC-Holiday-Offer-AFF",
+        "name": "IM-SC-Holiday-Offer-AFF",
+        "seoURL": "im-sc-holiday-offer-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198585",
+        "identifier": "IM-SC-Holiday-Offer-DSP",
+        "name": "IM-SC-Holiday-Offer-DSP",
+        "seoURL": "im-sc-holiday-offer-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198586",
+        "identifier": "IM-SC-Anniversary-DSP",
+        "name": "IM-SC-Anniversary-DSP",
+        "seoURL": "im-sc-anniversary-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198587",
+        "identifier": "IM-SC-Anniversary-AFF",
+        "name": "IM-SC-Anniversary-AFF",
+        "seoURL": "im-sc-anniversary-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198500",
+        "identifier": "MBP-SC-Shop By Brand-Max Brenner",
+        "name": "Max Brenner Chocolates",
+        "seoURL": "max-brenner",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198588",
+        "identifier": "IM-SC-Birthday-AFF",
+        "name": "IM-SC-Birthday-AFF",
+        "seoURL": "im-sc-birthday-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198589",
+        "identifier": "IM-SC-Birthday-DSP",
+        "name": "IM-SC-Birthday-DSP",
+        "seoURL": "im-sc-birthday-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198501",
+        "identifier": "MBP-SC-Shop By Brand-Neuhaus",
+        "name": "Neuhaus Chocolates",
+        "seoURL": "neuhaus",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202517",
+        "identifier": "MBP-SC-Easter-Chocolate-Offer",
+        "name": "MBP-SC-Easter-Chocolate-Offer",
+        "seoURL": "mbp-sc-easter-chocolate-offer",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198502",
+        "identifier": "MBP-SC-Shop By Brand-Norman Love",
+        "name": "Norman Love Chocolates",
+        "seoURL": "norman-love",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202518",
+        "identifier": "MBP-SC-Easter-Chocolate-Offer-01",
+        "name": "MBP-SC-Easter-Chocolate-Offer-01",
+        "seoURL": "mbp-sc-easter-chocolate-offer-01",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198503",
+        "identifier": "MBP-SC-Shop By Brand-Vosges",
+        "name": "Vosges Chocolates",
+        "seoURL": "vosges",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202519",
+        "identifier": "MBP-SC-Spring-Chocolate-Offer",
+        "name": "MBP-SC-Spring-Chocolate-Offer",
+        "seoURL": "mbp-sc-spring-chocolate-offer",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198988",
+        "identifier": "MBP-SC-SCI Sympathy",
+        "name": "SCI Sympathy",
+        "seoURL": "sci-sympathy",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198505",
+        "identifier": "MBP-SC-Shop By Price-Under $75",
+        "name": "Inexpensive Chocolate Gifts Under $75",
+        "seoURL": "chocolate-under-75",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198506",
+        "identifier": "MBP-SC-Shop By Price-Over $75",
+        "name": "Gourmet Chocolate Gifts Over $75",
+        "seoURL": "chocolate-over-75",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198507",
+        "identifier": "MBP-SC-Shop By Brand-Simply Chocolate",
+        "name": "Simply Chocolate",
+        "seoURL": "simply-chocolate",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198509",
+        "identifier": "MBP-SC-Shop By Brand-Chuao",
+        "name": "Chuao Chocolatier",
+        "seoURL": "chuao-chocolatier",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202483",
+        "identifier": "MBP-SC-Chocolatiers",
+        "name": "About Our Chocolatiers",
+        "seoURL": "about-our-chocolatiers",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202000",
+        "identifier": "MBP-SC-BrandFeaturePage Art Coco",
+        "name": "About Art Coco",
+        "seoURL": "about-art-coco"
+    },
+    {
+        "categoryId": "400202484",
+        "identifier": "MBP-SC-Recipes",
+        "name": "Chocolate Recipes",
+        "seoURL": "chocolate-recipes",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198590",
+        "identifier": "IM-SC-Promotion-02-DSP",
+        "name": "IM-SC-Promotion-02-DSP",
+        "seoURL": "im-sc-promotion-02-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400202001",
+        "identifier": "MBC-SC-Shop By Brand-Art Coco",
+        "name": "Art Coco Chocolates and Novelties",
+        "seoURL": "art-coco-chocolates-and-novelties",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198591",
+        "identifier": "IM-SC-Promotion-03-DSP",
+        "name": "IM-SC-Promotion-03-DSP",
+        "seoURL": "im-sc-promotion-03-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400202485",
+        "identifier": "MBP-SC-Learn",
+        "name": "Fun Facts About Chocolate",
+        "seoURL": "chocolate-facts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198592",
+        "identifier": "IM-SC-Promotion-03-AFF",
+        "name": "IM-SC-Promotion-03-AFF",
+        "seoURL": "im-sc-promotion-03-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400202486",
+        "identifier": "MBP-SC-Explore",
+        "name": "Explore the World of Chocolate",
+        "seoURL": "explore-chocolate",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202520",
+        "identifier": "MBP-SC-Spring-Chocolate-Offer-01",
+        "name": "MBP-SC-Spring-Chocolate-Offer-01",
+        "seoURL": "mbp-sc-spring-chocolate-offer-01",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400202487",
+        "identifier": "MBP-SC-Watch",
+        "name": "Chocolate Videos",
+        "seoURL": "chocolate-videos",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202488",
+        "identifier": "MBP-SC-Best 5 Local Chocolate Shops in New York City",
+        "name": "5 Best Local Chocolate Shops in New York City",
+        "seoURL": "explore-best-local-chocolate-shop-new-york-city",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202521",
+        "identifier": "MBP-SC-Mothers Day-Chocolate-Offer",
+        "name": "MBP-SC-Mothers Day-Chocolate-Offer",
+        "seoURL": "mbp-sc-mothers-day-chocolate-offer",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400202004",
+        "identifier": "MBP-SC-What You Need To Know About The Health Benefits of Dark Chocolate",
+        "name": "What You Need To Know About The Health Benefits of Dark Chocolate",
+        "seoURL": "learn-health-benefits-of-dark-chocolate",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198077",
+        "identifier": "MBP-SC-FrequentlyAskedQuestions",
+        "name": "Simply Chocolate FAQs",
+        "seoURL": "simply-chocolate-faqs"
+    },
+    {
+        "categoryId": "400202005",
+        "identifier": "MBP-SC-Football Chocolate Covered Strawberries ",
+        "name": "Football Chocolate Covered Strawberries ",
+        "seoURL": "recipe-football-strawberries",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400202489",
+        "identifier": "MBP-SC-Best 5 Local Chocolatiers in San Francisco",
+        "name": "5 Best Local Chocolate Shops in San Francisco",
+        "seoURL": "explore-best-local-chocolate-shop-san-francisco",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202522",
+        "identifier": "MBP-SC-Mothers Day-Chocolate-Offer-01",
+        "name": "MBP-SC-Mothers Day-Chocolate-Offer-01",
+        "seoURL": "mbp-sc-mothers-day-chocolate-offer-01",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400200982",
+        "identifier": "IM-SC-Promotion-06",
+        "name": "IM-SC-Promotion-06",
+        "seoURL": "im-sc-promotion-06",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400202006",
+        "identifier": "MBP-SC-French Style Chocolate Mousse",
+        "name": "French Style Chocolate Mousse",
+        "seoURL": "recipe-french-chocolate-mousse",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400202007",
+        "identifier": "MBP-SC-Interview with Yosi Coba from Max Brenner",
+        "name": "Interview with Yosi Coba from Max Brenner",
+        "seoURL": "chocolatiers-max-brenner-yosi-coba",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400202008",
+        "identifier": "MBP-SC-Interview with Olivier Demol of Neuhaus",
+        "name": "Interview with Olivier Demol of Neuhaus",
+        "seoURL": "chocolatiers-neuhaus-olivier-demol",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400198513",
+        "identifier": "MBP-SC-Celebrations Rewards",
+        "name": "Celebrations Rewards",
+        "seoURL": "c /celebrations-rewards",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198514",
+        "identifier": "MBP-SC-Celebrations Reminders",
+        "name": "MBP-SC-Celebrations Reminders",
+        "seoURL": "c /celebrations-reminders",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400202490",
+        "identifier": "MBP-SC-8 Fun Facts About Chocolate",
+        "name": "8 Fun Facts About Chocolate You'll be Glad to Know",
+        "seoURL": "learn-about-chocolate",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202491",
+        "identifier": "MBP-SC-How Bitter Cacao Becomes Sweet Chocolate",
+        "name": "From Bean to Mouth: How Bitter Cacao Becomes Sweet Chocolate",
+        "seoURL": "learn-how-is-chocolate-made",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202492",
+        "identifier": "MBP-SC-Chocolate Brownie Pie",
+        "name": "Chocolate Brownie Pie",
+        "seoURL": "recipe-chocolate-brownie-pie",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400202493",
+        "identifier": "MBP-SC-Decadent Chocolate Mug Cake",
+        "name": "Decandent Chocolate Mug Cake for Two",
+        "seoURL": "recipe-decadent-chocolate-mug-cake",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198484",
+        "identifier": "MBP-SC-Occasions-Anniversary",
+        "name": "Anniversary",
+        "seoURL": "anniversary-chocolates",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400200992",
+        "identifier": "AARP-Chocolate",
+        "name": "AARP-Chocolate",
+        "seoURL": "aarp-chocolate",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198001",
+        "identifier": "MBP-SC-Shop By Brand-Godiva",
+        "name": "Godiva Chocolates",
+        "seoURL": "godiva",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198485",
+        "identifier": "MBP-SC-Occasions-Birthday",
+        "name": "Birthday",
+        "seoURL": "birthday-chocolate",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198486",
+        "identifier": "MBP-SC-Occasions-Thank You",
+        "name": "Thank You",
+        "seoURL": "thank-you-chocolates",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198487",
+        "identifier": "MBP-SC-Occasions-Christmas",
+        "name": "Christmas",
+        "seoURL": "christmas-chocolates",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198489",
+        "identifier": "MBP-SC-Boxed Chocolates-Truffles",
+        "name": "Truffles",
+        "seoURL": "chocolate-truffles",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198523",
+        "identifier": "MBC-SC-Simply Social",
+        "name": "#simplychocolate",
+        "seoURL": "simply-social",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198007",
+        "identifier": "MBC Email",
+        "name": "MBC Email",
+        "seoURL": "sc-mbc-email",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198524",
+        "identifier": "MBC-SC-Shop By Brand-Ghiradelli",
+        "name": "Ghirardelli Chocolates",
+        "seoURL": "ghirardelli",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198525",
+        "identifier": "MBC-SC-Shop By Brand-Sanders",
+        "name": "Sanders Chocolates",
+        "seoURL": "sanders"
+    },
+    {
+        "categoryId": "400198008",
+        "identifier": "Email",
+        "name": "Email",
+        "seoURL": "email--1",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198526",
+        "identifier": "MBC-SC-Shop By Brand-The Sweet Shop",
+        "name": "The Sweet Shop Chocolates & Gifts",
+        "seoURL": "the-sweet-shop",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198009",
+        "identifier": "IM",
+        "name": "IM",
+        "seoURL": "im",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198527",
+        "identifier": "MBP-SC-Boxed Chocolates-Milk Chocolate Gifts",
+        "name": "Milk Chocolate Gifts",
+        "seoURL": "milk-chocolate",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198528",
+        "identifier": "MBP-SC-Boxed Chocolates-Dark Chocolate Gifts",
+        "name": "Dark Chocolate Gifts",
+        "seoURL": "dark-chocolate",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198529",
+        "identifier": "MBP-SC-Boxed Chocolates-Specialty Chocolates",
+        "name": "Specialty Chocolates",
+        "seoURL": "specialty-chocolate",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198490",
+        "identifier": "MBP-SC-Boxed Chocolates-Assorted Chocolates",
+        "name": "Assorted Chocolates",
+        "seoURL": "chocolate-boxes",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198493",
+        "identifier": "MBP-SC-Chocolate Gifts-Gift Towers",
+        "name": "Gift Towers",
+        "seoURL": "chocolate-towers",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400200484",
+        "identifier": "MBP-SC-Occasions-Valentines",
+        "name": "Valentines Day",
+        "seoURL": "valentines-day-chocolates",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198494",
+        "identifier": "MBP-SC-Chocolate Gifts-Chocolate Dipped",
+        "name": "Chocolate Dipped",
+        "seoURL": "chocolate-dipped-treats",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198010",
+        "identifier": "IM-SC-Free Shipping Day",
+        "name": "IM-SC-Free Shipping Day",
+        "seoURL": "im-sc-free-shipping-day",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400200486",
+        "identifier": "MBP-SC-Boxed Chocolates-Heart Chocolate Boxes",
+        "name": "Heart Chocolate Boxes",
+        "seoURL": "heart-chocolate-boxes",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198011",
+        "identifier": "IM-SC-Cyber Monday-AFF",
+        "name": "IM-SC-Cyber Monday-AFF",
+        "seoURL": "im-sc-cyber-monday-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198495",
+        "identifier": "MBP-SC-Chocolate Gifts-Chocolate Bars & Squares",
+        "name": "Chocolate Bars & Squares",
+        "seoURL": "chocolate-bars",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198496",
+        "identifier": "MBP-SC-Chocolate Gifts-Chocolate Gift Tins",
+        "name": "Chocolate Gift Tins",
+        "seoURL": "chocolate-tins",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198012",
+        "identifier": "IM-SC-Black Friday-AFF",
+        "name": "IM-SC-Black Friday-AFF",
+        "seoURL": "im-sc-black-friday-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198013",
+        "identifier": "Email-SC-Free Shipping",
+        "name": "Email-SC-Free Shipping",
+        "seoURL": "email-sc-free-shipping",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198530",
+        "identifier": "MBP-SC-Chocolate Gifts-Wine and Chocolate Gift Baskets",
+        "name": "Wine and Chocolate",
+        "seoURL": "wine-and-chocolate-gift-baskets",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400198498",
+        "identifier": "MBP-SC-Shop By Brand-Fannie May",
+        "name": "Fannie May",
+        "seoURL": "fannie-may",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198531",
+        "identifier": "MBC-SC-Chocolate Gifts-Unique Novelty Gifts",
+        "name": "Unique & Novelty Gifts",
+        "seoURL": "unique-chocolate-gifts",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198014",
+        "identifier": "IM-SC-Free Shipping-AFF",
+        "name": "IM-SC-Free Shipping-AFF",
+        "seoURL": "im-sc-free-shipping-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198015",
+        "identifier": "Email-SC-Black Friday",
+        "name": "Email-SC-Black Friday",
+        "seoURL": "email-sc-black-friday",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198499",
+        "identifier": "MBP-SC-Shop By Brand-Harry & David",
+        "name": "Harry & David Chocolates",
+        "seoURL": "harry-and-david",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198532",
+        "identifier": "MBP-SC-Chocolate Gifts-Chocolate Covered Strawberries & Fruit",
+        "name": "Chocolate Covered Strawberries & Fruit",
+        "seoURL": "chocolate-covered-fruit",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198533",
+        "identifier": "MBC-SC-Chocolate Gifts-Cookies & Cakes",
+        "name": "Chocolate Cookies & Cakes",
+        "seoURL": "cookies-and-cakes",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400198016",
+        "identifier": "Email-SC-Cyber Monday",
+        "name": "Email-SC-Cyber Monday",
+        "seoURL": "email-sc-cyber-monday",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198017",
+        "identifier": "Email-SC-Save25",
+        "name": "Email-SC-Save25",
+        "seoURL": "email-sc-save25",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198534",
+        "identifier": "MBC-SC-Chocolate Gifts-Chocolate Covered Nuts",
+        "name": "Chocolate Covered Nuts",
+        "seoURL": "chocolate-covered-nuts"
+    },
+    {
+        "categoryId": "400198535",
+        "identifier": "MBP-SC-Chocolate Gifts-Chocolate Snacks",
+        "name": "Chocolate Snacks",
+        "seoURL": "chocolate-snacks",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198018",
+        "identifier": "Email-SC-Save30",
+        "name": "Email-SC-Save30",
+        "seoURL": "email-sc-save30",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198536",
+        "identifier": "MBC-SC-Shop By Brand-Long Grove",
+        "name": "Long Grove Confectionary Chocolates",
+        "seoURL": "long-grove",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198019",
+        "identifier": "Email-SC-Save35",
+        "name": "Email-SC-Save35",
+        "seoURL": "email-sc-save35",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400200491",
+        "identifier": "MBP-SC-BrandFeaturePage Norman Love",
+        "name": "About Norman Love",
+        "seoURL": "about-norman-love"
+    },
+    {
+        "categoryId": "400198020",
+        "identifier": "Email-SC-Offer-01",
+        "name": "Email-SC-Offer-01",
+        "seoURL": "email-sc-offer-01",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198022",
+        "identifier": "Email-SC-Offer",
+        "name": "Email-SC-Offer",
+        "seoURL": "email-sc-offer",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199993",
+        "identifier": "IM-SC-Promotion-04",
+        "name": "IM-SC-Promotion-04",
+        "seoURL": "im-sc-promotion-04",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400199994",
+        "identifier": "IM-SC-Promotion-05",
+        "name": "IM-SC-Promotion-05",
+        "seoURL": "im-sc-promotion-05",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198664",
+        "identifier": "MBP-SC-BrandFeaturePage Neuhaus",
+        "name": "About Neuhaus",
+        "seoURL": "neuhaus-about"
+    },
+    {
+        "categoryId": "400198671",
+        "identifier": "MBP-SC-Celebrations Offers",
+        "name": "Celebrations Offers",
+        "seoURL": "elm-offers-sc"
+    },
+    {
+        "categoryId": "400198551",
+        "identifier": "IM-SC-Promotion-AFF",
+        "name": "IM-SC-Promotion-AFF",
+        "seoURL": "im-sc-promotion-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400201994",
+        "identifier": "MBP-SC-Occasions-Spring",
+        "name": "Spring Chocolate",
+        "seoURL": "spring-chocolates",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198034",
+        "identifier": "MBP-SC-BrandFeaturePage Bestsellers",
+        "name": "Featured Brand Bestsellers",
+        "seoURL": "mbp-sc-featured-brand-bestsellers",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198552",
+        "identifier": "IM-SC-Promotion-01-AFF",
+        "name": "IM-SC-Promotion-01-AFF",
+        "seoURL": "im-sc-promotion-01-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400201995",
+        "identifier": "MBP-SC-Occasions-Easter",
+        "name": "Easter Chocolates",
+        "seoURL": "easter-chocolates",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198553",
+        "identifier": "IM-SC-Promotion-02-AFF",
+        "name": "IM-SC-Promotion-02-AFF",
+        "seoURL": "im-sc-promotion-02-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400201996",
+        "identifier": "MBP-SC-Occasions-Mothers Day",
+        "name": "Mother's Day Chocolate Gifts",
+        "seoURL": "mothers-day-chocolate-gifts",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400201997",
+        "identifier": "MBC-SC-Chocolate Gifts-Easter Baskets",
+        "name": "Easter Baskets",
+        "seoURL": "easter-chocolate-baskets",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400201998",
+        "identifier": "MBP-SC-BrandFeaturePage Godiva",
+        "name": "About Godiva",
+        "seoURL": "about-godiva"
+    },
+    {
+        "categoryId": "400201999",
+        "identifier": "MBP-SC-BrandFeaturePage Max Brenner",
+        "name": "About Max Brenner",
+        "seoURL": "about-max-brenner"
+    },
+    {
+        "categoryId": "400198045",
+        "identifier": "Web",
+        "name": "Web",
+        "seoURL": "web--1",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198046",
+        "identifier": "Web-SC-Free Shipping",
+        "name": "Web-SC-Free Shipping",
+        "seoURL": "web-sc-free-shipping",
+        "guidedNavFlag": "0",
+        "seoSearchable": "0"
+    },
+    {
+        "categoryId": "400197995",
+        "identifier": "MBC-SC-Chocolate Gifts-Gift Baskets",
+        "name": "Gift Baskets",
+        "seoURL": "chocolate-gift-basket",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400198601",
+        "identifier": "IM-SC-Anniversary02-AFF",
+        "name": "IM-SC-Anniversary02-AFF",
+        "seoURL": "im-sc-anniversary02-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198602",
+        "identifier": "IM-SC-Anniversary02-DSP",
+        "name": "IM-SC-Anniversary02-DSP",
+        "seoURL": "im-sc-anniversary02-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198603",
+        "identifier": "IM-SC-Birthday02-AFF",
+        "name": "IM-SC-Birthday02-AFF",
+        "seoURL": "im-sc-birthday02-aff",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198725",
+        "identifier": "MBP-SC-Shop By Price-Under $50",
+        "name": "Gourmet Chocolate Gifts Under $50",
+        "seoURL": "chocolate-gifts-under-50",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1",
+        "horizontalGnav": "0"
+    },
+    {
+        "categoryId": "400198604",
+        "identifier": "IM-SC-Birthday02-DSP",
+        "name": "IM-SC-Birthday02-DSP",
+        "seoURL": "im-sc-birthday02-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198726",
+        "identifier": "MBP-SC-Celebrations Passport",
+        "name": "Celebrations Passport",
+        "seoURL": "passport-chocolates",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400202502",
+        "identifier": "MBP-SC-Celebrations Birthday Gifts",
+        "name": "Celebrations Birthday Chocolate Gifts",
+        "seoURL": "celebrations-birthday-chocolate-gifts-sc"
+    },
+    {
+        "categoryId": "400198059",
+        "identifier": "MBP-SC-Shop By Price-Simply WOW",
+        "name": "Simply WOW",
+        "seoURL": "simply-wow",
+        "guidedNavFlag": "0",
+        "seoSearchable": "1"
+    },
+    {
+        "categoryId": "400202504",
+        "identifier": "MBP-SC-Best Sellers Offers",
+        "name": "Best Sellers Offers",
+        "seoURL": "best-sellers-offers",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198577",
+        "identifier": "IM-SC-Black Friday-DSP",
+        "name": "IM-SC-Black Friday-DSP",
+        "seoURL": "im-sc-black-friday-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198578",
+        "identifier": "IM-SC-Cyber Monday-DSP",
+        "name": "IM-SC-Cyber Monday-DSP",
+        "seoURL": "im-sc-cyber-monday-dsp",
+        "guidedNavFlag": "0"
+    },
+    {
+        "categoryId": "400198579",
+        "identifier": "IM-SC-Free Shipping-DSP",
+        "name": "IM-SC-Free Shipping-DSP",
+        "seoURL": "im-sc-free-shipping-dsp",
+        "guidedNavFlag": "0"
     }
 ]
 
@@ -43099,7 +45173,7 @@ masterMap = {
             "1001": 400064998, 
             "1002": 3400000029, 
             "1009": 400086090, 
-            "1010": 400131053, 
+            "1010": 400199990, 
             "1012": 3200000046, 
             "1018": null, 
             "1019": null, 
@@ -43227,6 +45301,20 @@ masterMap = {
             "1009": 400086207, 
             "1010": 400134992, 
             "1012": 400026031, 
+            "1018": null, 
+            "1019": null, 
+            "1020": null, 
+            "1025": 400198522
+        }
+    },
+    "stPatricksDay": {
+        "categorization": "stPatricksDay",
+        "mapping": {
+            "1001": 400077241, 
+            "1002": 3400000057, 
+            "1009": 400086155, 
+            "1010": 400137995, 
+            "1012": 3200000054, 
             "1018": null, 
             "1019": null, 
             "1020": null, 
@@ -43391,7 +45479,7 @@ masterMap = {
         "categorization": "bestSellers - default",
         "mapping": {
             "1001": 400067498, 
-            "1002": 3400000029, 
+            "1002": 400086184, 
             "1009": 400086090, 
             "1010": 400131053, 
             "1012": 400022482, 
@@ -43403,10 +45491,12 @@ masterMap = {
     }
 }
 
+let count = 0;
+
 // reformat return object
 // creates keys for each collection and the mapping table for each
 function reformat (collections) {
-
+    // iterate through each collection
     for (let i = 0; i < collections.length; i++) {
         count++;
         let obj = collectionsClean[collections[i].categoryId]
@@ -43463,6 +45553,9 @@ function categoryCheck (word) {
         case "well":
             return "getWell"
             break;
+        case "getwell":
+            return "getWell"
+            break;
         case "housewarming":
             return "housewarming"
             break; 
@@ -43472,13 +45565,25 @@ function categoryCheck (word) {
         case "sorry":
             return "sorry"
             break;  
+        case "patrick":
+            return "stPatricksDay"
+            break;  
+        case "patrick\'s":
+            return "stPatricksDay"
+            break;  
         case "because":
             return "justBecause"
             break;
         case "just":
             return "justBecause"
             break;
+        case "justBecause":
+            return "justBecause"
+            break;
         case "baby":
+            return "newBaby"
+            break;
+       case "newBaby":
             return "newBaby"
             break;
         case "newborn":
@@ -43502,6 +45607,9 @@ function categoryCheck (word) {
         case "thank":
             return "thankYou"
             break;  
+        case "thankYou":
+            return "thankYou"
+            break; 
         case "year":
             return "newYear"
             break;
@@ -43550,6 +45658,9 @@ function categoryCheck (word) {
         case "labor":
             return "laborDay"
             break;
+        case "laborDay":
+            return "laborDay"
+            break;
         case "halloween":
             return "halloween"
             break;   
@@ -43557,6 +45668,9 @@ function categoryCheck (word) {
             return "veteransDay"
             break;
         case "veterans":
+            return "veteransDay"
+            break;
+        case "veteransDay":
             return "veteransDay"
             break;
         case "veteran\'s":
@@ -43579,9 +45693,7 @@ let jsonOutput = createMatrix(collectionsClean);
 
 console.log(jsonOutput);
 
-
 var fs = require("fs");
-
 
 fs.writeFile("./collectionMap.json", JSON.stringify(jsonOutput), (err) => {
     if (err) {
